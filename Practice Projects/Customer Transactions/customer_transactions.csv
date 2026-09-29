@@ -1,0 +1,2001 @@
+﻿Customer ID,Name,Surname,Gender,Birthdate,Transaction Amount,Date,Merchant Name,Category
+752858,Sean,Rodriguez,F,10/20/2002,35.47,4/3/2023,Smith-Russell,Cosmetic
+26381,Michelle,Phelps,,10/24/1985,2552.72,7/17/2023,"Peck, Spence and Young",Travel
+305449,Jacob,Williams,M,10/25/1981,115.97,9/20/2023,Steele Inc,Clothing
+988259,Nathan,Snyder,M,10/26/1977,11.31,1/11/2023,"Wilson, Wilson and Russell",Cosmetic
+764762,Crystal,Knapp,F,11/2/1951,62.21,6/13/2023,Palmer-Hinton,Electronics
+576539,Monica,Bartlett,F,10/20/2001,99.14,8/24/2023,"Tran, Torres and Joyce",Cosmetic
+124681,Thomas,Shaw,,10/26/1976,145.94,8/30/2023,"Evans, Griffin and Torres",Cosmetic
+521807,Kelsey,Pena,F,10/28/1968,161.39,2/8/2023,Miller PLC,Cosmetic
+504238,Denise,Porter,M,10/31/1957,77.73,1/12/2023,Jackson-Morgan,Restaurant
+583532,Alexander,Richardson,F,10/27/1974,142.85,6/7/2023,"Blake, Mays and Anderson",Clothing
+924841,Kimberly,Ball,M,10/26/1976,928.68,2/11/2023,"Miller, Walker and Bond",Travel
+123235,Hunter,Peters,M,10/28/1971,387.78,9/24/2023,"Barker, Ortiz and Cox",Market
+840546,Julie,Russell,M,10/28/1968,142.07,8/7/2023,Taylor-Morrow,Cosmetic
+516709,Christopher,Harris,M,10/19/2004,107.44,4/22/2023,Gonzalez-Hunter,Cosmetic
+683760,Amber,Brown,M,10/19/2004,54.31,4/10/2023,Underwood-Contreras,Cosmetic
+777948,Amy,Pierce,F,10/29/1966,79.57,1/5/2023,Rodriguez Ltd,Restaurant
+440706,Elizabeth,Barnes,F,10/31/1957,441.18,2/28/2023,Wilson-Zavala,Market
+793150,Chad,Reese,,10/30/1962,475.82,4/22/2023,Hughes Inc,Market
+27213,Michelle,Holden,M,11/2/1949,106.26,5/20/2023,Morris-Foster,Cosmetic
+401993,Steven,Smith,M,10/21/1999,1468.14,5/14/2023,"Thompson, Lopez and Mason",Travel
+103920,Patrick,Price,M,10/26/1977,40.08,5/28/2023,"Barber, Williamson and Norman",Clothing
+943548,Daniel,Pitts,,10/22/1995,39.87,6/1/2023,Shaw-Elliott,Clothing
+178351,Robert,Rice,F,10/22/1993,151.73,6/29/2023,Solis-Washington,Clothing
+615357,Sara,Michael,M,10/22/1993,17.05,4/17/2023,Wright Inc,Restaurant
+111696,Anthony,Miller,,10/23/1991,108.3,6/14/2023,"Nguyen, Patel and Dudley",Cosmetic
+6905,Jessica,White,M,10/25/1981,366.56,2/1/2023,"Berry, Reeves and Best",Market
+291542,Kimberly,Ross,M,10/31/1959,924.23,3/18/2023,"Pacheco, Sullivan and Jones",Electronics
+517389,Brian,Jones,F,10/31/1956,781.85,3/30/2023,Dorsey Inc,Travel
+744599,William,Contreras,F,10/20/2003,1479.49,4/15/2023,"Fuller, Jones and White",Travel
+726547,Adam,Hansen,,10/29/1966,94.69,9/13/2023,Johnson-Campbell,Cosmetic
+485562,Betty,Atkinson,F,10/22/1994,58.97,9/21/2023,"Freeman, Bush and Zuniga",Cosmetic
+28347,Pamela,Nguyen,M,10/26/1978,148.26,6/6/2023,Schwartz-Stephens,Cosmetic
+899551,Sarah,Warner,F,10/30/1961,157.6,7/20/2023,Cook-Williams,Clothing
+485255,Amy,Mercer,F,10/28/1970,2071.69,9/20/2023,"Peck, Horn and Stanley",Travel
+668341,Manuel,Robinson,M,10/30/1961,251.83,6/21/2023,Gonzalez-Castro,Market
+355400,Aaron,Martinez,F,10/26/1978,631.18,9/10/2023,Padilla-Greene,Travel
+796123,Darlene,Tucker,M,11/1/1953,1745.4,3/5/2023,Manning Inc,Travel
+343329,Hannah,Maynard,M,10/25/1980,487.43,1/14/2023,"Gilbert, Hernandez and Wilson",Electronics
+409886,Benjamin,Rice,M,10/20/2000,64.39,5/18/2023,Lynch Inc,Clothing
+11697,Jason,Johnson,F,10/20/2001,2423.86,9/2/2023,King-Wright,Travel
+13908,Scott,Harrison,F,10/20/2003,98.4,9/17/2023,"White, Bernard and Adkins",Cosmetic
+373595,Emily,Mcdaniel,F,10/24/1987,84.46,5/17/2023,Mason PLC,Restaurant
+599093,Thomas,Salas,,10/31/1956,57.83,8/6/2023,Jimenez Inc,Electronics
+370834,Katherine,Howard,F,10/21/1997,856.38,7/26/2023,Hamilton and Sons,Electronics
+261654,Kevin,Harris,,10/26/1977,147.43,6/11/2023,Thomas LLC,Cosmetic
+232533,Jose,Gould,M,10/31/1958,128.67,10/7/2023,Sanders PLC,Cosmetic
+555415,Meghan,Acosta,F,10/30/1962,50.21,3/20/2023,"Washington, Hinton and Sparks",Market
+717993,Michael,Huang,M,10/21/1998,71.38,9/26/2023,"French, Wright and Tapia",Clothing
+573771,Dana,Hunt,F,10/23/1991,331.08,6/30/2023,Torres LLC,Electronics
+59223,Lisa,Ross,F,11/2/1949,711.74,7/7/2023,Diaz LLC,Travel
+801291,Sydney,Spencer,,10/25/1980,1374.86,3/19/2023,Johnson LLC,Travel
+858686,Brian,Mcintyre,F,10/20/2003,39.24,2/18/2023,Morales-Velasquez,Restaurant
+652558,Melanie,Greene,F,10/22/1995,16.68,5/1/2023,Barnes-Walton,Cosmetic
+39683,Anthony,Hoffman,M,10/25/1982,112.63,5/25/2023,Ellis-Zimmerman,Cosmetic
+344613,Michelle,Kim,F,10/31/1957,185.8,5/7/2023,Nguyen-Bradley,Cosmetic
+62730,Matthew,Aguilar,M,10/26/1978,58.11,3/31/2023,"Brooks, Reed and Adams",Restaurant
+816425,Tammy,Williams,F,10/29/1966,66.45,6/23/2023,Cooper Inc,Restaurant
+641954,Justin,Mathews,F,10/22/1995,2035.14,9/14/2023,"Beck, Morris and Murphy",Travel
+904827,Matthew,Hobbs,F,10/30/1963,153.73,6/20/2023,"Blankenship, Atkinson and Howard",Travel
+779830,Ann,Sullivan,F,11/1/1955,130.7,2/12/2023,Hester-Greer,Cosmetic
+765738,Joshua,Burgess,F,10/21/1998,180.37,8/21/2023,Wilcox PLC,Market
+805732,Sabrina,White,F,10/25/1980,2612.99,7/3/2023,"Woodard, Boyd and Mays",Travel
+982485,Leslie,Campbell,,10/25/1982,139.2,8/4/2023,"White, Hensley and Hayes",Market
+955318,Jeffery,Morgan,F,10/27/1972,235.47,6/18/2023,"Collins, Hill and Chapman",Clothing
+738539,Mary,Pittman,,10/19/2005,52.71,9/26/2023,"Butler, Stewart and Peterson",Clothing
+396758,Ashley,Carr,M,10/26/1976,12.26,6/10/2023,Howard-Miller,Restaurant
+884080,Joseph,Meadows,F,10/25/1980,147.62,3/15/2023,"Jackson, Ramirez and Jones",Cosmetic
+34415,Juan,Kelly,F,10/22/1995,2770.66,7/28/2023,Peterson LLC,Travel
+164888,Christina,Ellis,F,10/20/2001,654.39,7/29/2023,Ward-Klein,Electronics
+677049,Martha,Gonzales,M,11/2/1951,23.42,5/17/2023,Kelly-Jones,Clothing
+289003,John,Woods,F,10/31/1957,1949.03,1/1/2023,Stephens-Shelton,Travel
+385557,Keith,Clark,F,10/20/2003,47.85,4/17/2023,Smith Inc,Restaurant
+665628,Alejandro,Reed,F,10/23/1990,40.42,8/20/2023,"Odonnell, Bright and Lewis",Clothing
+95705,Amber,Taylor,F,10/29/1967,263.62,1/20/2023,Rogers and Sons,Clothing
+697024,Michael,Hines,,10/30/1961,76.6,8/4/2023,Oconnor PLC,Cosmetic
+273487,David,Morrison,F,10/20/2002,21.85,4/6/2023,Yu and Sons,Restaurant
+828224,Jennifer,Quinn,M,11/2/1949,154.36,10/8/2023,Phillips Inc,Market
+641695,Nicholas,Jones,F,10/20/2001,40.39,9/14/2023,"Mccormick, Adkins and Cobb",Restaurant
+410859,Christy,Ramos,F,10/22/1995,50.69,10/2/2023,Rogers-Levy,Market
+403963,Jamie,Collier,,10/28/1970,311.04,5/30/2023,Matthews PLC,Market
+526718,Douglas,Martin,M,10/29/1967,1616.19,7/1/2023,"Jackson, Ray and Cooper",Travel
+364086,Holly,Jackson,M,11/1/1952,839.12,3/23/2023,Carey Ltd,Electronics
+178510,Kimberly,Klein,F,10/28/1969,287.34,8/18/2023,"Chang, Blevins and Miller",Market
+143865,Fernando,Oliver,F,10/31/1956,246.62,8/2/2023,Patterson-Davenport,Market
+946664,Yvonne,Silva,M,10/31/1958,168.28,1/26/2023,Rice-Ramos,Cosmetic
+800246,Margaret,Carter,,10/21/1996,96.41,3/21/2023,"Miller, Foster and Reed",Cosmetic
+884621,Charles,Glover,F,10/30/1963,344.34,7/20/2023,Kim and Sons,Electronics
+420838,Aaron,Mckee,,10/27/1975,231.65,2/21/2023,Arnold-Blackburn,Market
+59633,Derrick,Aguilar,M,10/29/1967,211.58,3/27/2023,Montgomery-Ruiz,Market
+361536,Kurt,Dennis,M,10/28/1970,234.16,5/24/2023,"Davis, Griffin and Gates",Clothing
+496809,Timothy,Collier,M,11/2/1950,10.51,9/28/2023,"Baker, Schaefer and Brown",Market
+471552,Courtney,Johnson,M,10/25/1981,304.25,4/16/2023,Bryant-Sanchez,Electronics
+450062,Joy,Padilla,F,11/2/1951,278.38,7/23/2023,Frost-Smith,Market
+925651,Carol,Wilson,M,10/26/1976,159.44,5/18/2023,Arnold Ltd,Clothing
+155186,Lawrence,Williams,F,10/19/2005,21.79,8/29/2023,Cook-Moore,Restaurant
+838514,Andrew,Armstrong,M,10/19/2004,231.35,3/2/2023,Miller Inc,Clothing
+981118,Anthony,Arnold,M,10/28/1971,2362.42,6/28/2023,"Thomas, Simpson and Tyler",Travel
+658610,Nicole,Peterson,M,10/29/1965,395.33,3/20/2023,"Bryant, Mcbride and White",Market
+463162,Stephanie,Miller,,10/31/1958,958.43,4/28/2023,Young and Sons,Electronics
+707412,Derek,Thompson,F,10/24/1985,94.93,8/27/2023,"Fuller, Bowen and Davis",Restaurant
+514027,Nicole,Kaufman,,10/29/1964,521.53,6/14/2023,Jackson and Sons,Electronics
+370935,Hector,Saunders,M,10/29/1966,56.48,6/23/2023,"Waters, Morse and Gray",Market
+986863,Jesse,Clark,F,10/27/1973,58.8,5/15/2023,"Richard, Hill and Cohen",Restaurant
+67931,Rebecca,Gamble,,10/30/1963,313.71,1/31/2023,Dawson-Ellis,Market
+908317,Catherine,Evans,M,10/25/1980,22.38,8/27/2023,"Green, Wilson and Henry",Restaurant
+347539,Andres,Mckinney,M,10/29/1966,11.83,1/25/2023,Smith-Martinez,Restaurant
+726123,Alexander,Li,,10/20/2000,202.12,6/12/2023,Patel LLC,Market
+79597,Lindsay,Thompson,M,11/1/1955,246.7,5/22/2023,Moreno-Fernandez,Travel
+95898,Raymond,Ayala,M,10/28/1969,58.75,5/5/2023,Webster and Sons,Restaurant
+802243,Alison,Leon,F,10/27/1973,2128,5/28/2023,Hays-Leon,Travel
+805206,Lisa,Chavez,F,11/2/1949,86.96,8/28/2023,Horton LLC,Cosmetic
+140219,Michele,Anderson,F,10/24/1986,79,6/8/2023,"Brown, Jones and Perez",Cosmetic
+796551,Patricia,Jordan,F,10/31/1956,141.06,5/12/2023,Bass Inc,Cosmetic
+465123,Samuel,Cabrera,F,10/27/1972,95.21,5/26/2023,Fleming-Cantrell,Restaurant
+428576,Jennifer,Tapia,F,10/25/1981,11.98,4/18/2023,Miller-Taylor,Restaurant
+672487,Elizabeth,Johnson,M,10/30/1961,381.13,9/17/2023,Williams Inc,Market
+471101,Christopher,Lewis,,10/25/1980,442.32,6/20/2023,Parker-Carey,Electronics
+661557,Stephanie,Tran,F,10/29/1964,2311.32,10/10/2023,Roberts and Sons,Travel
+354655,Diane,Hudson,F,10/19/2004,269.51,8/9/2023,Robertson-Golden,Clothing
+41196,Michael,Williams,F,10/26/1978,1854.31,4/3/2023,"Valdez, Carter and Brown",Travel
+202678,Joseph,Powell,F,10/29/1964,1270.81,2/21/2023,Potts-Wood,Travel
+292008,Kelsey,Ibarra,F,10/20/2003,104.15,6/15/2023,Higgins Ltd,Clothing
+313343,William,Willis,M,10/23/1988,996.09,6/24/2023,Jones and Sons,Electronics
+918581,Carrie,Nguyen,,10/21/1998,230.32,5/14/2023,Harrison-Rose,Clothing
+449817,Betty,Charles,F,10/26/1979,77.12,4/19/2023,"Moore, Thompson and Russell",Restaurant
+147364,Shannon,Ruiz,M,10/30/1961,77.43,3/23/2023,Casey-Powers,Electronics
+595276,Carolyn,Brown,M,10/27/1975,429.49,2/5/2023,"Hayes, Ross and Smith",Market
+266510,Travis,Reed,,10/20/2003,537.66,3/24/2023,"Perkins, Jimenez and Hunter",Electronics
+138959,Regina,Woods,,10/22/1994,2371.02,8/22/2023,Robinson-Mitchell,Travel
+465981,Kimberly,Bennett,F,10/24/1987,1868.64,2/26/2023,"Ortiz, Carpenter and Collins",Travel
+528337,Michael,Paul,M,10/30/1960,201.37,2/21/2023,Anderson Inc,Clothing
+538549,Wayne,Madden,F,10/26/1979,149.98,7/22/2023,Stanley-Morris,Market
+806417,Selena,Lewis,,10/24/1985,75.65,6/23/2023,Stone Group,Electronics
+247945,Lisa,Morse,M,10/20/2000,134.33,1/2/2023,Vega-Jackson,Cosmetic
+880747,Sarah,Mann,M,10/23/1991,2433.47,6/13/2023,Greene Inc,Travel
+63966,Bianca,Bell,,10/25/1980,54.06,6/14/2023,Herring-Walsh,Clothing
+269658,Michael,Reid,F,10/20/2002,83.38,2/24/2023,Holt and Sons,Clothing
+998320,Brenda,Haas,M,10/30/1963,90.16,9/17/2023,Hill LLC,Restaurant
+538301,Anita,Ramirez,,10/21/1997,274.8,7/14/2023,Brown Group,Clothing
+664294,Ashley,Smith,M,10/19/2005,927.47,1/7/2023,Turner Group,Travel
+949304,Deborah,Leonard,F,10/21/1997,66.11,1/14/2023,Nguyen-Booth,Clothing
+71844,Christopher,Harmon,F,10/20/2003,144.23,1/4/2023,"Frazier, Edwards and Wall",Cosmetic
+160904,Scott,Chase,M,10/28/1971,2163.17,4/10/2023,"Hudson, Fry and Moore",Travel
+140041,Erika,Vazquez,F,10/29/1965,701.38,1/2/2023,Miller LLC,Electronics
+760246,Joseph,Jones,F,10/25/1981,50.36,4/1/2023,"Jones, Sutton and Burton",Restaurant
+954346,Patrick,Knight,M,11/1/1955,94.07,3/17/2023,Lewis Ltd,Cosmetic
+603507,Scott,Daniels,M,10/30/1960,125.92,7/29/2023,"Kelly, Osborne and Moore",Clothing
+428653,Shannon,Duke,F,10/20/2000,193.66,5/8/2023,"Wright, Christian and Moon",Clothing
+483307,Joseph,Torres,F,10/20/2001,78.67,9/19/2023,Lang-Powell,Electronics
+80027,Denise,Mathews,,10/31/1957,264.96,3/16/2023,Stone-Joseph,Market
+524694,Michael,Yang,F,10/28/1968,974.83,3/3/2023,"Jones, Cortez and Weaver",Travel
+779318,Robert,Mendoza,F,10/24/1985,13.91,2/14/2023,Shelton PLC,Restaurant
+714392,Madison,Liu,F,10/22/1992,199.06,7/17/2023,Whitehead-Santos,Clothing
+97841,Kristin,Richardson,,10/29/1966,624.17,5/15/2023,"Hart, Lynch and Gonzalez",Electronics
+814720,James,Stewart,,10/23/1991,202.51,4/9/2023,"Anderson, Garcia and Beard",Market
+713796,Mark,Anderson,M,10/28/1969,88.84,10/6/2023,Haney-Palmer,Cosmetic
+999791,Kyle,Wade,F,10/25/1981,50.64,5/21/2023,Brown Ltd,Restaurant
+514760,Harold,Smith,M,10/31/1956,212.61,10/5/2023,Melendez-Bennett,Clothing
+671409,James,Parker,M,10/28/1971,1658.37,6/1/2023,"Hall, Wright and Jefferson",Travel
+787275,Rebecca,Lopez,M,10/22/1995,53.81,2/6/2023,Nelson Inc,Market
+416580,Sherri,Rich,M,10/28/1971,45.31,3/17/2023,"Wright, James and Smith",Cosmetic
+584239,Christopher,Campbell,M,10/31/1958,73.39,5/26/2023,Johnson Inc,Restaurant
+883989,Cameron,Nielsen,M,10/27/1974,45.99,7/11/2023,Evans LLC,Restaurant
+810891,Chase,Garcia,F,10/23/1988,131.53,4/22/2023,Ingram-Lucas,Electronics
+311624,Donald,Glass,M,10/24/1984,31.97,9/21/2023,Weiss Ltd,Clothing
+173126,Michael,Williams,M,10/24/1985,288.53,2/17/2023,Mcmillan Inc,Clothing
+820056,Christopher,Reynolds,M,10/22/1994,2774.08,10/10/2023,Hall and Sons,Travel
+683369,Mark,Bailey,F,11/2/1948,306.21,6/8/2023,"Velasquez, Shah and Thomas",Market
+269539,John,Davis,F,10/27/1972,214.52,4/7/2023,"Aguilar, Rodriguez and Cruz",Clothing
+757732,Roger,Riley,F,10/30/1962,85.54,8/16/2023,Adkins-Weiss,Cosmetic
+604713,Ashley,Campbell,F,10/30/1960,105.78,2/4/2023,"Levy, Nelson and Wilson",Clothing
+77950,Jason,Jones,M,10/19/2004,424.61,9/21/2023,Campbell-Newman,Market
+427939,Gwendolyn,Wiley,M,10/28/1969,136.61,3/7/2023,Wilson PLC,Clothing
+152372,Richard,Williams,,10/26/1976,775.24,5/23/2023,Jones Group,Electronics
+197007,Kathy,Maldonado,F,10/21/1999,273.92,6/17/2023,"Hernandez, Wiggins and Duncan",Clothing
+308476,Sean,Reilly,F,10/20/2000,140.4,7/17/2023,Garcia Group,Clothing
+805058,Kayla,Holt,M,10/25/1983,289.85,3/28/2023,Thornton-Ibarra,Electronics
+212969,Amy,Powell,F,10/20/2001,209.17,4/8/2023,Guerrero-Delgado,Market
+111995,Melissa,Turner,F,10/27/1973,73.27,9/4/2023,Reyes-Perkins,Restaurant
+613364,Tina,Lucas,F,10/25/1982,284.62,6/19/2023,James-Bennett,Electronics
+838364,Matthew,Moody,M,10/27/1972,866.42,7/17/2023,"Hill, Bell and Morris",Electronics
+252520,Anthony,Armstrong,,10/19/2004,2720.55,2/13/2023,Proctor-Rodgers,Travel
+358563,Richard,Lowery,M,10/24/1986,36.44,8/29/2023,"Robles, Jackson and Lang",Clothing
+231013,Joan,Marquez,M,11/1/1953,529.08,4/14/2023,Mullen-Jones,Travel
+311124,Jacqueline,Gonzalez,F,10/26/1977,524.45,9/3/2023,Downs-Donovan,Electronics
+752844,Paul,Potter,M,10/24/1986,31.99,1/12/2023,Mejia-Farley,Clothing
+872305,Kevin,Hensley,F,11/2/1950,123.18,1/2/2023,Chan-Myers,Clothing
+696669,Jose,Green,,10/31/1956,10.02,5/6/2023,Reed-Warner,Cosmetic
+455713,Erin,Baker,M,10/27/1974,59,4/12/2023,Fisher Group,Restaurant
+985602,Kimberly,Gonzalez,M,11/2/1950,232.62,9/3/2023,"Orozco, Patterson and Robinson",Clothing
+209862,Barbara,Collins,M,10/23/1990,173.02,1/17/2023,Nichols-Brown,Cosmetic
+259800,Kelly,Bush,F,10/26/1976,168.69,2/14/2023,"Jones, Franklin and Lambert",Cosmetic
+733597,David,Morgan,F,10/24/1986,58.04,2/22/2023,Mann-Mccormick,Restaurant
+655471,Amy,Davis,F,10/19/2005,464.17,2/22/2023,Burke Group,Market
+827843,Jacqueline,Gordon,F,10/27/1973,766.06,5/15/2023,Wu LLC,Travel
+726336,David,Barber,F,11/1/1953,39.24,1/17/2023,Lopez-Gonzalez,Restaurant
+7793,Linda,Pittman,F,11/2/1948,12.67,2/16/2023,Gray-Smith,Restaurant
+151825,Sara,Gonzalez,M,11/2/1949,1981.24,10/4/2023,"Frey, Davis and Davis",Travel
+178979,Jennifer,Villegas,M,10/24/1984,215.27,2/3/2023,Taylor-Lewis,Market
+59423,Franklin,Mason,F,10/30/1962,290.5,5/16/2023,"Parsons, Ballard and Kelley",Clothing
+957395,Eric,Richard,M,10/23/1988,425.61,9/3/2023,Scott Ltd,Market
+187306,Michael,Acosta,,10/30/1962,226.16,7/1/2023,"Goodwin, Lopez and Skinner",Clothing
+379290,Robert,Ramos,M,10/28/1970,115.83,7/20/2023,Duran-Hawkins,Clothing
+508537,Whitney,Jones,,10/30/1960,147.81,8/9/2023,"Thomas, Harrell and Davenport",Market
+760506,Anthony,Ball,M,10/28/1971,2471.45,8/4/2023,Richards Ltd,Travel
+830134,Manuel,Mullen,M,10/25/1983,200.02,2/19/2023,"Jennings, Lopez and Lamb",Clothing
+228033,George,Sullivan,M,10/30/1960,1893.84,9/24/2023,Cox-Brown,Travel
+115511,Brandy,Whitehead,M,11/2/1950,265.58,4/25/2023,Nicholson-Gonzales,Clothing
+857685,Todd,Hunt,M,10/25/1983,105.68,6/23/2023,"Meyer, Ryan and Conway",Market
+659582,Brianna,Brown,F,10/21/1996,18.96,6/11/2023,"Ellis, Chambers and Wilson",Cosmetic
+845147,Teresa,Hunter,F,11/1/1954,241.12,8/21/2023,Fernandez Group,Clothing
+975406,Tabitha,Wood,,10/30/1962,2648.72,8/5/2023,Little-Solomon,Travel
+216148,Sheila,Hall,M,10/25/1980,488.7,4/7/2023,Robinson-Gibson,Electronics
+325243,Cory,Hernandez,F,10/27/1975,98.1,5/19/2023,"Gonzalez, Lowe and Key",Restaurant
+36470,Mary,Rodriguez,F,10/26/1978,764.15,7/4/2023,"Hernandez, Johnson and Anderson",Electronics
+895352,Kimberly,Smith,F,10/31/1958,82.77,4/24/2023,"Robles, Miller and Perez",Restaurant
+512231,Gregory,Ortega,M,10/26/1977,193.57,6/4/2023,"Smith, Kerr and Brooks",Market
+733759,Kim,Gonzalez,F,10/22/1993,593.21,2/22/2023,Hernandez LLC,Electronics
+169890,Cassandra,Larson,M,10/31/1959,2585.86,5/30/2023,Martinez Inc,Travel
+746742,Deborah,Johnson,F,10/20/2002,484.35,6/26/2023,Tucker-Moreno,Market
+376133,Alexander,Holmes,M,10/30/1960,359.88,10/4/2023,Stout-Brock,Market
+898170,Gary,Montoya,M,10/22/1993,165.96,4/22/2023,Fox Inc,Cosmetic
+766756,Audrey,Ho,M,10/27/1973,52.29,9/13/2023,Davis Group,Market
+559660,Ethan,Jackson,F,10/20/2002,76.07,7/11/2023,"Case, Johnson and Wells",Restaurant
+523959,Julie,Nelson,M,10/23/1988,161.17,2/27/2023,"Miller, Garza and Harvey",Cosmetic
+135321,Erika,Owens,M,10/26/1977,692.42,9/4/2023,Norton LLC,Electronics
+956541,Jillian,Greene,F,11/2/1949,85.14,4/30/2023,Anderson-Stephens,Cosmetic
+542031,Denise,Wolfe,F,11/1/1953,115.53,7/16/2023,Berry-Huerta,Market
+875584,Monique,Bright,M,11/1/1954,51.63,9/2/2023,Tucker Group,Clothing
+611091,Melissa,Burns,M,10/27/1975,61.23,8/10/2023,"Smith, Everett and Ellis",Restaurant
+670772,Nicholas,Maynard,,11/2/1949,603.67,3/30/2023,Rodriguez Group,Electronics
+527458,Edward,Pitts,M,10/20/2001,327.2,4/29/2023,Lewis Ltd,Electronics
+403988,Jillian,Gonzales,M,10/30/1963,98.19,6/15/2023,"Aguirre, Thompson and Davis",Restaurant
+7829,Kathleen,Carey,M,10/30/1962,18.03,6/16/2023,Gonzalez-Larson,Restaurant
+99529,Claudia,Gillespie,M,10/23/1991,128.19,6/17/2023,Li-Lucas,Market
+889604,Caitlyn,Dyer,F,10/26/1977,97.47,1/2/2023,Guzman Ltd,Restaurant
+531316,Robert,Snyder,F,10/19/2005,537.07,6/24/2023,Williams Group,Travel
+443377,Autumn,Hall,M,10/22/1994,791.56,1/2/2023,Bailey and Sons,Electronics
+723676,Christopher,York,F,10/27/1975,87.06,2/19/2023,"James, West and Smith",Clothing
+609070,Jesse,Dodson,M,11/2/1950,741.27,7/2/2023,Chandler-Watkins,Electronics
+848726,Leslie,Walker,M,10/22/1994,527.27,2/21/2023,Green LLC,Electronics
+966310,Daniel,Jenkins,M,10/25/1980,80.19,2/10/2023,Taylor-Thompson,Restaurant
+618528,Benjamin,Carpenter,M,10/25/1983,14.92,1/4/2023,Owens LLC,Restaurant
+696639,Brianna,Harris,M,10/31/1956,196.46,1/24/2023,Wood-Williams,Electronics
+537845,Justin,Reed,,10/22/1993,424.43,4/2/2023,Nixon-Thompson,Market
+202536,Alex,Bryant,F,10/25/1981,505.33,8/17/2023,Garcia and Sons,Electronics
+455049,Jeremiah,Austin,F,10/21/1999,1641.29,6/20/2023,Haley-Smith,Travel
+893073,Sheila,Martinez,F,10/31/1959,122.58,2/7/2023,"Romero, Woods and Flores",Cosmetic
+513376,Crystal,Brown,,10/28/1971,274.06,10/3/2023,Day LLC,Clothing
+6526,Joseph,Horton,F,10/28/1969,344.11,2/17/2023,"Cook, Estrada and Anderson",Market
+807777,Zachary,Cooley,M,11/2/1949,83,3/29/2023,Henderson Ltd,Restaurant
+557862,Michael,Miles,F,10/20/2002,2045.17,7/4/2023,Carter Group,Travel
+26510,Jason,Lang,,10/30/1960,93.86,6/16/2023,"Hernandez, Smith and Molina",Market
+384523,Jose,Ruiz,M,11/2/1950,265.62,1/22/2023,Stone Ltd,Electronics
+491218,Angela,Harmon,,10/28/1968,91.53,5/31/2023,"Henderson, Brooks and Sanchez",Market
+382546,Tristan,Gray,,10/19/2004,742.48,6/22/2023,"Powell, Spencer and Abbott",Electronics
+326446,Jose,Taylor,M,11/1/1954,2260.68,5/5/2023,Alexander-Miller,Travel
+124147,Felicia,Simon,F,10/28/1969,784.94,10/5/2023,"Lester, West and Walker",Travel
+401596,Chelsea,King,F,10/21/1997,125.32,1/28/2023,"Cain, Ross and Sanchez",Cosmetic
+469417,Kimberly,Maynard,F,11/2/1949,998,5/20/2023,"Parker, Fuller and Coleman",Electronics
+66785,Kyle,Smith,F,10/30/1962,81.6,9/3/2023,Sanders-Lamb,Restaurant
+616911,Glenn,Wright,F,10/28/1970,103.34,8/20/2023,Coleman LLC,Cosmetic
+643778,Amber,Gonzales,F,10/25/1983,49.77,7/29/2023,Carter-Garcia,Restaurant
+485816,Tamara,Wilson,M,10/28/1968,168.02,1/27/2023,Mcintosh-Snyder,Cosmetic
+951432,Angela,Ross,F,10/29/1967,2028.85,10/2/2023,Heath Group,Travel
+954845,Alicia,Mcintyre,M,10/25/1983,811.1,5/21/2023,Rivas-Anderson,Travel
+583892,Brian,Arnold,F,10/21/1999,1343.51,6/5/2023,Le Group,Travel
+88900,Joan,Snyder,M,10/29/1965,10.96,9/1/2023,Smith LLC,Cosmetic
+83144,James,Kirk,F,10/19/2005,99.51,9/7/2023,Rodriguez-Nguyen,Cosmetic
+736259,Paul,Wilson,M,10/29/1967,1035.32,3/11/2023,"Barnett, Price and Perkins",Travel
+224307,Carlos,Hughes,M,10/31/1958,31.92,6/19/2023,Clark-Savage,Restaurant
+21099,William,Santiago,M,10/26/1976,263.9,7/4/2023,Edwards-Rodgers,Market
+840937,Kathryn,Little,F,10/24/1986,891.48,1/21/2023,"Dennis, Sanchez and Collins",Travel
+240657,Michelle,Smith,F,10/20/2000,836.15,4/16/2023,Proctor-Davis,Electronics
+110112,Deborah,Becker,M,10/30/1962,74.11,3/4/2023,Massey Inc,Restaurant
+579730,Tommy,Snyder,F,10/23/1988,43.66,9/3/2023,Foster-Lopez,Market
+526777,Michael,Adams,F,10/31/1956,74.03,1/12/2023,Kim LLC,Restaurant
+594622,Michael,Roberts,M,10/20/2000,2560.5,6/5/2023,Wilkinson Inc,Travel
+787347,Nicholas,Soto,,10/25/1980,18.65,8/6/2023,"Rogers, Flowers and Dennis",Cosmetic
+439045,Derrick,Nelson,F,10/29/1965,2695.47,9/14/2023,"Lee, Mahoney and Vargas",Travel
+569429,Peter,Cunningham,F,10/24/1985,66.13,5/3/2023,Robinson-Joseph,Market
+701139,Paul,Gomez,,10/25/1980,243.25,2/28/2023,Vega and Sons,Clothing
+134095,Frank,Hudson,F,10/24/1985,1547.47,5/31/2023,Davenport LLC,Travel
+248729,Alexis,Harrell,M,10/26/1976,83.89,3/18/2023,Atkins and Sons,Cosmetic
+303872,William,Medina,M,10/19/2004,2428.68,7/1/2023,"Thomas, Fisher and Young",Travel
+721258,Stephanie,Stewart,F,10/24/1984,97.23,10/10/2023,Daniel PLC,Cosmetic
+695579,Isaiah,Schultz,M,10/22/1993,229.6,9/8/2023,"Tran, Roberts and Coleman",Clothing
+384380,Mark,Hill,M,11/2/1950,444.59,9/27/2023,"Holland, Colon and Joseph",Electronics
+881230,Thomas,Shields,M,10/21/1997,113.58,9/10/2023,Jenkins Group,Cosmetic
+100620,Donna,Nguyen,F,11/2/1951,18.49,6/18/2023,"Cobb, Perez and Thomas",Restaurant
+28958,David,Kelley,M,10/23/1989,861.67,2/27/2023,Cobb-Smith,Travel
+799062,Rachel,Mueller,M,10/26/1979,120.31,5/10/2023,"Stevens, Armstrong and Brown",Market
+459845,Pamela,Kennedy,F,11/2/1949,2379.84,8/10/2023,"Garcia, Smith and Gay",Travel
+387252,Daniel,Donaldson,F,10/27/1972,631.76,3/17/2023,Reed Group,Electronics
+747675,Samuel,Jackson,M,11/2/1950,480.61,8/1/2023,Williams-Sanford,Travel
+123959,William,Parker,M,11/2/1949,11.52,5/12/2023,Mitchell-Brooks,Restaurant
+106971,Nicholas,Jordan,M,10/26/1979,2821.06,5/15/2023,"Compton, Dunn and Gilbert",Travel
+179746,John,Bradley,M,11/1/1954,986.87,7/18/2023,Davis-Meadows,Electronics
+478134,Anthony,Forbes,M,10/29/1967,139.02,4/18/2023,Smith Inc,Cosmetic
+986328,Sandra,Lucas,M,10/28/1968,655.77,4/15/2023,Sweeney-Smith,Electronics
+248395,Hailey,Chan,M,10/21/1998,285.63,2/2/2023,Wilkins PLC,Market
+256977,Barbara,Nelson,M,10/26/1979,810.39,6/25/2023,Cox-Cooley,Electronics
+623669,Paula,Perez,M,10/29/1965,48.5,8/26/2023,"May, Russo and James",Clothing
+105836,Monica,Chavez,M,10/25/1982,41.92,7/23/2023,Faulkner-Conley,Restaurant
+810630,Sheila,Castro,F,10/29/1964,50.58,4/26/2023,Vasquez Ltd,Market
+260128,William,Sandoval,F,10/30/1963,537.51,6/21/2023,Romero PLC,Electronics
+392787,Terry,Harris,M,10/29/1964,1581.15,6/22/2023,Webb-Martinez,Travel
+862210,Ryan,Murphy,M,10/29/1964,27.4,3/11/2023,"Baker, Fox and Dunn",Restaurant
+726946,Nichole,Hubbard,F,11/1/1953,2326.85,4/27/2023,Gibson-Beard,Travel
+320618,Nancy,Love,M,10/28/1969,927.7,5/12/2023,Hughes-Schneider,Electronics
+920531,Clayton,Simon,M,10/25/1983,247.18,2/25/2023,"Simmons, Meyer and Miller",Electronics
+321818,Benjamin,Riddle,F,11/2/1951,265.32,2/25/2023,"Thompson, Sellers and Wilson",Electronics
+670384,Elizabeth,Davis,M,10/22/1994,154.58,7/15/2023,Price and Sons,Clothing
+512241,Gregory,Davidson,F,10/25/1982,65.41,8/16/2023,"Oconnor, Gonzalez and Larson",Clothing
+902166,Ashley,Brown,F,10/27/1972,545.65,5/13/2023,Garcia-Clark,Electronics
+197927,Joy,Burns,F,11/2/1948,25.56,10/3/2023,"White, Adams and Velasquez",Clothing
+59895,Daniel,Adkins,F,10/31/1957,711.89,5/10/2023,Solis-White,Electronics
+639867,Sara,Jackson,M,10/22/1995,311.92,2/5/2023,"Thompson, Keller and Wilson",Electronics
+367752,John,Perkins,M,10/22/1993,803.76,3/2/2023,Dudley and Sons,Electronics
+645330,Courtney,Mora,F,10/22/1992,50.23,7/1/2023,Burns-Fernandez,Cosmetic
+503926,Brian,Jordan,M,10/27/1975,930.34,3/7/2023,Wade-Brown,Travel
+664468,Jeffrey,Olsen,F,10/22/1995,1688.38,6/5/2023,Miller-Villegas,Travel
+672808,Caitlin,Morgan,F,10/31/1958,285.98,5/9/2023,"Hansen, Ortiz and Johnson",Market
+552994,Shelly,Jordan,F,10/22/1994,140.13,2/26/2023,Harris-Myers,Clothing
+282989,Joseph,Gentry,,11/2/1951,332.52,9/27/2023,"Waters, Velasquez and Patterson",Electronics
+584831,Stephanie,Pittman,M,10/28/1968,1094.06,1/12/2023,"Ware, Lambert and Bernard",Travel
+405970,Ellen,Ward,M,10/21/1999,55.48,6/19/2023,"York, Wong and Marshall",Restaurant
+855534,James,Farley,,10/31/1959,1784.28,6/18/2023,Lee-Greene,Travel
+411991,Michael,Carlson,M,10/19/2004,493.81,7/14/2023,"Brown, Barry and Colon",Market
+948021,Brandy,Braun,M,10/31/1956,175.04,8/14/2023,Bird-Hale,Electronics
+544605,Rachel,Villanueva,M,10/28/1969,177.74,4/12/2023,Patton-Johnson,Cosmetic
+519214,Marcus,Sloan,F,10/27/1974,93.27,7/12/2023,Tucker PLC,Market
+94568,Anthony,Peterson,M,11/2/1949,855.36,5/28/2023,"Stout, Owen and Cortez",Electronics
+175803,Jacob,Mcguire,F,11/2/1948,114.8,6/6/2023,"Andrews, Wright and Foley",Cosmetic
+485783,Raymond,Clark,F,10/29/1965,216.09,8/5/2023,Jordan Ltd,Clothing
+735533,Alison,Walker,M,11/1/1955,428.61,1/4/2023,Norman LLC,Market
+112710,William,Thomas,,11/2/1951,87.37,3/13/2023,Willis-Sullivan,Market
+437885,Melanie,Hood,F,10/21/1999,170.29,10/7/2023,"Rangel, Caldwell and Williamson",Clothing
+408054,Daniel,Burgess,M,10/26/1977,244.23,3/18/2023,Owens-Contreras,Clothing
+375453,Jessica,Blake,F,10/27/1975,92.6,8/31/2023,"Romero, Mack and Smith",Market
+397729,Timothy,Zavala,M,10/20/2002,218.71,2/8/2023,"Hurley, Hughes and Brown",Market
+965209,Mary,Bauer,F,10/27/1972,85.53,9/14/2023,"Mercado, Williams and Schmidt",Clothing
+555864,Edward,Rodriguez,F,10/31/1957,276.51,3/9/2023,Ramirez-Sanchez,Market
+525726,Michael,English,F,10/28/1968,76.37,8/28/2023,Alvarado-Lane,Restaurant
+34565,Christopher,Le,F,10/20/2000,31.05,6/11/2023,"Paul, Arroyo and Garcia",Restaurant
+402489,Bernard,Smith,M,11/2/1951,735.88,2/10/2023,"Griffith, Taylor and Joyce",Travel
+578151,Yvonne,Lewis,F,10/25/1982,208.86,5/26/2023,Crosby-Miller,Clothing
+132375,Stephanie,Gonzalez,F,10/30/1962,101.76,9/27/2023,"Chavez, Reyes and Robinson",Cosmetic
+322017,Jacqueline,Robbins,F,10/25/1982,643.84,10/11/2023,"Mayer, Parks and Reed",Electronics
+780567,Caleb,Johnson,F,11/2/1949,116.38,8/28/2023,Keith Ltd,Market
+467203,Jack,Fox,,10/25/1982,136.57,9/22/2023,"Johnston, Wells and King",Clothing
+486633,Laura,Tyler,F,10/30/1961,199.1,8/25/2023,Warren PLC,Clothing
+361587,Kimberly,Robertson,,10/29/1964,172.54,4/26/2023,Pena LLC,Market
+801423,Cheyenne,Evans,F,10/27/1974,414.2,5/4/2023,Ryan and Sons,Market
+551054,Julie,Newton,F,10/24/1987,52.21,5/28/2023,Marshall PLC,Restaurant
+81000,Jennifer,Guzman,F,11/2/1949,119.04,10/11/2023,Cuevas and Sons,Market
+422981,Judith,George,M,10/22/1992,189.72,6/13/2023,"Bowen, Murray and Moore",Clothing
+630269,Gregory,Nelson,F,10/20/2000,422.67,1/23/2023,"Murillo, Daniels and Hunter",Electronics
+410506,Stephanie,Anderson,F,11/2/1948,17.03,4/1/2023,Whitaker PLC,Market
+975380,Christopher,Blankenship,F,11/1/1954,69.44,3/6/2023,Carlson-Weiss,Restaurant
+928833,Alyssa,Brandt,F,10/23/1990,115.85,2/22/2023,"Hill, Velasquez and Long",Clothing
+221424,Claudia,Manning,M,10/23/1991,811.41,8/27/2023,"Martin, Rowe and Hill",Electronics
+558832,John,Parks,M,10/26/1977,163.27,1/27/2023,Alvarez-Wilson,Market
+432882,Jennifer,Barton,F,10/20/2003,149.99,7/21/2023,Smith-Briggs,Cosmetic
+604673,Robert,Neal,M,11/1/1955,82.92,1/10/2023,Parsons Inc,Restaurant
+729265,Derek,Spencer,F,10/31/1959,176.99,8/22/2023,Matthews-Ross,Electronics
+361892,Michael,Jacobs,F,10/27/1973,286.36,4/19/2023,"Myers, Stone and Freeman",Market
+858489,Kelly,Price,F,10/23/1990,32.96,5/11/2023,Thomas-Sandoval,Restaurant
+35284,Mary,Reyes,F,10/27/1974,287.67,7/22/2023,Jones-Pierce,Market
+723891,Craig,Molina,F,11/1/1954,75.75,5/24/2023,Grimes Group,Restaurant
+669929,Gary,Atkins,F,10/20/2003,42.97,9/13/2023,"Lopez, Davis and Jones",Clothing
+341880,Amy,Wagner,,10/20/2000,63.28,5/24/2023,"Estrada, Fischer and Jones",Clothing
+283856,Nicole,Kelly,M,10/26/1976,796.26,9/12/2023,Walter and Sons,Travel
+913296,Michelle,Johnson,F,10/21/1997,2202.33,7/11/2023,Simmons Ltd,Travel
+258993,Mitchell,Weaver,M,10/26/1979,377.1,7/5/2023,"Moore, Ferguson and Case",Electronics
+592981,Nicholas,Medina,F,10/20/2002,191.47,6/17/2023,"Hendricks, Kelly and Love",Cosmetic
+472532,Lauren,Horn,M,10/25/1980,55,5/20/2023,Mueller-Poole,Cosmetic
+764741,Allison,Johnson,F,10/30/1961,2376.55,6/4/2023,"Lara, Dixon and Payne",Travel
+511236,Lisa,Anderson,F,10/27/1975,19.75,8/5/2023,"Murphy, Cobb and Willis",Cosmetic
+546921,Stephanie,Vazquez,M,10/25/1983,154.55,5/5/2023,Page Ltd,Cosmetic
+176556,Erica,Gordon,F,10/25/1982,802.85,2/17/2023,Mack Inc,Electronics
+907669,Tamara,Mann,M,10/31/1959,200.71,6/16/2023,Hudson-Gonzales,Clothing
+296651,Angela,Huber,M,10/23/1990,859.22,6/24/2023,Stevenson LLC,Travel
+57228,Patricia,Watkins,F,11/2/1949,931.48,5/3/2023,"Trevino, Ward and Smith",Electronics
+998183,Cindy,Douglas,F,10/19/2004,125.19,8/1/2023,"Brown, Booker and Mccormick",Cosmetic
+979926,Mary,Gordon,,11/1/1952,56.81,1/26/2023,"Salas, Flowers and Mckinney",Restaurant
+741762,Michael,Moran,F,11/1/1954,175.56,1/20/2023,Sloan-Jenkins,Clothing
+301646,Todd,Mccarthy,F,10/19/2004,597.92,6/3/2023,Clark Inc,Electronics
+924803,Michael,Aguilar,,10/23/1989,214,5/14/2023,Mullins-Lambert,Clothing
+614656,Sandra,Lambert,M,10/22/1992,92.43,7/4/2023,Thomas-Wood,Restaurant
+112977,William,Leblanc,F,10/31/1959,772.85,2/17/2023,Ward-Morris,Electronics
+34552,Melinda,Johnston,F,11/1/1955,205.44,1/19/2023,Brooks LLC,Market
+561456,Samantha,Jensen,F,10/28/1968,116.29,6/27/2023,Wheeler PLC,Clothing
+977466,Nathan,Robertson,M,10/29/1964,213.44,2/18/2023,Oconnell LLC,Market
+151383,Laura,Odonnell,M,10/22/1992,1578.68,9/22/2023,Mason PLC,Travel
+526633,James,Watson,M,10/24/1987,630.36,7/29/2023,Jones-Herrera,Electronics
+811255,Steven,Knight,F,10/25/1983,548.04,4/28/2023,Adams and Sons,Electronics
+997044,Jessica,Davis,M,10/25/1983,1341.44,9/13/2023,"Elliott, Bates and Garcia",Travel
+590961,Christina,Hayes,F,10/23/1988,282.19,1/10/2023,"Higgins, Hall and Davis",Market
+766568,Karen,James,M,11/1/1955,84.63,10/11/2023,Schultz-Ramirez,Cosmetic
+505823,Diane,Henry,F,10/31/1959,31.22,8/2/2023,"Williams, Wyatt and Cox",Cosmetic
+856812,Andrea,Mcdaniel,M,10/25/1983,135.25,4/30/2023,"Campbell, Douglas and Taylor",Clothing
+863345,Catherine,Hoover,M,10/23/1989,602.22,7/4/2023,Johnson-Mora,Electronics
+373587,Jillian,Fowler,M,10/25/1980,645.36,3/10/2023,Gonzalez-Tran,Electronics
+652103,Matthew,Baird,F,10/31/1958,132.95,8/23/2023,Mendez-Howell,Cosmetic
+848763,Natalie,Watkins,F,10/29/1967,163.08,1/13/2023,Miller-Lamb,Clothing
+593635,Jordan,Brown,M,10/19/2004,46.92,1/1/2023,Medina PLC,Restaurant
+216051,Janet,Taylor,F,10/29/1966,68.67,7/19/2023,Weaver-Hernandez,Restaurant
+554001,Jessica,Jordan,F,10/22/1992,1823.71,3/24/2023,Garrett and Sons,Travel
+325241,Benjamin,Conrad,,10/20/2000,150.42,7/28/2023,Mullins PLC,Clothing
+875477,Cynthia,Watson,F,10/28/1971,102.77,8/10/2023,Andersen LLC,Electronics
+218255,Jason,Cochran,F,11/2/1949,2912.32,1/6/2023,"Oliver, Williams and Hill",Travel
+239992,David,Perry,F,10/20/2000,2840.77,3/6/2023,Travis Group,Travel
+547726,Ann,Vazquez,,10/27/1974,399.59,3/10/2023,Friedman Ltd,Electronics
+14386,Susan,Edwards,M,10/28/1970,91.84,1/6/2023,Anderson-Short,Restaurant
+811363,Adam,Anderson,M,10/23/1991,69.33,5/5/2023,"Smith, Bell and Erickson",Restaurant
+133598,Krystal,Clark,,10/21/1997,255.46,7/4/2023,"Mckee, Lawrence and Mann",Market
+616762,Cory,Russell,F,10/28/1971,416.22,2/3/2023,"Dixon, Martin and Martin",Travel
+794261,John,Knox,F,10/26/1976,12.61,7/15/2023,Romero-Moore,Restaurant
+343875,Don,Patterson,F,10/31/1959,19.54,4/29/2023,Robinson-Keller,Restaurant
+506663,Christopher,Silva,M,10/20/2001,56.61,9/13/2023,"Wheeler, Thomas and Winters",Cosmetic
+313289,Thomas,Hopkins,F,10/26/1978,729.7,6/27/2023,"Lynch, Hernandez and Berger",Electronics
+314053,James,Farrell,M,10/25/1980,861.39,5/3/2023,Santos-Jones,Electronics
+682354,Danny,Thomas,M,10/30/1963,155.97,10/11/2023,Buchanan-Walter,Electronics
+622868,Emily,Gonzalez,M,10/27/1975,978.68,8/21/2023,Johnson-Williams,Electronics
+762591,Brandon,Durham,F,10/31/1959,124.81,5/4/2023,"Gregory, Brown and Williams",Cosmetic
+417462,Nicole,Martin,,11/2/1950,1334.77,10/14/2023,Jensen-Francis,Travel
+368174,Richard,Jones,F,10/29/1964,30.88,2/27/2023,Ortiz-Ellis,Cosmetic
+398649,Alexandra,Hayes,M,10/27/1974,247.79,9/18/2023,Kramer PLC,Market
+737157,Robert,Richardson,,11/2/1948,59.63,7/22/2023,Roberts Inc,Cosmetic
+904432,Nathaniel,Smith,M,10/20/2003,288.37,3/19/2023,"Macias, Edwards and Mcknight",Clothing
+903378,Tony,Lee,,10/23/1988,461.3,6/10/2023,"Myers, Riggs and Miller",Market
+433526,Donald,Montgomery,,10/25/1982,136.29,4/14/2023,Heath-Hensley,Electronics
+144560,Dana,Schwartz,M,10/20/2002,2875.41,2/10/2023,Johnson PLC,Travel
+386647,Jeremiah,Smith,F,10/26/1977,81.38,1/20/2023,Gonzalez Ltd,Market
+623449,David,Cervantes,F,11/1/1952,30.31,9/19/2023,"Miller, Mcfarland and Davis",Restaurant
+383870,Jason,Hernandez,F,10/21/1996,165.45,3/8/2023,"Berry, Russell and Todd",Clothing
+275481,Kara,Mcdonald,M,10/20/2003,170.78,2/28/2023,"Porter, Parks and Welch",Cosmetic
+962304,Diana,Trevino,M,10/31/1956,283.77,7/1/2023,"Lam, Long and Luna",Clothing
+483334,Elizabeth,Blake,,10/25/1982,1964.78,4/6/2023,Williams-Gregory,Travel
+551823,John,Fleming,F,10/26/1977,1647.45,9/13/2023,Miller-Harvey,Travel
+873403,Amber,Douglas,,10/23/1989,651.69,5/6/2023,Coleman LLC,Travel
+984568,Daniel,Wilcox,F,10/22/1994,55.64,10/7/2023,Cooper Group,Cosmetic
+337362,Anthony,Mills,F,10/25/1981,633.07,1/5/2023,Stephens PLC,Electronics
+544731,Laura,Torres,F,10/29/1966,527.37,5/14/2023,Ward-Dixon,Travel
+337908,James,Cain,F,10/24/1987,146.16,9/9/2023,"Taylor, Davis and Martin",Electronics
+894914,Kyle,Mccall,F,10/21/1999,29.44,4/20/2023,"Young, Roberts and Bell",Restaurant
+399627,John,Pugh,F,11/1/1953,2707.98,7/7/2023,Tucker-Robinson,Travel
+556186,Brett,Carpenter,M,10/30/1962,303.62,6/8/2023,Luna-Ashley,Electronics
+666221,Timothy,Oneill,F,11/1/1953,236.38,2/26/2023,Smith PLC,Clothing
+474440,Travis,Hurst,M,11/2/1948,118.57,4/13/2023,Hicks-Cunningham,Cosmetic
+82014,Rebecca,Evans,M,10/24/1986,58.28,1/16/2023,Warner-Mason,Restaurant
+209845,Nicholas,Bell,M,10/28/1970,556.79,7/5/2023,"Miller, Gomez and Harris",Electronics
+843977,Alicia,Kelly,M,10/21/1997,446.68,3/27/2023,"Lee, Jackson and Gonzalez",Electronics
+55927,Kevin,Pratt,M,10/31/1956,147.86,2/22/2023,Reed-Khan,Market
+419071,Angela,Carroll,M,10/30/1960,168.13,2/8/2023,Bentley Inc,Clothing
+240295,Diana,Smith,M,11/1/1953,220.42,9/17/2023,Watson PLC,Market
+29936,Jerome,Nichols,F,11/1/1954,84.9,3/10/2023,"Murray, Mcintyre and Smith",Clothing
+420248,Scott,Stanley,M,10/23/1990,35,4/13/2023,Gomez Ltd,Restaurant
+929086,Sara,Matthews,M,10/22/1994,390.48,9/10/2023,Buckley Inc,Market
+356281,Amanda,King,,11/2/1948,977.8,1/18/2023,"Moore, Newton and Williams",Travel
+957764,Logan,Barker,M,10/31/1956,52.66,3/12/2023,"Butler, Evans and Sims",Clothing
+809877,Christopher,Miller,M,10/23/1991,52.76,6/4/2023,Allen-Ward,Clothing
+785137,Dale,Alexander,F,10/21/1996,157.77,5/28/2023,Hill-Ingram,Cosmetic
+803174,Maureen,Le,M,10/21/1998,183.49,6/9/2023,Strong-Douglas,Cosmetic
+389369,Gary,Burke,F,10/31/1957,39.64,3/4/2023,"Adams, Moyer and Foster",Market
+54394,Ricardo,Chung,F,11/2/1951,71.87,3/30/2023,"Pearson, Gay and Green",Cosmetic
+814565,Bianca,Norris,,10/26/1978,151.99,6/20/2023,Owens Inc,Cosmetic
+298662,Austin,Gibson,F,10/28/1968,94.29,1/20/2023,Jefferson LLC,Restaurant
+364974,Bryan,Cochran,F,10/31/1958,2128.69,7/19/2023,Payne LLC,Travel
+973696,Daniel,Villegas,M,10/27/1975,75.62,7/15/2023,"Prince, Nelson and Martin",Restaurant
+978221,Deborah,Holt,M,10/26/1979,14.12,10/12/2023,Fox-Miranda,Restaurant
+13348,William,Morales,M,11/2/1950,755.1,8/24/2023,"Cohen, Mccoy and Williams",Electronics
+896139,Ashley,Franklin,F,11/1/1955,1946.7,2/5/2023,Roman PLC,Travel
+969470,Richard,Gutierrez,F,10/30/1963,156.15,9/17/2023,"Heath, Wolfe and Peters",Clothing
+205030,Lisa,Richardson,M,10/26/1976,12.92,3/3/2023,"Bauer, Cross and Bennett",Restaurant
+380634,Richard,Mendoza,F,11/1/1952,994.35,4/12/2023,Olson Group,Electronics
+251519,Richard,Lewis,M,10/30/1961,1519.68,9/25/2023,Marshall-Flores,Travel
+545777,Jill,Krueger,M,10/31/1958,10.58,5/17/2023,Gregory-James,Restaurant
+262402,Shane,Esparza,M,10/20/2003,360.44,5/10/2023,"Leonard, Moore and Dennis",Market
+993772,Rachel,Jones,F,10/25/1982,1131.32,2/4/2023,Howard-Moran,Travel
+171987,Joseph,Ware,F,11/1/1953,97.02,10/11/2023,Lewis Group,Restaurant
+704737,Nancy,Mclaughlin,F,10/26/1978,769.29,8/4/2023,Baldwin Ltd,Electronics
+246787,Tracey,Humphrey,M,10/27/1974,2718.59,2/1/2023,Schroeder Inc,Travel
+751589,Tina,Wright,M,10/30/1963,54.09,8/22/2023,Nelson LLC,Restaurant
+254468,Chris,Stone,M,11/2/1950,130.44,3/31/2023,Hobbs-Evans,Cosmetic
+651224,Bethany,Black,M,10/25/1982,219.69,7/6/2023,Maldonado LLC,Travel
+203751,Samantha,Morrison,M,10/27/1973,66.74,5/14/2023,Gardner-Sanchez,Clothing
+409985,Stephanie,Powell,M,10/28/1970,248.63,6/22/2023,"Hernandez, Shaw and Mcconnell",Market
+885772,Manuel,Nguyen,F,10/22/1994,48.44,9/21/2023,"Carroll, Simon and Stewart",Restaurant
+543959,James,Edwards,F,10/27/1974,815.78,2/23/2023,"Hall, Allen and Yang",Electronics
+514487,Brenda,Mercado,M,10/20/2003,46.41,9/11/2023,"Koch, Ross and Mcdonald",Clothing
+52472,Frank,Livingston,M,10/22/1992,867.13,8/1/2023,Sutton-Wilkerson,Electronics
+465977,Jeffrey,Perry,M,10/29/1964,329.03,9/12/2023,Moore-Guerra,Market
+164096,Sharon,Reed,F,10/24/1987,141.17,1/4/2023,"Smith, Howell and Blair",Market
+183191,Robert,Burns,,10/25/1980,84.94,3/12/2023,May-Harmon,Market
+684121,Dean,Johnston,F,10/24/1987,173.89,6/2/2023,"Barry, Brown and Nelson",Clothing
+121462,Michelle,Daugherty,F,10/21/1997,48.03,2/22/2023,Reynolds Inc,Restaurant
+826120,Tommy,Little,F,10/23/1991,187.15,1/16/2023,"Mendoza, Flores and Ochoa",Travel
+646303,Brenda,Nguyen,F,10/31/1958,210.78,6/3/2023,Bates Ltd,Clothing
+227165,David,Sullivan,F,10/24/1987,351.96,5/8/2023,Davis-Scott,Market
+51354,Christine,Mckinney,F,10/20/2003,78.51,8/5/2023,Roberts Inc,Restaurant
+898527,Michelle,Conner,,10/22/1994,764.27,1/6/2023,Clark LLC,Travel
+542147,William,Clements,F,11/2/1949,65.21,8/2/2023,"Singleton, Rivera and Perez",Market
+618515,Jessica,Mitchell,M,10/20/2003,64.77,6/6/2023,Martinez-York,Clothing
+983833,Anthony,Houston,M,10/22/1994,68.21,2/2/2023,"Fry, Adams and Johnson",Restaurant
+198820,Robert,Willis,F,10/25/1981,1075.95,6/25/2023,Stephens-Edwards,Travel
+818698,John,Young,M,10/22/1993,1058.86,8/19/2023,"Hinton, Ross and Smith",Travel
+395232,Terri,Nelson,M,11/2/1948,164.52,2/16/2023,Sampson Inc,Clothing
+916753,Bryan,Strickland,M,10/24/1984,144.48,8/26/2023,"George, Saunders and Powers",Clothing
+519662,Deborah,Robinson,,11/2/1948,22.17,7/18/2023,"Fernandez, Dean and Harris",Restaurant
+483360,Juan,Thomas,M,10/23/1989,84.16,4/25/2023,Dixon and Sons,Cosmetic
+595132,Paula,Becker,F,10/23/1989,239.91,8/20/2023,Simpson Ltd,Clothing
+857149,William,Cross,M,10/22/1992,27.28,3/1/2023,Lewis-Nguyen,Cosmetic
+836654,Desiree,Lewis,F,11/2/1951,592.94,2/8/2023,Palmer and Sons,Electronics
+940167,Sarah,Barber,M,11/1/1954,138.27,4/17/2023,Franco PLC,Cosmetic
+551717,Christopher,Andersen,F,10/23/1989,294.39,4/2/2023,Mcclain-Duncan,Clothing
+161459,Stephanie,Jackson,F,10/23/1989,95.91,5/25/2023,Mack Group,Restaurant
+269635,Claudia,Taylor,F,10/27/1972,853.12,2/11/2023,"Henry, Lewis and Johnson",Electronics
+436820,Kimberly,Griffin,M,11/2/1951,408,8/15/2023,Gonzalez-Hatfield,Market
+34209,Lisa,Riley,M,10/22/1994,60.4,1/28/2023,Wilkins-Cooper,Clothing
+544854,Lauren,Bryant,M,10/30/1963,137.76,7/3/2023,Garza-Morales,Cosmetic
+762950,Jennifer,Miller,F,10/28/1969,70.38,1/2/2023,Levy Inc,Market
+349965,Katrina,Lee,M,10/25/1980,861.92,5/17/2023,"Moore, Reyes and Craig",Electronics
+234563,Thomas,Andrews,F,10/26/1977,128.39,7/26/2023,Jackson Group,Electronics
+766644,Cheryl,Duncan,F,10/31/1957,208.45,3/28/2023,Bradley LLC,Electronics
+386079,Catherine,Davis,M,10/25/1982,264.84,9/10/2023,Hernandez-Sandoval,Electronics
+622864,Courtney,Mora,M,10/30/1963,116.63,4/7/2023,Hunt-Daniel,Cosmetic
+196907,Jennifer,Scott,F,10/21/1997,195.52,7/12/2023,Baldwin-Thomas,Cosmetic
+197368,Tiffany,Ortiz,M,10/31/1958,70.25,4/13/2023,"Perez, Chapman and Reid",Cosmetic
+829341,Christopher,Padilla,M,10/30/1960,960.39,5/16/2023,"Salazar, Martinez and Murphy",Electronics
+717342,Meghan,Myers,M,10/23/1988,1570.67,7/4/2023,Carlson Inc,Travel
+247412,Julie,Wallace,M,10/20/2001,285.06,8/8/2023,Ramos Ltd,Market
+146124,Stephen,Vaughn,F,10/20/2003,678.39,3/3/2023,Willis PLC,Electronics
+227892,Deborah,Rosales,F,10/31/1958,142.88,3/17/2023,Jones-Harris,Market
+669121,Kyle,White,F,10/23/1990,108.19,9/25/2023,Schwartz PLC,Clothing
+892582,Stefanie,Arroyo,M,10/26/1978,44.38,9/28/2023,Arroyo-Weaver,Cosmetic
+474761,Melissa,Conner,,10/24/1985,2655.29,2/27/2023,"Benton, Wagner and Chandler",Travel
+771156,Connor,Contreras,M,10/23/1990,135.51,6/18/2023,Joseph-Rodriguez,Cosmetic
+455336,Adam,Smith,,10/22/1992,397.13,1/31/2023,Lewis-Wilson,Market
+343642,Paul,Murray,F,10/20/2003,100.61,1/15/2023,Rosales PLC,Market
+869401,Jason,Miranda,M,10/24/1987,25.31,3/14/2023,Davis LLC,Market
+339117,David,Miranda,M,10/29/1966,63.49,8/3/2023,Peterson-Fowler,Clothing
+349959,Ryan,Moss,F,10/27/1973,27.67,5/11/2023,Schmidt and Sons,Restaurant
+116037,Rodney,Galloway,M,10/26/1977,15.15,8/22/2023,Gonzalez Inc,Restaurant
+56082,Michael,Davis,F,10/31/1957,344.24,6/10/2023,Berry Group,Travel
+272175,Travis,Martinez,F,10/24/1987,813.81,3/4/2023,Foster Ltd,Travel
+614332,Lindsey,Martin,M,10/22/1995,322.37,9/4/2023,"Foster, Whitaker and Miller",Market
+117226,Bradley,Rivera,M,10/25/1982,135.55,7/13/2023,Moody-Salinas,Cosmetic
+390831,Tara,Skinner,F,10/22/1994,25.82,3/9/2023,Cross Group,Clothing
+924028,Paul,Robinson,M,10/30/1963,197.61,5/9/2023,Fowler-Calhoun,Electronics
+761388,Melissa,Burnett,M,10/27/1974,120.33,8/25/2023,"Cantrell, Juarez and King",Cosmetic
+738821,Pamela,Soto,M,10/29/1964,2282.64,1/8/2023,Green Ltd,Travel
+289678,Brian,Allen,M,11/2/1948,90.53,10/3/2023,Griffith-Brown,Electronics
+2569,Holly,Mckenzie,F,10/22/1993,413.45,5/4/2023,Brown Ltd,Market
+57036,Stephen,Osborne,M,10/29/1966,257.64,5/17/2023,Mcclain Group,Clothing
+944187,Courtney,Robinson,F,10/25/1980,87.17,8/12/2023,Thomas Inc,Cosmetic
+957619,Alexis,Meyer,M,10/24/1985,216.66,4/21/2023,"Arias, Thomas and White",Electronics
+990673,Jessica,Ellis,M,10/24/1985,833.73,8/6/2023,Taylor Inc,Electronics
+894316,Danielle,Howard,F,10/26/1978,240.6,8/7/2023,Ali-Diaz,Clothing
+801461,Jodi,Watson,F,10/24/1987,1616.56,9/29/2023,"Carrillo, Murphy and Wilson",Travel
+679943,Matthew,Roberts,F,10/24/1985,304.51,2/6/2023,"Anderson, Malone and Bailey",Market
+161339,Nicole,Sampson,,10/27/1975,589.24,5/14/2023,"Patton, Brown and Mckenzie",Electronics
+761496,Alexander,Andersen,F,10/28/1970,60.81,7/21/2023,"Ryan, Castillo and Russell",Restaurant
+576106,Richard,Thompson,F,10/20/2001,123.99,8/7/2023,"Shields, Cox and Murray",Electronics
+496589,Timothy,Atkinson,F,10/25/1981,626.23,7/2/2023,Wallace Inc,Electronics
+640647,Tracy,Gregory,M,10/26/1976,165.84,9/28/2023,Peterson-Wilson,Cosmetic
+981689,Robert,Jones,F,10/31/1958,2735.5,1/22/2023,"Montes, Suarez and Williams",Travel
+331113,Christopher,Rodriguez,F,10/27/1975,37.42,9/4/2023,Schroeder Inc,Market
+533064,Alyssa,Gordon,F,10/26/1979,81.16,5/30/2023,Frazier-Kelly,Restaurant
+260643,Stephanie,Salinas,M,10/27/1975,2241.23,6/12/2023,"Hughes, Martin and Garcia",Travel
+364792,Stacy,Meyer,M,10/21/1998,83.15,4/13/2023,Price-Johnson,Cosmetic
+496130,Yesenia,Barron,M,10/28/1969,37.98,7/9/2023,"Robinson, Blankenship and Pineda",Cosmetic
+691725,Jamie,Young,F,11/1/1954,60.13,3/16/2023,Johnson-Taylor,Clothing
+382393,Jared,Stanley,F,10/20/2002,267.08,10/12/2023,Wells-James,Market
+200691,Shane,Brown,M,10/21/1998,67.12,4/27/2023,Gonzalez PLC,Restaurant
+582319,Daniel,Navarro,,10/31/1959,1528.49,1/25/2023,Barnes-Arias,Travel
+681677,James,Cox,F,10/24/1985,90.38,5/31/2023,"English, Bonilla and Gray",Restaurant
+652595,Gina,Nelson,F,11/2/1949,23.53,7/23/2023,Miller-Haynes,Market
+519367,Tyler,Franklin,F,10/19/2005,78.8,3/5/2023,Porter-Villanueva,Cosmetic
+969550,Shelly,Stafford,M,10/28/1969,116.81,1/5/2023,Lewis Group,Electronics
+59276,Brian,Smith,M,10/30/1960,51.11,7/26/2023,"Gilbert, Mcguire and Henderson",Cosmetic
+550536,Kelly,Cherry,,11/2/1951,2232.2,2/22/2023,"Parker, Murray and Schwartz",Travel
+426551,Valerie,Mullins,M,10/25/1983,117.42,6/16/2023,Wolfe-Hopkins,Clothing
+234841,George,Jenkins,F,10/20/2002,64.51,2/1/2023,Gomez Group,Restaurant
+708393,Kevin,Perry,F,10/23/1991,310.46,9/8/2023,Simpson Ltd,Electronics
+153661,Alexis,Smith,F,10/31/1956,11.07,6/13/2023,Johnson LLC,Restaurant
+213397,Matthew,Davenport,F,10/24/1984,119.71,2/7/2023,Moyer and Sons,Cosmetic
+230673,Kim,Higgins,F,11/2/1951,1501.17,2/5/2023,Mcmahon LLC,Travel
+579581,Jean,Bailey,F,11/2/1949,11.72,9/26/2023,Gentry and Sons,Restaurant
+458474,Susan,Mejia,F,10/21/1996,17.21,3/11/2023,Porter Group,Restaurant
+977193,Jeffrey,Alexander,F,10/26/1976,120.21,2/19/2023,Henry Group,Cosmetic
+926652,Sonya,Moore,M,10/25/1980,234.67,9/5/2023,Pugh-Smith,Clothing
+417252,Paul,Vance,F,10/22/1993,2514.02,5/9/2023,Anderson-Vega,Travel
+329909,Daniel,Thompson,F,10/27/1972,299.45,10/9/2023,David-Smith,Clothing
+301559,Jesus,Mosley,F,11/1/1953,251.92,7/23/2023,Williams-Page,Market
+138084,Dawn,Parker,F,11/1/1955,2437.67,7/16/2023,Hall-Woods,Travel
+282972,James,Johnson,F,10/26/1978,55.94,1/4/2023,Matthews-Fritz,Cosmetic
+540337,Kimberly,Landry,M,11/1/1954,1928.83,2/22/2023,"Smith, Sexton and Quinn",Travel
+173710,Tyler,Rodriguez,M,11/2/1951,65.73,4/7/2023,"Green, Leach and Torres",Restaurant
+212453,Kristen,Edwards,F,10/23/1988,27.52,8/22/2023,Johnson-Newman,Cosmetic
+701017,William,Rangel,M,10/24/1985,1701.15,7/11/2023,Johnson PLC,Travel
+259428,Brett,Nixon,,11/1/1952,495.95,8/29/2023,Anderson-Pace,Electronics
+920423,James,Hartman,M,10/27/1972,297.16,7/12/2023,Lee-Bolton,Clothing
+390736,Jennifer,Hancock,F,10/23/1990,11.23,8/14/2023,"Boyer, Wilson and Morris",Cosmetic
+27774,Megan,Wilson,M,10/29/1966,159.86,8/6/2023,"Huffman, Gomez and Burnett",Clothing
+978066,Mia,Hubbard,F,11/1/1953,942.95,8/30/2023,Collins-Bradley,Electronics
+918283,Michelle,Hall,M,10/25/1982,1291.9,1/17/2023,Wood-Rice,Travel
+777764,Katherine,Brown,F,10/31/1959,70.31,6/18/2023,"Scott, Luna and Baker",Restaurant
+573549,Eric,Logan,M,11/2/1949,176.65,9/27/2023,Jacobson Group,Market
+686096,Dana,Ewing,F,10/23/1990,195.47,7/14/2023,Scott Group,Cosmetic
+249040,Michael,Jackson,M,10/24/1985,251.86,8/9/2023,Gilbert-Allen,Travel
+714708,Lynn,Cook,M,10/26/1977,57.46,7/22/2023,Brown-Bush,Clothing
+441584,Daniel,Cunningham,M,10/27/1975,96.72,6/4/2023,Dixon Ltd,Cosmetic
+683262,John,Kim,F,10/27/1973,282.94,3/12/2023,Thomas-Pham,Market
+544370,Katherine,Miller,F,10/21/1996,601.38,9/18/2023,"Cooper, Brooks and Michael",Electronics
+316308,Elizabeth,Lopez,M,10/31/1956,305.91,9/3/2023,Yu-Owen,Market
+593625,Raymond,Johns,F,10/29/1964,35.31,6/3/2023,Baldwin-Davis,Restaurant
+91453,Patricia,Nolan,M,10/31/1957,194.2,6/22/2023,Hall Inc,Clothing
+993622,Michele,Scott,F,10/29/1966,657.7,8/6/2023,"Gay, Reed and Martin",Travel
+580384,Kevin,Vazquez,F,10/19/2004,747.27,2/28/2023,"Molina, Berry and Crawford",Electronics
+735946,Julie,Campbell,F,10/31/1959,59.53,1/5/2023,Sherman and Sons,Clothing
+926181,Matthew,Martin,F,10/20/2001,85.59,5/19/2023,"Brown, Robles and Edwards",Clothing
+766993,Carol,Lewis,F,10/30/1961,53.9,3/24/2023,Mitchell-Levy,Cosmetic
+481922,Michael,Humphrey,F,10/25/1981,147.64,3/14/2023,Coffey-Le,Cosmetic
+680051,Linda,Summers,F,10/31/1956,86.98,9/6/2023,Moore-Dickson,Restaurant
+758415,Judith,Charles,M,11/2/1948,1969.58,7/15/2023,Kelly Ltd,Travel
+856820,Teresa,Bailey,M,10/20/2002,215.78,2/12/2023,Pierce-Moore,Clothing
+66858,Margaret,Cooper,F,10/31/1959,156.71,8/11/2023,"King, Cuevas and Black",Clothing
+262908,Suzanne,Petersen,M,10/30/1963,1979.35,9/29/2023,Branch-Hunter,Travel
+29306,Vanessa,Martinez,M,10/22/1992,2105.93,6/25/2023,"Farmer, Daniels and Sanchez",Travel
+490071,Carla,Gordon,F,11/1/1953,226.88,3/8/2023,"Malone, Miller and Chase",Travel
+43037,Maria,Rivera,M,10/29/1965,1206.32,8/17/2023,Hampton-Juarez,Travel
+26348,Theresa,Thompson,F,10/23/1988,1996.31,1/28/2023,Hill Group,Travel
+269466,Ronald,Khan,F,10/29/1967,295.76,3/29/2023,"Jennings, Carroll and Brown",Clothing
+704043,Kristine,Matthews,F,10/26/1976,57.71,3/1/2023,Coleman LLC,Clothing
+263953,Michael,Hayes,F,11/1/1954,51.34,2/26/2023,"Harding, Villarreal and Matthews",Restaurant
+343956,Michael,Fernandez,M,10/23/1991,1419.18,1/29/2023,Jordan-Edwards,Travel
+188934,Russell,Evans,M,10/28/1968,32.29,6/4/2023,"Gonzalez, Griffith and Michael",Restaurant
+578442,Marilyn,Rodriguez,F,11/2/1951,2566.53,2/28/2023,Barnett Inc,Travel
+932810,Scott,Rivera,F,10/21/1997,419.28,4/22/2023,Wells LLC,Electronics
+234515,Daniel,Reid,F,10/25/1981,2612.8,1/5/2023,Manning LLC,Travel
+932834,Garrett,Allen,F,11/2/1948,52.06,7/6/2023,Price PLC,Cosmetic
+604095,Sharon,Coffey,M,10/30/1962,208.25,3/1/2023,"Vasquez, Hansen and Martinez",Clothing
+804893,William,Lopez,F,11/2/1948,378.31,10/5/2023,Matthews-Medina,Electronics
+530519,Jeffrey,Nelson,,10/24/1985,1608.52,9/10/2023,"Carr, Shaw and Davis",Travel
+35515,Kevin,Munoz,M,10/30/1961,219.69,8/20/2023,Thompson-Reynolds,Market
+155077,Teresa,Hamilton,F,10/31/1957,258.51,7/13/2023,Green-Poole,Market
+31930,Martin,Bailey,F,10/19/2005,28.35,4/10/2023,Christian-Sullivan,Restaurant
+232827,Tiffany,Mills,M,10/31/1956,297.67,2/14/2023,Morgan LLC,Clothing
+775810,Kyle,Gomez,M,10/25/1980,70.28,8/16/2023,White Inc,Market
+730735,Matthew,Hubbard,F,11/2/1948,150.14,2/15/2023,"Ingram, Estrada and Kennedy",Cosmetic
+211189,Amanda,Miranda,F,11/1/1953,15.52,5/17/2023,Oconnell Ltd,Cosmetic
+153742,Rachael,Cox,M,10/29/1965,58.35,6/26/2023,Baird Group,Restaurant
+805840,Dustin,Lowe,,11/2/1949,992.82,1/19/2023,"Buck, Wilson and Green",Electronics
+705511,Melissa,Rios,F,10/19/2005,2810.44,2/24/2023,"Hoffman, Gonzales and Pitts",Travel
+802555,Meredith,Campbell,F,11/1/1954,159.65,2/17/2023,Phillips-Garza,Cosmetic
+521078,Thomas,Gay,M,10/26/1979,66.66,7/19/2023,Johnson-Smith,Restaurant
+929713,Courtney,Brooks,F,11/2/1949,142.37,2/2/2023,"Fox, Martinez and Schwartz",Travel
+62447,Kevin,Lee,M,10/25/1983,36.35,2/18/2023,"Johnson, Trevino and Mcmahon",Restaurant
+640483,Cynthia,Cortez,F,11/1/1953,51.65,2/7/2023,"Reeves, Gutierrez and Le",Restaurant
+747367,Travis,Stephens,F,11/2/1951,185.79,4/10/2023,James PLC,Market
+587716,Eric,Roberts,M,10/31/1959,211.32,6/22/2023,"Kennedy, Robinson and Reyes",Clothing
+326183,Karina,Hobbs,M,10/22/1992,516.96,1/10/2023,Miller-Schmidt,Electronics
+589232,Ashley,Rodriguez,F,10/22/1993,123.34,1/6/2023,Fowler-Pena,Electronics
+399803,Jerry,Smith,F,10/24/1987,415.4,9/11/2023,Paul-Wilson,Market
+685223,Chase,Hernandez,M,10/30/1960,71.5,2/21/2023,Jennings-Black,Clothing
+420123,Emily,Cruz,,10/27/1973,62.08,9/24/2023,Phillips-Richardson,Restaurant
+582128,Carmen,White,,11/1/1953,224.9,1/17/2023,"Cruz, Sanchez and Gardner",Electronics
+209275,Benjamin,Gutierrez,M,10/28/1968,188.08,3/1/2023,Thompson Inc,Electronics
+293957,Kelly,Fisher,M,10/26/1977,97.68,1/20/2023,Richardson Group,Restaurant
+559312,John,Brown,F,10/21/1999,2093.75,1/1/2023,Adams PLC,Travel
+525236,Richard,Reed,,10/30/1963,1189.84,7/5/2023,Davidson-Warren,Travel
+333565,Jessica,Griffin,,10/29/1964,55.3,6/6/2023,"Walters, Garcia and Martin",Restaurant
+738460,Barbara,Hanson,F,11/1/1952,210.03,6/6/2023,Williams Ltd,Clothing
+808449,Terri,Ward,M,10/28/1971,77.04,3/12/2023,"Hammond, Johnson and Donovan",Restaurant
+597427,Ashley,Willis,M,10/29/1966,72.46,5/8/2023,Cook Ltd,Restaurant
+914669,Victoria,Harris,F,10/20/2002,64.15,7/22/2023,"Bishop, Harrison and Brown",Cosmetic
+720502,Jake,Rush,F,11/1/1953,193.3,2/23/2023,"Beltran, Davis and Morales",Clothing
+661202,Daniel,Liu,F,11/2/1951,1973.13,7/2/2023,Carpenter-Cline,Travel
+540605,Vicki,Vaughn,F,10/24/1985,33.75,2/28/2023,Wyatt Inc,Cosmetic
+230892,Kevin,Alvarez,F,10/29/1967,303.24,8/17/2023,Moore-Delgado,Market
+938450,Jared,Henry,M,10/23/1988,194.93,3/31/2023,"Smith, Thomas and Miller",Cosmetic
+718937,Kelly,Perkins,F,10/26/1979,1238.96,3/4/2023,"Wilson, Clark and Caldwell",Travel
+130089,Stephanie,Woods,F,10/19/2005,164.51,1/17/2023,Hernandez PLC,Market
+799524,Joyce,Larson,,11/2/1948,26.22,3/6/2023,Gray-Delgado,Restaurant
+212828,Katherine,Pierce,F,11/2/1950,1050.43,3/13/2023,Gilmore-Frye,Travel
+706018,Angela,Garcia,M,10/27/1975,1831.8,9/12/2023,Salas-Nguyen,Travel
+965548,Matthew,Cox,M,10/31/1956,368.47,2/3/2023,Dixon-Roberts,Market
+322429,Kelly,Fernandez,M,10/22/1995,83.08,3/10/2023,Rodriguez Group,Cosmetic
+203173,Bryan,Gallegos,,10/30/1962,846.87,6/1/2023,"Wilcox, Mueller and Frazier",Travel
+79837,Crystal,White,F,10/28/1971,1921.82,8/2/2023,Garcia PLC,Travel
+332928,Linda,Olson,M,10/29/1965,130.08,10/13/2023,"Gonzalez, Gomez and Miller",Electronics
+729759,Adam,Russell,M,10/28/1970,55.2,6/19/2023,Kelly-Rodriguez,Market
+288117,Deanna,Brown,M,10/24/1986,16.95,7/17/2023,Mercer and Sons,Restaurant
+814110,Eric,Roberts,F,10/28/1968,287.62,1/3/2023,Gordon-Hughes,Clothing
+961730,Kristen,Hayes,M,10/26/1977,64.67,5/28/2023,Ballard-Joseph,Market
+125710,Angel,Silva,M,10/28/1970,371.31,6/5/2023,Cooper-Oneill,Market
+396337,Stephanie,Mack,M,10/21/1997,1101.35,2/12/2023,Baldwin-Mitchell,Travel
+872524,Timothy,Woodard,F,10/26/1979,77.27,2/22/2023,Rocha LLC,Restaurant
+230526,Heather,Cain,,10/25/1983,1123.9,8/22/2023,Hawkins PLC,Travel
+702556,Jason,Vazquez,M,10/19/2004,181,9/24/2023,Carr LLC,Cosmetic
+536512,Gregory,Rivera,F,10/24/1984,140.32,3/9/2023,Jones and Sons,Cosmetic
+122478,Michael,Garcia,,10/25/1982,305.57,5/7/2023,Butler Group,Electronics
+748258,Daniel,Black,M,11/2/1950,1723.93,3/22/2023,"Owens, Terry and Martin",Travel
+233411,Maria,Long,M,10/29/1964,76.79,9/23/2023,Miranda Inc,Restaurant
+328176,Charles,Hubbard,F,10/20/2000,831.38,7/1/2023,"Ortega, Jackson and Mcintyre",Electronics
+968238,Nathan,Gentry,M,11/2/1949,70.76,10/9/2023,White-Alvarado,Restaurant
+203329,Dillon,Wood,M,10/19/2005,68.62,4/20/2023,Brewer and Sons,Cosmetic
+652207,Teresa,Thornton,F,11/1/1952,167.88,2/18/2023,Wilson-Martinez,Market
+896517,Lindsey,Mcdonald,M,10/30/1963,265.01,2/1/2023,"Andrews, Chandler and Webb",Market
+271343,Crystal,Bennett,F,11/1/1953,2139.44,1/18/2023,"Davis, Carroll and Gonzalez",Travel
+338502,Alicia,Freeman,M,10/22/1992,286.93,2/18/2023,Sanchez Inc,Market
+107965,Christian,Sparks,M,10/26/1978,2771.93,5/7/2023,Watkins Inc,Travel
+949039,Jose,Kelley,F,10/21/1997,151.07,6/18/2023,"Perkins, White and Medina",Cosmetic
+228845,Sheila,Thornton,,10/22/1992,256.79,1/15/2023,"Smith, Erickson and Payne",Clothing
+957317,Shawn,Meyer,,10/29/1965,366.7,5/11/2023,Smith-Stokes,Travel
+535560,Russell,Wallace,M,10/29/1964,51,10/6/2023,"Bowers, Mckinney and Estes",Cosmetic
+688127,Ronnie,Lawrence,M,10/28/1970,139.79,8/3/2023,Jackson Inc,Clothing
+733099,Carrie,Perez,M,10/27/1975,49.33,2/13/2023,French Group,Restaurant
+486425,David,Peterson,F,11/2/1950,270.25,4/9/2023,Freeman-Cox,Electronics
+959890,Marilyn,Wilkerson,F,10/31/1957,984,9/28/2023,Wagner PLC,Travel
+662027,Lydia,Savage,F,10/22/1993,267.62,6/14/2023,"Pugh, Newman and Daniels",Clothing
+989025,Anna,Velasquez,F,10/22/1995,44.05,3/25/2023,Mcdaniel-Long,Restaurant
+975373,Jennifer,Harding,M,10/26/1978,49.36,3/22/2023,"Thomas, Odom and Diaz",Clothing
+595156,Debbie,Bradley,F,10/20/2001,68.85,5/7/2023,Mason-Solis,Restaurant
+558923,Christopher,Elliott,M,10/25/1982,13.18,3/25/2023,Hickman-Williams,Restaurant
+93525,Scott,Valencia,,10/25/1982,115.84,3/30/2023,Hernandez PLC,Cosmetic
+724748,Erica,Haley,M,10/21/1996,29.55,4/6/2023,"Rasmussen, Hicks and Cooke",Restaurant
+581729,Jesse,Miller,F,10/23/1989,25.75,8/24/2023,Coleman Group,Restaurant
+534871,Jonathan,Hall,F,10/24/1984,869.3,4/18/2023,Ramirez Group,Travel
+785029,Jamie,Vincent,F,10/31/1958,2460.94,7/31/2023,"Baxter, Lamb and Duncan",Travel
+491832,Helen,Thomas,F,10/20/2002,815.97,3/16/2023,Moore-Smith,Electronics
+925662,Misty,Morrison,F,10/28/1970,1692.24,4/11/2023,Miller PLC,Travel
+674958,Sandra,Newman,F,10/30/1960,617.37,1/15/2023,Williams Ltd,Electronics
+611753,Cameron,Kelley,M,10/20/2002,38.73,3/4/2023,"Hunter, Riley and Tucker",Restaurant
+840656,Diana,Obrien,M,10/19/2004,135.63,10/6/2023,"Miller, Arnold and Bailey",Clothing
+120909,Daniel,Benson,F,10/31/1957,86.61,7/4/2023,Abbott-Bender,Clothing
+650064,Nathan,Martinez,F,10/23/1990,47.11,8/21/2023,Norman and Sons,Clothing
+146061,Jennifer,Dawson,F,10/26/1979,139.24,6/22/2023,Short LLC,Cosmetic
+308197,Angela,Pitts,F,11/1/1952,448.27,6/4/2023,"Hill, Smith and Calderon",Market
+240733,Shane,Baldwin,M,10/31/1956,71.36,2/24/2023,Lee and Sons,Electronics
+342563,Nina,Mitchell,F,11/2/1949,269.25,2/9/2023,"Carlson, Chan and Davis",Electronics
+819006,Maxwell,Horn,F,10/21/1997,68.37,1/10/2023,Long-Boyd,Restaurant
+591095,Sheila,Fuller,M,10/22/1992,78.55,1/3/2023,Brown PLC,Restaurant
+766701,Danielle,Henderson,F,10/28/1971,28.84,9/14/2023,Rodriguez-Walker,Restaurant
+192785,Martin,Johnson,,10/22/1993,187.26,6/18/2023,Hunter-Payne,Cosmetic
+753513,Kayla,Vargas,M,10/30/1961,460.76,8/18/2023,Davies-Anderson,Market
+720828,Luke,Barker,M,10/30/1960,116.73,8/30/2023,"Rangel, Lewis and Wolf",Cosmetic
+732881,Kenneth,Brown,F,10/31/1956,97.41,8/10/2023,Brown LLC,Restaurant
+645496,Colleen,Hamilton,F,10/28/1970,138.07,3/24/2023,Lewis-Alexander,Cosmetic
+282197,Martin,Preston,M,11/2/1948,180.22,5/8/2023,May-Espinoza,Cosmetic
+144299,Nicholas,Norton,F,10/21/1999,76.24,7/5/2023,Bell Group,Restaurant
+621849,Andrea,Woodward,F,10/23/1988,2837.02,5/29/2023,Hubbard-Richardson,Travel
+156144,Timothy,Rogers,,10/29/1966,374.8,4/7/2023,"Preston, Watkins and Hawkins",Electronics
+363686,Lisa,Murray,F,10/31/1958,227.72,1/15/2023,"Meyer, Miles and Schneider",Electronics
+271541,Timothy,Brooks,M,10/19/2004,29.9,2/18/2023,Mckay PLC,Restaurant
+419076,Maureen,Leach,F,10/28/1968,2601.27,6/4/2023,Cannon-Lewis,Travel
+548320,Jack,Cantu,F,10/27/1972,32.77,6/7/2023,Morris-Branch,Restaurant
+405553,Cynthia,Mercer,M,10/25/1982,440.49,1/24/2023,"Howard, Kirk and Frost",Market
+657568,Shawn,Lopez,M,10/21/1997,51.83,9/14/2023,Lewis-Thomas,Cosmetic
+422753,Nicole,West,M,10/24/1985,424.64,1/13/2023,"Cobb, Hanna and Adams",Market
+47187,Stephen,Johnson,M,10/28/1970,43.67,4/12/2023,Parrish-Kelley,Clothing
+821685,Sean,Pratt,M,10/26/1979,265.17,9/30/2023,"Jackson, Foster and Brown",Market
+323651,Maria,Nunez,,10/26/1976,300.67,7/11/2023,Cordova Inc,Market
+650118,Robert,Rodgers,M,10/25/1983,355.34,5/11/2023,Howell Group,Market
+174818,Crystal,Arnold,M,10/28/1970,819.4,7/3/2023,Franklin-Ortiz,Electronics
+696702,Megan,Hernandez,M,10/22/1994,115.46,8/1/2023,Gordon-Young,Market
+25985,Cynthia,Patel,M,10/23/1991,231.14,2/24/2023,"Martinez, Proctor and Flowers",Clothing
+704882,Stephanie,Jones,F,10/26/1977,2211.16,8/7/2023,Oneill Inc,Travel
+227632,Kristina,Young,M,10/19/2005,1803.32,4/1/2023,Santos Ltd,Travel
+653291,Patricia,Lewis,M,10/28/1971,172.11,7/27/2023,Stewart Group,Clothing
+287502,Kimberly,Chapman,M,11/2/1949,168.83,9/30/2023,"Smith, Munoz and Underwood",Cosmetic
+815839,Christopher,Luna,M,10/21/1999,1603.15,7/4/2023,Ortega-Oliver,Travel
+4800,Michael,Martinez,M,10/27/1972,189.24,6/30/2023,Hall LLC,Electronics
+882336,Scott,Little,F,11/2/1950,286.91,8/5/2023,"Marsh, Mckay and Mendoza",Clothing
+844980,Tyler,Ballard,F,11/2/1949,449.39,4/29/2023,"Mendoza, Robinson and Park",Market
+110801,Claudia,Ortega,F,10/28/1970,33.9,7/27/2023,Lara-Mercado,Clothing
+241269,Tammy,Cole,F,10/24/1987,178.82,8/7/2023,Vasquez-Barnes,Clothing
+17397,Lisa,Whitney,F,10/24/1987,567.89,1/12/2023,Harris and Sons,Electronics
+951956,Sarah,Wells,F,10/20/2000,296.96,8/24/2023,Henderson LLC,Clothing
+270874,Victoria,Hill,M,10/23/1989,350.77,7/8/2023,Pham-Hahn,Market
+49268,Taylor,Monroe,,10/22/1992,30.95,10/14/2023,"Price, Davis and Sims",Restaurant
+649121,Blake,Mccormick,F,10/28/1970,76.02,4/29/2023,Soto Inc,Restaurant
+36335,Shannon,Moran,M,10/31/1958,125.2,6/5/2023,Wilson LLC,Cosmetic
+792943,Scott,Hogan,M,10/28/1971,616.9,4/11/2023,"Richardson, Mitchell and Hamilton",Travel
+762629,Miguel,Wood,M,11/1/1952,2485.81,9/26/2023,"Nunez, Ballard and Smith",Travel
+740244,William,Pugh,F,11/1/1953,95.52,8/13/2023,Smith-Payne,Market
+491345,Mark,Smith,M,10/29/1965,127.61,1/6/2023,Schneider LLC,Electronics
+728381,Troy,Love,M,11/2/1948,127.21,2/11/2023,Ramos LLC,Electronics
+963534,John,Brown,M,10/23/1990,999.18,3/24/2023,Wilson Inc,Travel
+614467,Leah,Hunter,F,10/22/1995,63.43,4/6/2023,"James, Johnston and Sanders",Restaurant
+259391,Rachel,Deleon,F,10/27/1975,77.12,10/14/2023,Fuller LLC,Restaurant
+692447,Ryan,Valdez,F,10/29/1964,69.35,7/24/2023,Adams-Walker,Cosmetic
+943640,Robert,Simon,M,10/27/1975,122.99,2/18/2023,Walter-Hamilton,Travel
+777642,Kristina,Vasquez,F,10/20/2000,54.83,7/27/2023,"Grant, Maldonado and Brown",Restaurant
+359077,Charles,Rich,F,10/22/1994,208.91,10/13/2023,Paul-Lewis,Market
+1246,Jeffrey,Rollins,F,10/30/1961,1428.1,8/13/2023,"Pruitt, Rogers and Hunter",Travel
+237379,Melanie,Sanders,F,10/24/1984,67.07,3/25/2023,"Reynolds, Morris and Murray",Clothing
+889034,Keith,Mccoy,M,10/24/1985,139.66,7/10/2023,Wheeler PLC,Clothing
+785338,James,Durham,M,10/22/1994,182.62,8/19/2023,"Taylor, Mueller and Jones",Cosmetic
+737693,Dennis,Rodriguez,F,10/26/1979,245.58,3/6/2023,Burnett Ltd,Market
+143961,Darryl,Olson,F,10/27/1975,88.8,10/11/2023,Joseph-Cameron,Market
+172963,Brandon,Lopez,M,10/27/1974,52.71,9/13/2023,Robertson and Sons,Restaurant
+131089,Cassandra,Huynh,F,10/28/1970,2853.13,7/14/2023,Reed-Brooks,Travel
+414567,Hailey,Vance,F,10/21/1997,460.64,2/7/2023,Meyer-Ruiz,Electronics
+996996,Tara,Hoffman,F,10/20/2001,780.24,7/2/2023,Frazier PLC,Travel
+128870,Christie,White,F,10/23/1991,1742.97,7/16/2023,Dickerson Group,Travel
+177230,James,Griffin,F,10/23/1990,484.39,7/24/2023,White-Mcknight,Electronics
+65624,Alexandria,Ward,F,10/23/1989,482.62,6/28/2023,"Frazier, Barber and Brown",Market
+442426,David,Moore,M,10/27/1973,121.67,4/11/2023,Ford and Sons,Cosmetic
+794252,Jennifer,Prince,M,10/27/1975,286.31,9/5/2023,Moore-Mcdonald,Market
+257512,Elizabeth,Li,M,10/21/1997,29.34,1/10/2023,Daniels and Sons,Clothing
+733870,Kevin,Thompson,M,10/23/1991,80.12,7/8/2023,Donovan-Rhodes,Market
+871438,Joshua,Casey,F,11/1/1954,94.8,8/2/2023,Richardson Inc,Restaurant
+63009,Crystal,Brady,M,10/23/1988,262.82,2/21/2023,Brown PLC,Clothing
+10718,Natalie,Jacobson,F,10/30/1960,43.97,4/9/2023,Mccormick Group,Restaurant
+674213,Andrea,Gibson,F,10/26/1979,59.82,6/9/2023,Nguyen-Burke,Market
+656332,Victor,Simpson,F,10/28/1971,385.48,9/10/2023,"Norton, Stewart and Moody",Travel
+468214,Olivia,Smith,F,10/21/1997,157.02,5/11/2023,"Lucas, Decker and Campbell",Clothing
+487652,Christopher,Allen,M,10/23/1991,2423.47,1/1/2023,"Brown, Jackson and Yates",Travel
+218105,Jennifer,Fitzpatrick,M,10/29/1967,350.44,7/8/2023,Adams PLC,Market
+665301,Shirley,Adams,,10/22/1995,870.51,5/28/2023,"Smith, Warren and Luna",Electronics
+291549,Kristin,Castillo,,10/29/1966,236.57,8/28/2023,"Marshall, Patrick and Scott",Clothing
+988209,Zachary,Riggs,F,10/21/1997,159.71,10/7/2023,"Wagner, Swanson and Perez",Travel
+903224,Lisa,Nichols,M,11/1/1954,89.25,3/13/2023,"Leblanc, Pierce and Nelson",Restaurant
+142348,Joel,Sanford,F,10/20/2002,88.17,4/3/2023,Griffin-Smith,Restaurant
+349817,Alyssa,Moore,F,10/29/1967,210.07,3/22/2023,"Mccann, Benson and Miller",Clothing
+208959,Gregory,Bennett,,10/23/1989,2759.12,7/22/2023,Jackson LLC,Travel
+624390,Connie,Bell,M,11/2/1951,11.93,4/19/2023,Hall PLC,Restaurant
+72826,Taylor,Day,M,10/31/1958,489.19,8/9/2023,"Anderson, Mitchell and Hernandez",Electronics
+186422,Lori,Davis,F,10/31/1958,259.37,9/8/2023,Erickson PLC,Electronics
+771774,Joshua,Morrow,F,10/31/1957,1206.62,2/4/2023,Taylor Inc,Travel
+665569,Derek,Woods,M,10/27/1975,1936.77,8/26/2023,Garrett-Potter,Travel
+556881,Cassie,Velez,F,10/23/1990,230.12,5/20/2023,"Ball, Miller and Huang",Market
+100274,Carol,Lucas,M,11/1/1954,157.78,5/30/2023,Jenkins Group,Cosmetic
+449166,Kimberly,Hines,F,10/26/1977,204.2,2/18/2023,Sullivan and Sons,Market
+546719,Stephen,Watson,M,10/26/1977,511.23,2/27/2023,"Ray, Graham and Scott",Electronics
+333390,Deborah,Reese,,10/26/1977,106.26,6/15/2023,Roberts PLC,Market
+307939,Brian,Richards,F,11/1/1952,44.16,8/17/2023,Moyer Inc,Restaurant
+476692,Jason,Baker,F,10/31/1959,199.77,4/29/2023,Johnson and Sons,Market
+466177,Karen,Henry,M,11/1/1953,69.51,1/8/2023,"Allen, Smith and White",Clothing
+503409,Eric,Jackson,F,10/19/2004,870.03,1/1/2023,"Mejia, Ramirez and Collins",Electronics
+551432,Kathleen,Koch,M,10/27/1973,14.64,3/8/2023,Mercer-Ray,Restaurant
+267069,Anthony,Wolf,M,10/21/1998,1105.7,5/7/2023,"Wiley, Underwood and Aguilar",Travel
+562181,Billy,Roberts,F,10/31/1957,1605.63,2/21/2023,"Jimenez, Marsh and Weber",Travel
+294773,William,Gibson,F,10/26/1979,125.43,5/26/2023,"Everett, Morrow and Soto",Cosmetic
+118334,Dana,Shaffer,F,10/22/1992,206.24,2/15/2023,"Fisher, Reyes and Rodriguez",Travel
+651801,John,Parsons,M,10/27/1975,132.11,8/12/2023,Richards-Farmer,Travel
+416195,Christina,Wu,M,10/25/1981,275.73,9/10/2023,"Middleton, Doyle and Contreras",Clothing
+472634,Victoria,Nolan,M,10/22/1993,176.23,7/11/2023,Castaneda-Gibson,Clothing
+282158,Amanda,Snyder,M,10/29/1967,994.91,8/4/2023,"Rodgers, Thompson and Figueroa",Travel
+938387,Justin,Miller,F,10/28/1970,87.98,6/29/2023,Beltran and Sons,Clothing
+855682,Christina,West,,11/2/1948,91.44,3/24/2023,Kim-Baxter,Restaurant
+79669,Bryan,Christian,M,10/29/1967,290.41,7/14/2023,Carlson PLC,Electronics
+23141,Tyler,Morris,M,10/29/1964,169.44,9/24/2023,"Reid, Williams and Lewis",Market
+486212,Kathleen,Ortega,F,10/21/1999,134.91,7/26/2023,Ortiz Inc,Market
+938924,Jill,Valentine,M,10/26/1977,34.32,2/28/2023,"Higgins, Moore and Cox",Cosmetic
+453101,Christopher,Cobb,M,10/20/2001,440.58,8/21/2023,"Williams, Newman and Hammond",Electronics
+697387,Erica,Miller,M,10/25/1980,122.91,8/6/2023,Thomas-Garcia,Cosmetic
+187997,Calvin,Bell,,10/30/1963,449.31,3/6/2023,Roberts and Sons,Market
+677487,Mark,Larsen,F,10/26/1976,208.01,2/2/2023,Scott-Wilson,Market
+765181,Lori,Taylor,F,10/25/1983,189.57,8/20/2023,Smith-Davis,Market
+164252,Susan,Morales,M,10/21/1999,241.27,8/28/2023,"Parker, Murray and Myers",Travel
+254934,Taylor,Smith,M,10/28/1970,1481.95,8/24/2023,Riley PLC,Travel
+941351,Anna,Ryan,F,10/26/1977,139.88,5/18/2023,Obrien PLC,Cosmetic
+12492,Emily,Cain,F,11/2/1949,552.78,8/7/2023,"Martinez, Hill and Roth",Electronics
+122346,Linda,Clements,M,10/23/1989,917.81,9/10/2023,"Levy, Brown and Stewart",Electronics
+889586,Nancy,Park,,10/26/1976,749.89,8/4/2023,"Hansen, Collins and Tran",Electronics
+695328,Alicia,White,M,11/2/1948,88.71,2/17/2023,Kemp Inc,Clothing
+434100,Travis,Miller,F,10/25/1981,51.29,2/9/2023,"Frey, Curry and Rodgers",Restaurant
+172533,Jessica,Harris,M,10/19/2004,30.32,9/7/2023,Atkinson-Mathis,Restaurant
+963351,Gary,Lucas,M,11/2/1950,770.45,9/14/2023,Decker LLC,Travel
+123853,Jonathan,Smith,F,10/27/1975,48.78,2/7/2023,Johnson-Garza,Restaurant
+910502,Joanne,Lane,F,10/30/1960,110.59,6/25/2023,Hughes-Johnson,Electronics
+453534,Melinda,Mccoy,F,10/21/1996,682.72,1/6/2023,"Knight, Hill and Johnson",Electronics
+277430,Shannon,Knight,F,11/2/1948,138.29,9/15/2023,Ford-Edwards,Market
+659489,Janet,Green,F,10/29/1965,656.91,4/28/2023,Baker LLC,Electronics
+129987,Brandon,Weiss,M,10/31/1958,1946.7,1/3/2023,Hunt-Hartman,Travel
+988837,William,Dean,F,11/1/1954,157.76,4/2/2023,"Hall, Brooks and Burton",Clothing
+917598,Cathy,Garcia,F,11/1/1953,41.27,10/3/2023,"Cordova, Simon and Griffin",Restaurant
+519663,Kelly,Young,F,10/25/1980,518.72,2/11/2023,Robinson Inc,Travel
+953586,Joseph,Potter,F,11/2/1951,138.41,9/4/2023,Chapman-Baker,Cosmetic
+6659,Tanner,Johnson,F,10/30/1962,2845.25,6/25/2023,Hogan Group,Travel
+363791,Paul,Williams,M,10/22/1995,239.64,5/10/2023,Foster-Pratt,Clothing
+982668,Elizabeth,Holt,M,10/28/1970,2101.18,5/4/2023,"Taylor, Jones and Thomas",Travel
+376920,Nicole,Lopez,F,10/30/1961,27.55,9/20/2023,Nguyen-Thomas,Cosmetic
+201914,Claudia,Reilly,M,10/30/1961,267.74,1/5/2023,Lynch PLC,Clothing
+409675,Amber,Harris,F,10/30/1963,958.04,5/8/2023,"Rosales, Clark and Lawson",Electronics
+850534,Sherri,Lewis,M,10/20/2002,133.02,2/20/2023,Cook Inc,Electronics
+518891,Bradley,Whitney,M,10/30/1963,1041.81,2/27/2023,"Patrick, Hall and Bennett",Travel
+593606,Gregory,Taylor,F,10/26/1977,165.47,8/21/2023,Johnson-Bell,Cosmetic
+925432,Michael,Cole,F,10/29/1967,2721.74,6/17/2023,Baker PLC,Travel
+38605,Jonathan,Hernandez,M,10/22/1993,1119.85,4/27/2023,"Wells, Robbins and Lee",Travel
+196413,Yvonne,Foley,M,10/23/1991,372.51,8/1/2023,Reynolds-Ayala,Travel
+237517,Julie,Deleon,F,10/22/1995,258.93,5/9/2023,Miles-Hart,Electronics
+803509,Nathan,Pearson,M,10/29/1965,164.07,1/20/2023,"White, Eaton and Moore",Electronics
+442856,Brooke,Solomon,F,10/25/1981,299.81,6/27/2023,Nelson-Vasquez,Clothing
+812315,Aaron,Marsh,M,10/24/1986,27.17,8/22/2023,Santos Group,Market
+489161,Stephanie,Navarro,M,10/20/2000,870.94,8/17/2023,Rodriguez PLC,Electronics
+323840,Brandon,Brooks,F,11/2/1949,594.39,8/21/2023,"Burton, Lara and Cain",Travel
+39130,Kristen,Mendoza,F,10/24/1984,229.2,5/18/2023,Duarte-Hill,Market
+429777,John,Gallagher,F,10/26/1979,186.92,2/3/2023,"Brown, Glover and Richard",Electronics
+229741,Lisa,Allen,M,10/26/1976,195.31,8/2/2023,"Cummings, Barker and Mcneil",Clothing
+608984,Sean,Sanchez,,10/31/1957,670.51,3/20/2023,Ibarra and Sons,Electronics
+879970,Wendy,Chandler,,11/1/1952,276.3,9/23/2023,Williams-Kelly,Electronics
+929123,Tara,Roy,M,10/20/2003,295.47,6/25/2023,"Williams, Hughes and Anderson",Clothing
+338443,James,Ferguson,M,10/30/1963,410.84,7/25/2023,Parsons LLC,Market
+456168,Ralph,Moyer,F,10/29/1967,231.42,4/23/2023,"Hodges, Peterson and Miller",Electronics
+949739,Stephen,Espinoza,F,10/30/1960,168.55,6/17/2023,"Williams, Garcia and Pearson",Market
+243600,Brandon,Bowen,,10/27/1974,1230.56,4/16/2023,Brown Group,Travel
+269005,Erin,King,M,10/20/2000,97.25,2/11/2023,"Reese, Kent and Benson",Restaurant
+389219,Frank,Howell,F,10/30/1963,120.69,7/28/2023,"Johnson, Turner and Graham",Market
+358176,Alexis,Houston,M,10/31/1958,2191.34,2/13/2023,Gomez-Middleton,Travel
+959078,Alexandra,Neal,M,11/1/1952,213.63,9/7/2023,Mendez LLC,Market
+307644,Madison,Castillo,F,10/30/1963,44.76,7/27/2023,"Phillips, Kirk and Guerrero",Restaurant
+604718,Drew,Hinton,F,11/2/1948,523.4,9/17/2023,"White, Dougherty and Moore",Travel
+554257,Monique,Herrera,M,10/21/1998,199.08,1/31/2023,Morrison LLC,Clothing
+372134,Zachary,Price,M,10/23/1990,407.95,3/15/2023,"Williamson, Woods and Jackson",Market
+72028,Heather,Hayes,F,10/26/1976,412.52,3/9/2023,"Barr, Walsh and Lee",Market
+130249,Ralph,Reid,F,10/19/2004,1555.32,2/17/2023,Montgomery-Stone,Travel
+290906,Adam,Hall,M,10/25/1983,935.17,7/21/2023,"Scott, Franklin and Reese",Electronics
+476947,Julia,Perry,F,10/23/1991,1271.08,9/4/2023,"Burton, York and Lane",Travel
+709229,Andrew,Bailey,F,10/21/1997,182.32,3/17/2023,"Cook, Jenkins and Marshall",Market
+586826,John,Thomas,M,10/30/1962,88.47,8/6/2023,Scott-Smith,Restaurant
+427345,Jillian,Palmer,M,10/26/1977,122.3,7/29/2023,Nelson Inc,Cosmetic
+82718,Erica,Duncan,M,10/24/1984,702.99,8/9/2023,"Burns, Hunter and Solis",Electronics
+474388,Sydney,Boone,M,10/31/1958,30.67,5/9/2023,"Hernandez, Lawson and Lewis",Restaurant
+762861,Rodney,Davis,,10/31/1959,57.45,3/23/2023,"Bowman, Hall and Stewart",Cosmetic
+611377,Brittney,Jackson,M,10/29/1965,689.52,4/30/2023,Adkins-Singh,Electronics
+896912,Jeffrey,Reid,F,11/2/1951,115.82,10/8/2023,Costa-Wright,Cosmetic
+222228,Robert,Smith,F,11/2/1950,1150.82,6/28/2023,"Jones, Reyes and Reyes",Travel
+165015,Briana,Payne,,10/23/1990,164.71,3/5/2023,Walls-Smith,Cosmetic
+622638,Courtney,Poole,M,11/1/1955,34.79,9/29/2023,Hodges Inc,Market
+568868,Jordan,Clark,F,10/25/1980,1704.51,5/23/2023,"Ruiz, Campos and Lynch",Travel
+808679,Joe,Crosby,M,11/1/1954,189.93,6/26/2023,Brown-Higgins,Market
+416530,Nicholas,Martinez,M,10/27/1972,84.79,1/13/2023,Davis-Rivera,Restaurant
+271235,Donna,Smith,F,10/20/2002,67.38,3/13/2023,Dean PLC,Electronics
+144950,Ricky,Rogers,F,10/29/1964,192.44,4/9/2023,Hayes Inc,Electronics
+762715,Robert,Morris,F,11/2/1950,107.74,6/5/2023,Sexton-Mendez,Clothing
+177511,Jason,Flores,F,11/2/1949,148,5/14/2023,"Jackson, Orozco and Harris",Cosmetic
+561534,Laura,Boyd,,10/29/1965,167.72,7/14/2023,Reynolds and Sons,Cosmetic
+830480,Justin,Hall,M,10/21/1999,497.18,8/28/2023,"Carlson, Simpson and Francis",Electronics
+670454,Heather,Barnes,,10/28/1971,35.03,7/14/2023,Peters and Sons,Clothing
+359992,Carmen,Miller,,10/30/1960,15.69,8/18/2023,Kennedy Ltd,Restaurant
+305364,Gordon,Jackson,F,10/25/1981,67.91,8/24/2023,Nicholson-Steele,Restaurant
+219895,Allison,Simmons,F,10/27/1972,101.23,4/13/2023,Villa-Trevino,Cosmetic
+371949,John,Castillo,F,10/20/2002,245.06,7/4/2023,Wilson Ltd,Market
+18399,Ronnie,Paul,M,10/21/1996,270.53,8/28/2023,Baldwin and Sons,Electronics
+613765,Benjamin,King,F,10/19/2005,159.72,9/5/2023,Mccarthy-Hernandez,Clothing
+191686,Lindsey,Vega,,10/21/1997,218.72,9/24/2023,Gomez-Le,Clothing
+930183,Brent,Werner,M,10/20/2003,2256.49,3/9/2023,Cowan-Matthews,Travel
+469988,Laura,Moore,M,11/2/1949,257.53,7/1/2023,Lawson-Marsh,Electronics
+163571,Hannah,Cox,M,10/21/1996,26.39,8/12/2023,"White, Stevenson and Watson",Cosmetic
+9955,Alexander,Powell,F,10/29/1967,24.05,9/6/2023,Lambert-Pacheco,Restaurant
+469629,Monica,Romero,F,10/23/1991,434.45,8/16/2023,"Olsen, Andrews and Frye",Electronics
+29818,Michael,Harris,M,10/31/1959,65.9,6/1/2023,Lutz-Jennings,Cosmetic
+355439,Samuel,Martin,M,10/31/1956,865.68,7/4/2023,Brown Group,Electronics
+146027,Kenneth,Christian,,10/22/1993,166.87,4/3/2023,Long-Wright,Clothing
+97296,Mary,Smith,F,10/20/2000,109.9,3/17/2023,Charles Group,Cosmetic
+382765,Andre,Alvarado,M,11/2/1950,668.66,9/27/2023,Walton Ltd,Electronics
+322926,Christina,King,M,10/29/1965,699.75,8/31/2023,Rodriguez-Sanders,Electronics
+473250,Peter,Phillips,F,10/27/1974,226.69,2/1/2023,"Robinson, Rice and Sanchez",Clothing
+197148,Michael,Martinez,F,10/28/1970,93.51,2/15/2023,Rodriguez-Williams,Cosmetic
+911373,Paul,Best,M,10/23/1990,38.2,9/9/2023,"Ramirez, Barber and Martin",Restaurant
+446417,Katrina,Figueroa,F,10/20/2001,33.76,1/20/2023,"Kim, Grant and Escobar",Restaurant
+150026,Jason,Lopez,F,10/27/1974,87.2,1/6/2023,Bell-Winters,Cosmetic
+111960,Gilbert,Brown,F,10/23/1989,398.5,9/19/2023,Francis-Franklin,Electronics
+441444,William,Jones,F,10/25/1983,114.15,1/13/2023,"Bennett, Adams and Flores",Market
+679158,Jessica,Hayes,F,10/21/1997,39.45,4/25/2023,"Hardy, Bailey and Taylor",Market
+810781,Taylor,Hunt,M,10/29/1966,2105.49,9/3/2023,"White, Skinner and Clark",Travel
+218750,Brian,Castillo,F,10/22/1995,73.32,1/20/2023,"Reed, Scott and Woodward",Cosmetic
+220455,John,Cohen,M,10/24/1986,44.55,5/24/2023,"Flynn, Jones and Gillespie",Restaurant
+593775,Christopher,Nguyen,,10/20/2003,87.14,1/28/2023,Dixon Inc,Restaurant
+754978,James,Ortega,M,10/27/1973,446.74,5/17/2023,Martin-Crawford,Electronics
+145217,Heather,Jimenez,F,10/31/1956,180.63,4/8/2023,"Barber, Cunningham and White",Cosmetic
+225931,Colleen,Anderson,F,10/31/1957,166.95,3/13/2023,Andersen-Garcia,Cosmetic
+735194,Tonya,Campbell,F,11/2/1949,397.96,7/14/2023,"Hall, Cowan and Gutierrez",Market
+402896,Tina,Olson,F,10/22/1992,116.74,3/6/2023,Burke and Sons,Cosmetic
+530817,Michael,Foley,M,10/23/1990,117.56,10/11/2023,"Smith, Weiss and Tran",Clothing
+11087,Ashley,Hernandez,F,10/24/1984,170.52,6/15/2023,Alexander-Griffith,Cosmetic
+578867,Donna,Boyd,M,10/27/1974,468.27,1/19/2023,Thompson Group,Electronics
+824726,Debra,Young,M,10/22/1992,148.96,1/12/2023,"Holmes, Lopez and Hayes",Clothing
+291192,Linda,Nguyen,M,10/28/1970,30.89,9/8/2023,Romero Ltd,Restaurant
+551271,Michael,Smith,M,10/27/1973,47.65,2/12/2023,Smith-Wheeler,Market
+686517,Marc,Barajas,,10/23/1991,265.67,7/7/2023,Hart Inc,Clothing
+942962,Denise,Smith,M,10/31/1958,975.41,4/18/2023,"Parker, Smith and Marsh",Travel
+400906,Margaret,Dennis,M,10/26/1976,532.25,3/21/2023,Martinez LLC,Electronics
+145001,Cameron,Cowan,F,10/28/1968,690.06,2/1/2023,Figueroa-Barton,Electronics
+279351,Sandra,George,M,10/20/2000,145.66,7/26/2023,"Edwards, Knight and Dunn",Cosmetic
+261727,Mary,Griffin,F,10/27/1973,132.78,3/13/2023,Davis-Evans,Cosmetic
+933784,Catherine,Rogers,M,10/26/1979,48.17,3/11/2023,Walker-Sexton,Restaurant
+114386,Amy,Richard,F,10/23/1989,2072.41,1/5/2023,Chavez-White,Travel
+313838,Zoe,Haynes,,10/19/2004,64.6,4/22/2023,Brewer-Spencer,Clothing
+425570,Dustin,Kelly,F,10/20/2000,128.75,10/14/2023,"Miller, Hill and Rodriguez",Cosmetic
+558372,Steven,Graham,M,11/2/1951,78.01,6/11/2023,Cline-Grant,Restaurant
+214860,Melissa,Henderson,M,10/30/1963,610.47,4/27/2023,Patton-Freeman,Electronics
+269210,Ashley,Becker,M,11/2/1948,70.11,5/20/2023,Scott Inc,Restaurant
+401786,Chad,Smith,M,10/24/1986,153.13,8/19/2023,"Hayes, Schmidt and Novak",Clothing
+170045,John,Brown,F,10/28/1968,283.46,1/27/2023,"Velasquez, Mitchell and Thompson",Electronics
+722997,Reginald,Reynolds,F,10/21/1999,30.21,4/9/2023,Dodson Group,Cosmetic
+708302,Darren,Caldwell,F,10/25/1983,302.99,8/6/2023,"Terry, Walton and Simmons",Electronics
+972056,Daniel,Davis,F,10/22/1992,94.27,8/17/2023,Spence PLC,Restaurant
+780259,Susan,Valenzuela,F,10/21/1999,515.01,6/22/2023,Lin and Sons,Travel
+420898,Kevin,Williams,F,11/2/1949,266.55,2/22/2023,Gross Inc,Electronics
+241226,Tonya,White,F,10/30/1962,414.46,5/10/2023,Roy-Williams,Market
+537004,Jonathan,Rodriguez,F,11/2/1948,125.05,8/29/2023,"Smith, Daugherty and Taylor",Clothing
+74597,Samantha,Jones,F,10/21/1996,2422.32,7/31/2023,Wright Ltd,Travel
+883524,Lynn,Ryan,F,10/20/2000,2776.19,9/17/2023,Flynn-Jackson,Travel
+634146,Anthony,Wilson,F,10/29/1966,419.66,6/28/2023,Davis Group,Market
+124890,Jennifer,Moore,M,10/22/1992,162.35,5/2/2023,Shepard Inc,Cosmetic
+56799,Steven,Black,F,10/28/1968,687.12,9/14/2023,Mason Ltd,Electronics
+449256,Shaun,Branch,M,10/24/1986,2775.98,9/16/2023,White-Richardson,Travel
+165940,James,Madden,M,10/29/1966,24.81,6/8/2023,George and Sons,Market
+927239,Samantha,Newman,F,10/21/1999,309.08,6/17/2023,Sanders-Wood,Electronics
+353900,Cathy,Chapman,M,10/28/1968,251.82,8/29/2023,Walker-Garcia,Market
+647296,Victoria,Jones,F,10/30/1960,501.8,9/29/2023,Cole Inc,Electronics
+409295,Susan,Navarro,F,11/1/1952,119.85,4/19/2023,Griffin PLC,Market
+861037,Michael,Jackson,F,10/21/1999,30.93,2/20/2023,Day-Williams,Cosmetic
+290848,Carol,Moore,F,10/26/1979,69.6,10/9/2023,Lewis-Cooper,Restaurant
+79488,Mario,Ortiz,F,11/2/1949,143.79,4/30/2023,Riggs-Jones,Clothing
+701797,Stephen,Shaffer,M,10/28/1969,66.64,9/6/2023,Brooks-Lopez,Cosmetic
+896644,April,Sutton,M,10/26/1976,283.74,3/8/2023,"Morgan, Hall and Johns",Electronics
+512527,Angela,Davis,M,10/20/2000,7.43,5/9/2023,"Sanchez, Benitez and Clayton",Market
+127643,Stacy,Leon,M,11/1/1955,232.96,7/28/2023,"Robinson, Miller and Allen",Clothing
+887778,Jonathan,Berry,F,10/23/1988,51.02,5/7/2023,Lee Ltd,Electronics
+660933,Aaron,Taylor,F,10/21/1999,274.66,8/4/2023,Boyd Inc,Electronics
+258291,Shawn,Humphrey,F,10/25/1982,129.97,4/12/2023,"Bailey, Torres and Kim",Clothing
+711524,Richard,Anderson,M,10/27/1975,43.29,3/16/2023,Montes-Wagner,Clothing
+455874,Joshua,Maynard,M,11/2/1948,143.04,7/8/2023,"Robles, Copeland and Rice",Clothing
+66871,Andrew,Hutchinson,F,10/22/1992,82.43,3/26/2023,Villa-Watts,Restaurant
+612887,Mark,Gonzalez,M,10/27/1972,296.59,7/11/2023,Ellis-Smith,Clothing
+821687,Kristin,Hill,F,10/24/1985,868.16,2/19/2023,Rivers PLC,Electronics
+625237,James,Garner,F,10/23/1989,91.93,8/20/2023,"Chen, Holmes and Rodriguez",Restaurant
+193646,Jacob,Banks,M,10/26/1978,73.28,4/1/2023,Brown Group,Clothing
+770334,Samantha,Holmes,M,10/20/2000,95.91,7/31/2023,Castillo-White,Cosmetic
+572131,Stacey,Baldwin,F,10/31/1956,194.7,3/11/2023,"Dillon, Jackson and Martinez",Clothing
+940908,Christopher,Simon,M,11/1/1954,434.29,7/2/2023,Mason-Myers,Market
+939902,Bryan,White,M,10/22/1993,157.9,4/27/2023,Little-Little,Cosmetic
+708149,Stephen,Foster,M,10/24/1986,81.28,1/26/2023,Allen and Sons,Restaurant
+917881,Kenneth,Crosby,M,10/31/1957,30.44,1/25/2023,"Hicks, Drake and Reed",Clothing
+634850,Melissa,Ortiz,,10/26/1977,143,10/7/2023,"Flores, Arellano and Olsen",Clothing
+629929,Katie,Brown,M,10/31/1957,2245.17,5/18/2023,"Duncan, Torres and Parker",Travel
+812119,Brandy,Jimenez,M,10/27/1975,110.98,8/26/2023,"Reid, Sloan and Trujillo",Travel
+524398,Kathleen,Smith,M,10/21/1996,231.85,9/13/2023,Gomez-Morton,Clothing
+369714,Christina,Bullock,,10/29/1964,2137.01,5/28/2023,Welch-Tate,Travel
+179770,Michael,Lewis,M,10/19/2004,429.32,6/30/2023,Kim-Juarez,Electronics
+700315,Joanna,Smith,M,10/31/1958,64.98,4/30/2023,Kane Inc,Restaurant
+456346,Robin,Perry,F,11/1/1953,484.31,9/6/2023,Stewart-Jones,Market
+15677,Traci,Wilkinson,M,10/25/1980,48.38,2/1/2023,Leon Inc,Restaurant
+58763,Melissa,Moreno,F,10/19/2004,759.25,9/26/2023,"Dickerson, Wilson and Davis",Electronics
+107534,Nathaniel,Cross,F,10/24/1985,338.43,2/24/2023,Moore-Schmidt,Electronics
+271724,David,Taylor,F,10/29/1967,37.94,2/26/2023,Ritter Ltd,Clothing
+247878,Alan,Becker,F,10/26/1979,84.16,5/31/2023,"Woods, Potter and Duran",Restaurant
+117393,Desiree,Snyder,F,10/23/1988,54.39,2/2/2023,Phelps and Sons,Restaurant
+773662,Linda,Hurley,F,10/29/1967,242.17,2/5/2023,Brandt-Bishop,Market
+169217,Courtney,Reyes,M,10/26/1979,914.55,7/29/2023,"Shannon, Oconnor and Shaw",Travel
+242274,James,Young,F,10/26/1979,242.85,3/19/2023,"Jones, Gray and Shaffer",Clothing
+294601,Jorge,Gillespie,F,10/27/1974,46.03,9/16/2023,White-Hammond,Cosmetic
+578719,Christopher,Wilson,,10/22/1992,95.56,5/20/2023,Carter-Brown,Cosmetic
+328810,Elizabeth,Leach,M,10/29/1965,676.53,1/29/2023,"Williams, Rodriguez and Bridges",Electronics
+933503,Patricia,Snow,F,10/23/1990,1968.57,10/3/2023,Terrell PLC,Travel
+345926,Emily,Wood,F,10/20/2001,505.82,7/4/2023,"Chen, Moreno and Werner",Electronics
+13464,William,Murray,F,10/24/1987,1566.82,8/23/2023,Casey LLC,Travel
+672788,Jennifer,Maxwell,M,10/20/2002,75.52,2/21/2023,Bush-Jones,Restaurant
+242386,Kyle,Watts,F,10/20/2001,34.67,6/9/2023,"George, Lowe and Bell",Restaurant
+853516,Richard,Rodriguez,F,10/19/2005,294.98,5/13/2023,Petty-Washington,Clothing
+673275,Samantha,Molina,F,10/22/1995,872.24,2/19/2023,Ballard Group,Electronics
+627942,Cassandra,Hart,M,10/20/2002,203.41,5/9/2023,Lee-Brown,Clothing
+878964,Rachel,Medina,F,10/26/1977,776.63,10/14/2023,Griffith Group,Electronics
+18794,Chad,Williams,F,10/30/1962,182.13,5/21/2023,Mitchell and Sons,Clothing
+896231,John,Caldwell,F,10/21/1999,133.91,5/4/2023,"Cross, Davis and Bright",Clothing
+113975,Leah,Thompson,F,10/22/1993,57.98,5/14/2023,Simon Inc,Cosmetic
+549577,Lauren,Chandler,M,10/20/2000,196.63,4/11/2023,Baxter Group,Cosmetic
+409712,Monique,Watson,M,10/30/1961,781.73,4/24/2023,"Rodriguez, Rubio and Jackson",Electronics
+941692,Danielle,Fox,,10/21/1996,188.06,5/21/2023,Thompson LLC,Clothing
+263359,Jessica,Matthews,M,10/29/1967,109.24,6/22/2023,"Thompson, Espinoza and Harvey",Clothing
+780508,Jonathan,Johnson,M,10/24/1984,509.13,8/22/2023,Castaneda-Wallace,Travel
+539241,James,Davis,F,10/23/1991,63.44,6/10/2023,Young and Sons,Restaurant
+10487,Renee,Stewart,M,10/21/1999,67.48,9/28/2023,"Roach, Christian and Lee",Electronics
+363989,John,Wells,M,10/20/2003,1588.14,5/25/2023,"Hartman, Alvarado and Rogers",Travel
+539847,Laura,Rodriguez,M,11/2/1949,1304.88,3/6/2023,Thompson-Knapp,Travel
+509151,Riley,Freeman,M,11/1/1953,71.73,5/27/2023,"Gomez, Thompson and Page",Market
+563954,Mary,Lane,M,10/23/1988,176.03,7/17/2023,Griffin-Hudson,Clothing
+610636,Christian,Wade,F,10/28/1971,452.36,8/5/2023,Sanchez-Henderson,Electronics
+858879,Micheal,Frazier,M,10/20/2002,742.69,3/27/2023,Jimenez-Brown,Electronics
+555985,Teresa,White,F,10/27/1975,342.47,4/2/2023,Nguyen Inc,Market
+795588,Morgan,Larson,F,10/22/1995,60.23,2/26/2023,"Lopez, May and Nelson",Restaurant
+725195,Danielle,Hill,M,10/22/1992,2691.54,6/1/2023,Dean-Mccoy,Travel
+524658,Ronald,Brewer,,10/25/1980,42.18,4/1/2023,Allen and Sons,Restaurant
+949666,Taylor,Johnson,F,10/28/1969,882.32,9/30/2023,Johnson-Rangel,Electronics
+748478,Brian,Smith,M,10/27/1972,400.96,2/16/2023,"Fields, Martinez and Burns",Electronics
+722354,Cassandra,Lawson,M,10/23/1991,171.66,1/15/2023,Diaz-Zamora,Electronics
+406976,Dorothy,Walters,M,10/29/1966,941.95,9/23/2023,Kennedy-Turner,Electronics
+953246,Michael,Price,F,10/27/1972,284.84,5/18/2023,Alexander-Porter,Market
+206507,Michelle,Soto,F,10/19/2004,104.76,8/13/2023,Hughes LLC,Clothing
+308368,Michael,Lee,M,10/30/1960,23.24,3/4/2023,Lynch-Moore,Restaurant
+390446,David,Pruitt,F,10/19/2004,160.97,5/18/2023,Fields and Sons,Cosmetic
+258742,Alicia,Figueroa,F,10/31/1956,195.72,3/16/2023,"Jones, Rivera and Hodge",Electronics
+858425,Colleen,Martinez,,10/31/1956,84.38,8/29/2023,Harding and Sons,Restaurant
+254860,Timothy,Park,F,10/29/1966,18.73,1/8/2023,Dillon Ltd,Cosmetic
+630714,Jaclyn,Chavez,F,10/29/1967,26.05,9/19/2023,Singleton Ltd,Clothing
+957631,Nina,Rocha,M,10/31/1959,36.5,2/21/2023,Weaver-Nichols,Clothing
+831267,Monica,Jefferson,M,10/31/1956,191.16,8/22/2023,Wallace Ltd,Clothing
+165254,Robin,Cohen,F,10/27/1972,181.39,1/26/2023,Greer Group,Electronics
+259620,Amanda,Harrington,F,10/21/1996,237.15,7/25/2023,Phillips and Sons,Electronics
+689159,Jerry,Reed,F,10/23/1991,52.21,9/14/2023,Henderson-Jackson,Cosmetic
+489244,Amber,Stephens,M,10/19/2005,97.02,7/8/2023,Rogers-Burns,Clothing
+443629,Angela,Wells,M,10/28/1969,2733.46,6/7/2023,Dawson-Blackwell,Travel
+448583,Cristina,Miller,M,10/23/1988,34.95,9/24/2023,Schultz LLC,Restaurant
+570326,Jody,Bryan,M,10/24/1985,71.87,3/22/2023,May Ltd,Restaurant
+202345,William,Holt,F,10/31/1957,255.59,6/1/2023,Vincent and Sons,Clothing
+876436,Shane,Farmer,F,10/29/1966,151.88,5/12/2023,"Jones, Rivas and Taylor",Cosmetic
+620764,Samantha,Yang,F,10/28/1970,93.23,2/13/2023,Bradley Group,Market
+367161,Margaret,Rose,M,10/28/1968,184.66,7/2/2023,Gomez Group,Cosmetic
+316248,Amy,Mclean,M,10/28/1970,426.07,9/15/2023,Roberts Inc,Electronics
+886987,Jessica,White,M,10/22/1993,128.8,3/11/2023,"Brown, Williams and Moore",Electronics
+748666,Dakota,Francis,F,10/26/1979,454.78,3/3/2023,Rowland-Medina,Market
+279688,Kathleen,Alexander,M,10/21/1998,46.26,9/13/2023,Porter Ltd,Market
+985896,Austin,Young,F,10/25/1981,244.17,4/4/2023,Nelson-Arnold,Clothing
+711812,Christian,Lee,M,10/20/2003,268.21,9/28/2023,"Munoz, Williams and Williams",Electronics
+500236,Alexandra,Gray,M,10/27/1974,265.48,1/1/2023,Fischer-Wheeler,Clothing
+47728,Bruce,Schneider,M,10/22/1993,188.72,10/9/2023,"Henry, Sanders and Johnson",Clothing
+473313,Michael,Fuller,M,10/20/2001,596.35,8/7/2023,Brown-Ortiz,Electronics
+428379,Samantha,Sanchez,M,10/19/2005,97.55,10/10/2023,"Meyer, Joseph and Gardner",Market
+968579,James,Price,F,10/22/1993,996.27,7/28/2023,"Mclaughlin, Woods and Simpson",Travel
+705386,Ian,Lee,M,10/27/1972,59.91,10/13/2023,Boone Inc,Cosmetic
+389566,Martin,Williams,F,10/27/1972,11.45,9/30/2023,Reynolds PLC,Restaurant
+789540,Travis,Cooper,,10/26/1976,120.36,4/3/2023,Riggs-Noble,Cosmetic
+409861,Melissa,Carter,M,10/28/1969,1594.65,5/10/2023,"Henderson, Whitaker and Watson",Travel
+457021,Jessica,Moon,,10/28/1970,344.38,7/25/2023,French PLC,Market
+80294,Monica,Martinez,F,10/26/1976,97.95,7/20/2023,Cowan Inc,Cosmetic
+788353,Andrew,Scott,M,10/29/1965,90.07,7/5/2023,Torres-Ferguson,Clothing
+345158,Charles,Travis,F,10/30/1961,442.47,1/14/2023,Sawyer-Cruz,Electronics
+197846,Robert,Yates,M,10/20/2001,103.41,10/3/2023,Ramirez-Armstrong,Cosmetic
+829844,Christopher,Wilson,F,11/1/1953,2965.61,9/18/2023,Torres-Kennedy,Travel
+819921,Denise,Garrison,F,10/28/1970,940.43,2/23/2023,"Garza, Lin and Kelly",Electronics
+617038,Trevor,Williams,F,10/21/1996,82.8,4/3/2023,Bennett-Galvan,Restaurant
+176383,Brianna,Brown,F,10/23/1991,157.15,6/2/2023,Rivas Inc,Cosmetic
+556135,Mike,Walker,M,10/25/1981,25.17,8/10/2023,"Snyder, Rodriguez and Cortez",Restaurant
+484959,Derrick,Hayes,F,10/26/1978,165.6,3/25/2023,Robertson-Nguyen,Cosmetic
+289922,Cameron,Torres,M,10/21/1997,26.33,3/10/2023,Powell-Freeman,Restaurant
+648912,Joshua,Sanchez,M,10/21/1997,53.74,7/19/2023,"Lambert, Miller and Ward",Clothing
+563682,Alisha,Torres,F,10/23/1989,57.19,3/13/2023,"Thomas, Kirby and Greer",Restaurant
+703941,Brandi,Williams,,10/19/2005,10.52,8/27/2023,"Gross, Burgess and Ellis",Cosmetic
+405744,James,Ortiz,M,11/2/1951,904.85,1/31/2023,"Moody, Hansen and Cook",Electronics
+595071,Teresa,Lopez,M,10/20/2001,554.18,5/3/2023,Shelton-Mcdonald,Electronics
+302146,Brenda,Estrada,F,10/24/1985,249.21,7/11/2023,"Keller, Stevens and Lopez",Electronics
+911272,Shannon,Baker,F,10/31/1957,92.55,5/11/2023,Suarez Inc,Clothing
+855641,Sherri,Williamson,F,10/19/2005,194.09,10/13/2023,"Wise, Miller and Jenkins",Cosmetic
+729230,Steven,Heath,M,10/27/1975,77.03,10/13/2023,"Lin, Peterson and Miller",Restaurant
+931156,Charles,Richards,M,10/31/1958,379.4,9/26/2023,"Lawrence, Gibson and Richardson",Electronics
+790518,Morgan,Brown,,10/21/1997,1650.08,9/17/2023,"Spence, Weber and Arnold",Travel
+194582,Amber,Welch,F,10/31/1956,62.88,1/19/2023,Wright-Estrada,Clothing
+674666,Craig,Maddox,F,10/24/1987,50.86,7/10/2023,"Nguyen, Huynh and Manning",Clothing
+910911,Corey,Kramer,M,11/2/1948,111.07,8/22/2023,"Thomas, Kent and Willis",Cosmetic
+487023,John,Williams,F,10/28/1971,464.13,9/8/2023,Sanders-Nguyen,Market
+182529,Donna,Snyder,M,10/24/1984,312.46,5/11/2023,"Chang, Sloan and Williams",Electronics
+629783,Katrina,Faulkner,F,10/20/2003,13.03,3/18/2023,"Drake, Wu and Williams",Restaurant
+887082,Katie,Obrien,M,10/25/1980,84.66,2/19/2023,"Bartlett, Williams and Petersen",Market
+318646,Mike,Mercer,M,10/22/1995,269.24,8/30/2023,"Johnson, Schultz and Glenn",Clothing
+16117,Pamela,Hart,F,10/29/1967,463.16,8/2/2023,Hernandez and Sons,Electronics
+251746,Jamie,Ortega,F,10/19/2004,34.46,7/13/2023,Evans and Sons,Cosmetic
+277748,Sara,Fuller,F,10/24/1985,52.01,2/18/2023,Peters-Ramirez,Cosmetic
+173157,Jacob,Duncan,F,11/2/1949,81.07,3/6/2023,"Davis, Lawson and Jones",Clothing
+521488,Sharon,Shea,F,11/2/1949,300.5,4/25/2023,Shelton Inc,Electronics
+511960,Christopher,Richardson,F,10/27/1973,67.07,4/8/2023,Vaughan LLC,Clothing
+313508,Tyler,Peterson,M,10/25/1980,162.36,7/26/2023,Reed-Peterson,Cosmetic
+895385,Jennifer,Stephenson,M,10/25/1983,50.98,5/25/2023,Perez-Nicholson,Cosmetic
+257894,Brianna,Hoffman,F,10/20/2001,186.67,9/5/2023,Foster-Andersen,Clothing
+511793,Shawn,Foster,M,11/2/1948,121.84,1/13/2023,Smith-Jackson,Cosmetic
+328794,Taylor,Donaldson,M,10/25/1982,291.05,10/14/2023,Jenkins LLC,Clothing
+710344,Andrew,Brown,M,10/21/1996,246.4,9/28/2023,Figueroa Inc,Market
+880854,Mary,Christensen,M,10/20/2003,464.53,10/8/2023,"Williams, Herrera and Black",Electronics
+795587,Joel,Turner,F,10/23/1989,2132.59,8/5/2023,James Inc,Travel
+174799,John,Brown,M,10/27/1975,952.03,5/14/2023,Dominguez Inc,Electronics
+99770,Edward,Owen,M,10/29/1965,494.45,5/14/2023,"Schultz, Davis and Clark",Market
+268082,Patrick,Hall,F,10/26/1978,108.57,2/14/2023,Mcdaniel-Hudson,Cosmetic
+618109,Joseph,Garcia,M,11/1/1953,105.64,6/3/2023,Rios-Brown,Market
+47686,Amber,Rogers,F,10/31/1956,284.7,5/29/2023,Cook-Cruz,Clothing
+696493,Hannah,Daniels,F,11/1/1955,139.87,5/29/2023,Clark and Sons,Electronics
+917900,Teresa,Gomez,F,11/1/1955,107.39,7/4/2023,Jordan Ltd,Clothing
+768566,Dustin,Michael,F,10/25/1981,16.51,9/2/2023,"Scott, Mendez and Smith",Restaurant
+707275,Joel,Moore,M,10/26/1976,214.63,2/15/2023,"Dalton, Rogers and Mccormick",Clothing
+139757,Ashley,Chung,M,11/1/1953,206.91,10/9/2023,Petty Inc,Clothing
+603041,Stacie,Yoder,M,10/20/2001,837.99,2/20/2023,Bradford-Shelton,Electronics
+732447,Jennifer,Chapman,M,10/26/1978,927.84,3/23/2023,Watkins Inc,Electronics
+225486,Anthony,Gonzalez,F,10/22/1995,68.35,5/17/2023,Robbins PLC,Restaurant
+750529,Christopher,Baker,,11/2/1951,169.89,9/12/2023,"Glover, Howe and Barnes",Clothing
+571084,Peggy,Gomez,M,10/31/1958,109.7,6/8/2023,Roth-Campos,Cosmetic
+394710,Matthew,Pennington,M,10/22/1994,382.82,5/13/2023,Phillips-Brown,Market
+540127,Gregory,Young,F,10/24/1986,167.75,6/27/2023,Wallace PLC,Clothing
+566582,Angie,Gillespie,,10/28/1970,460.32,8/17/2023,Wallace-Lyons,Market
+461988,Shawn,Singleton,M,10/20/2001,160.47,6/1/2023,"Trevino, Bowman and Thornton",Clothing
+728357,Nicole,Thomas,M,10/31/1959,66.21,7/28/2023,Bonilla Ltd,Restaurant
+329151,Jack,Smith,M,10/23/1990,43.32,3/15/2023,Phillips-Martinez,Cosmetic
+103225,Ann,Mcdonald,F,11/2/1948,29.99,7/22/2023,Owen LLC,Restaurant
+551862,Amanda,Owens,,10/23/1991,147.72,5/7/2023,Stephens-Lee,Clothing
+648555,Lawrence,Matthews,M,10/20/2000,22.05,5/16/2023,Moore-Thomas,Cosmetic
+644358,Kimberly,Rogers,M,10/29/1966,178.05,6/8/2023,"Weber, Hendricks and Thompson",Cosmetic
+470351,Scott,Hudson,M,10/30/1960,58.74,7/17/2023,Stevenson and Sons,Restaurant
+975636,Mary,Garcia,F,11/1/1955,125.78,3/26/2023,Boyd-Wilson,Market
+550671,Nathan,Reid,M,10/29/1966,171.26,7/6/2023,Jones-Wang,Clothing
+1704,Maria,Wade,M,10/20/2000,445.21,1/14/2023,Douglas-Ponce,Electronics
+99442,Jermaine,Fitzgerald,F,10/29/1967,376.84,10/14/2023,Wallace PLC,Market
+982464,Theresa,Perkins,M,10/20/2000,31.67,6/28/2023,Choi Group,Restaurant
+418136,Kenneth,Baxter,F,10/27/1974,98.68,2/26/2023,Chandler Inc,Cosmetic
+455017,Eric,Floyd,F,10/25/1981,2551.62,10/11/2023,Roth Inc,Travel
+56195,Lindsay,Ayala,F,10/26/1977,172.11,8/22/2023,"Freeman, Brady and Chambers",Cosmetic
+167540,Michael,Miller,M,10/30/1961,75.16,1/14/2023,"Lewis, Williams and Adkins",Cosmetic
+141209,Donald,Powell,F,10/30/1960,249.74,8/21/2023,Blair LLC,Travel
+685309,Micheal,Carpenter,M,10/19/2005,94.03,5/6/2023,Richardson-Munoz,Restaurant
+429251,Megan,Boyer,M,10/29/1967,238.74,1/15/2023,Ford-Sutton,Clothing
+548756,Courtney,Price,M,11/2/1949,884.98,5/27/2023,Brown-James,Electronics
+383899,Christopher,Walker,M,11/2/1948,1940.38,9/26/2023,Calderon-Hart,Travel
+986837,Ebony,Decker,F,10/20/2000,58.02,8/11/2023,Chavez Inc,Restaurant
+702118,David,Prince,M,10/24/1986,581.5,2/18/2023,Brown-Ingram,Travel
+733355,Megan,Evans,F,10/28/1968,143.69,6/26/2023,"Johnson, Thompson and Holmes",Cosmetic
+325448,Nancy,Martin,M,10/28/1968,80.98,10/7/2023,"Mcdaniel, Mann and Chambers",Restaurant
+860587,Matthew,Cruz,M,10/21/1997,174.31,7/24/2023,Wiley Ltd,Cosmetic
+113437,Joanna,Lopez,M,10/28/1971,151.88,3/4/2023,Mitchell-Barton,Clothing
+940346,Michael,Sanchez,M,10/26/1979,453.63,5/16/2023,"Jones, Clay and Williams",Electronics
+487622,Keith,Johnson,F,10/30/1961,892.47,5/17/2023,Fernandez Inc,Electronics
+72451,James,Williams,F,10/29/1965,373.75,8/29/2023,Bell Group,Electronics
+242343,Darryl,Schultz,M,10/23/1988,947.34,5/10/2023,"Curtis, Roberson and Morris",Electronics
+278285,Cynthia,Knight,F,10/25/1981,2193.92,4/17/2023,Kaiser and Sons,Travel
+660403,Christopher,Rogers,F,10/23/1990,997.02,6/7/2023,Davis-Parrish,Travel
+840492,Lucas,Baldwin,F,10/24/1986,39.08,3/18/2023,"Myers, Scott and Neal",Clothing
+164201,Rachel,Schwartz,F,10/26/1978,91.18,8/18/2023,"Cook, Walter and Jordan",Restaurant
+353396,Elizabeth,Mcclure,F,10/22/1994,1960.92,3/6/2023,Chaney and Sons,Travel
+954816,Matthew,Taylor,M,10/22/1992,111.14,2/2/2023,French Inc,Cosmetic
+712214,Jasmine,Gamble,M,11/1/1954,556.4,3/20/2023,"Hogan, Johnson and Burns",Travel
+473363,Adrian,Molina,F,10/24/1985,138.4,7/29/2023,Liu PLC,Clothing
+17537,Micheal,Edwards,M,10/20/2002,1300.2,6/15/2023,"Harmon, Peterson and Mack",Travel
+34614,Rickey,Daniel,,10/23/1988,660.99,10/14/2023,Williams-Wells,Electronics
+622450,Mary,White,,10/22/1992,951.81,2/5/2023,"Monroe, French and Landry",Electronics
+89538,Hunter,Macdonald,M,10/29/1967,449.75,8/7/2023,"Hart, Hill and Martinez",Electronics
+319116,Joshua,Turner,F,10/27/1973,1435.24,6/23/2023,Gomez-Ochoa,Travel
+197903,Virginia,Lewis,F,11/2/1948,15.36,1/9/2023,Ross-Berg,Cosmetic
+683833,Andrew,Thomas,,10/27/1973,171.36,4/27/2023,Gilbert-Little,Market
+420464,Ashley,Knight,M,10/24/1986,77.33,4/5/2023,Hansen and Sons,Restaurant
+448775,Anthony,White,F,10/24/1986,58.32,1/3/2023,Becker Group,Clothing
+344728,Amy,Campbell,M,11/1/1953,75.55,4/16/2023,Nunez LLC,Restaurant
+428703,Thomas,Turner,F,10/30/1962,178.26,3/15/2023,Gutierrez-Marshall,Travel
+999639,Paul,Strickland,M,10/31/1956,111.72,2/15/2023,"Malone, Holt and Sanford",Cosmetic
+77989,Austin,Lin,F,10/21/1996,216.46,9/6/2023,"Banks, Peterson and Perez",Travel
+731900,William,Sawyer,M,10/21/1998,83.98,4/9/2023,Vaughn-Massey,Restaurant
+618193,Nathaniel,Day,F,10/24/1986,35.28,9/26/2023,"Sanders, Hernandez and Harper",Restaurant
+802152,Cheryl,Andrews,,10/25/1983,322.68,5/15/2023,Arnold Inc,Travel
+90713,Edward,Smith,M,10/28/1968,161.33,7/18/2023,"Tran, Brandt and Garcia",Cosmetic
+833635,Jason,Bryant,F,10/28/1969,1649.94,3/17/2023,Adams-Reese,Travel
+61456,Michael,Woods,F,11/2/1951,379.94,3/21/2023,Davis LLC,Electronics
+686454,Austin,Anderson,M,10/25/1982,198.95,4/13/2023,Peters-Charles,Clothing
+159928,Elizabeth,Williams,,10/31/1958,260.94,1/6/2023,Schmidt-Reed,Electronics
+426385,Jesse,Harris,M,10/27/1972,456.76,10/2/2023,Gonzales LLC,Market
+947775,April,Lee,M,11/2/1949,274.66,2/3/2023,Baker Ltd,Electronics
+78644,Kim,Anderson,,10/26/1977,489.58,6/17/2023,Steele-White,Market
+62934,Emily,West,F,11/2/1948,10.81,4/23/2023,Holt Inc,Market
+873156,Lori,Chavez,M,10/22/1992,967.93,3/18/2023,"Hernandez, Sexton and Phillips",Electronics
+514596,Mark,Reilly,F,10/23/1991,65.82,1/17/2023,Simmons-Gonzalez,Restaurant
+276479,Michael,Black,M,10/31/1959,195.15,8/23/2023,Jones Ltd,Cosmetic
+404685,Erik,Harris,M,11/1/1952,87.99,9/27/2023,Davis-Bray,Clothing
+749921,David,Williams,F,10/31/1957,75.83,2/4/2023,"Allen, Lopez and Ross",Market
+67579,Mason,Peters,M,10/30/1960,818.62,6/1/2023,"Nolan, Hooper and Cooper",Electronics
+106293,Elijah,Franklin,F,10/19/2005,361.75,1/8/2023,Sanchez Inc,Electronics
+2928,Tanner,Wheeler,M,10/21/1996,81.58,4/8/2023,Ruiz Ltd,Clothing
+990800,Steven,Cuevas,F,11/1/1952,1809.28,9/9/2023,Davis-Johnson,Travel
+777612,Alejandra,Dunn,M,10/29/1967,352.97,5/31/2023,Garcia-Cochran,Electronics
+488067,Robin,Thompson,F,11/2/1949,39.51,1/18/2023,Stanley-Martin,Cosmetic
+137282,Belinda,Spears,M,10/31/1958,124.85,5/24/2023,Henderson-Kramer,Market
+706367,James,Mclaughlin,M,11/2/1949,234.21,8/8/2023,Lee PLC,Market
+407774,Juan,White,,10/19/2004,282.82,2/23/2023,Wallace-Hanson,Clothing
+99195,Jason,Williams,F,10/30/1961,50.01,9/10/2023,Woodward-Vincent,Restaurant
+198048,Brian,Harmon,F,10/31/1958,15.04,1/15/2023,Castro and Sons,Restaurant
+66768,Madison,Singh,M,10/31/1957,14.63,7/16/2023,"Warren, Knox and Liu",Cosmetic
+640085,Alyssa,Cantu,F,10/29/1967,197.11,9/19/2023,"Bell, Fowler and Hines",Cosmetic
+147041,Antonio,Wright,F,11/2/1949,67.35,4/27/2023,"Crawford, Jones and Barton",Restaurant
+143592,Jon,Martinez,F,10/25/1980,2267.91,7/1/2023,Clay Group,Travel
+580041,Jo,Freeman,F,10/27/1975,62.14,6/16/2023,"Webb, Jones and Wood",Restaurant
+385345,Mary,Cook,F,10/24/1987,34.4,2/1/2023,Davis-Owens,Cosmetic
+982196,Brittany,Villegas,M,10/26/1979,34.67,5/29/2023,Miller-Morales,Clothing
+824530,Tommy,Foley,F,10/19/2004,33.75,4/18/2023,Duarte Inc,Restaurant
+390278,Brandon,Jackson,F,11/1/1953,705.64,2/28/2023,White-Ayala,Electronics
+781225,Edward,Buck,M,10/31/1957,211.5,7/10/2023,Reed Group,Clothing
+491564,Krystal,Richmond,F,10/23/1989,102.29,7/1/2023,Gonzalez LLC,Cosmetic
+123776,Warren,Johnson,M,10/26/1979,757.41,9/17/2023,Delgado-Campos,Electronics
+734200,Billy,Miller,,10/19/2004,325.3,6/8/2023,"Russo, Webb and Williams",Travel
+847655,Lisa,Ruiz,,10/22/1993,28.68,2/7/2023,"Haynes, Quinn and Baker",Clothing
+246066,Samantha,Mays,M,10/26/1976,537.08,2/14/2023,Pope Ltd,Travel
+723540,Steven,Richardson,F,10/27/1974,859.54,3/10/2023,Martinez PLC,Travel
+372176,Max,Morris,F,10/21/1999,2069.58,3/27/2023,Clark-Cabrera,Travel
+917980,Austin,Owens,M,10/26/1979,97.42,5/4/2023,Adams Inc,Market
+506468,Lisa,Fox,M,10/22/1995,377.91,1/15/2023,"Reese, Edwards and Buckley",Market
+804149,Christopher,Short,F,10/26/1979,1813.59,2/2/2023,Schroeder-Hamilton,Travel
+977752,Amanda,Ball,M,10/26/1978,133.14,1/29/2023,Browning PLC,Cosmetic
+343230,Mario,Alvarez,F,11/2/1951,82.19,8/28/2023,Bradley LLC,Cosmetic
+274710,Henry,Hopkins,M,11/1/1955,544.7,2/2/2023,Griffin-Gomez,Electronics
+904621,Peter,Graves,M,10/30/1963,117.38,5/27/2023,"Munoz, Flores and Foster",Cosmetic
+686082,Kathy,Bauer,F,10/27/1975,20.29,7/13/2023,Johnson Group,Cosmetic
+582968,David,Mckinney,M,10/24/1986,272.62,3/30/2023,Campbell-Hall,Market
+692561,Christopher,Rodriguez,F,10/27/1972,508.74,4/20/2023,Malone-Duarte,Electronics
+644576,Bruce,Ramirez,M,10/25/1981,829.86,9/6/2023,"Ross, Delgado and Mclean",Electronics
+344202,Valerie,Preston,M,10/22/1992,156.71,8/24/2023,"Jacobs, Brown and Martinez",Clothing
+265450,Logan,Rodriguez,M,11/2/1950,60.2,2/14/2023,Hampton-Harrison,Market
+799269,Janice,Bartlett,M,10/30/1962,216.46,2/3/2023,Alvarez-Anderson,Clothing
+285936,Kristine,Wang,F,10/22/1992,2320.38,3/26/2023,Garcia-Oneill,Travel
+857152,Christopher,Mcclain,F,10/24/1984,244.18,10/1/2023,Smith Ltd,Clothing
+68213,Juan,White,F,10/21/1998,414.06,7/11/2023,Hopkins Inc,Travel
+17294,Katie,Lee,F,11/2/1949,172.4,3/24/2023,"Kramer, Manning and Shaw",Clothing
+779710,Brandon,Montoya,F,10/26/1978,155.55,8/13/2023,"Doyle, Vasquez and Mason",Cosmetic
+85450,Christian,Mcmillan,F,10/24/1986,72.52,5/1/2023,Huynh PLC,Market
+743569,Timothy,Graves,M,11/2/1948,303.57,8/29/2023,"Sanchez, Rodriguez and Huff",Market
+698500,William,Michael,M,10/30/1960,102.12,10/1/2023,Sullivan-Martin,Cosmetic
+674485,Teresa,Edwards,M,10/21/1998,150.58,9/27/2023,"Collins, Mendoza and Anderson",Market
+437341,Alan,Liu,F,10/22/1995,1453.3,9/1/2023,May-Wood,Travel
+302332,Michael,Wood,F,10/28/1969,1196.24,3/8/2023,Ward Inc,Travel
+762884,Thomas,Phillips,,10/30/1962,28.72,3/21/2023,"Strong, Lopez and Martin",Restaurant
+654667,Kathleen,Moore,M,11/2/1951,2109.37,7/30/2023,Smith Ltd,Travel
+596926,Robert,Henderson,M,11/1/1953,188.51,2/26/2023,"Vargas, Gray and Harrington",Cosmetic
+825073,Hannah,Fox,M,10/22/1993,61.03,3/31/2023,Bush Ltd,Electronics
+413744,Amber,Hall,F,10/28/1971,160.5,4/9/2023,Romero Group,Market
+385437,Joseph,Patterson,M,10/29/1965,120.68,4/28/2023,Holden-Arnold,Clothing
+533408,Julie,Bennett,F,10/26/1978,826.6,6/30/2023,Le LLC,Electronics
+634538,John,Lopez,,10/27/1975,155.23,1/3/2023,Robbins-Webster,Market
+94910,John,Crawford,M,11/1/1953,2151.8,5/11/2023,"Smith, Ramos and Martinez",Travel
+271039,Caroline,Horton,M,10/23/1990,179.57,5/20/2023,Walker LLC,Market
+932788,Colleen,Smith,F,10/23/1991,739.04,5/27/2023,Dixon-Duran,Electronics
+642210,Karen,Spencer,M,10/29/1964,418.18,8/8/2023,"Rose, Schneider and Wall",Electronics
+47383,Benjamin,Stephens,M,10/21/1998,1609.05,1/13/2023,Wang-Fisher,Travel
+836701,Steven,Smith,F,11/1/1952,12.85,7/17/2023,Jennings LLC,Market
+430036,Ashley,Rogers,M,10/28/1970,98.67,5/28/2023,"Tyler, Young and Grant",Electronics
+242709,Sharon,Rodriguez,M,10/24/1984,131.51,5/8/2023,Anderson PLC,Electronics
+995823,Tammy,Peterson,F,10/25/1980,12.9,3/16/2023,Howard-Bailey,Cosmetic
+72963,Taylor,Mcdonald,,10/31/1959,24.81,6/11/2023,Garcia-Hoffman,Cosmetic
+892285,Jason,Cruz,,10/28/1968,1268.92,6/1/2023,Cox-Cohen,Travel
+78780,Patrick,Brown,,10/31/1957,484.81,9/6/2023,"Henderson, Mendoza and Buchanan",Electronics
+391038,Shannon,Smith,F,10/28/1971,190.12,10/11/2023,Underwood Group,Market
+445900,Andrea,Johnson,M,10/26/1977,28.32,3/4/2023,Perez LLC,Cosmetic
+514026,Matthew,Gregory,F,10/21/1996,451.15,9/12/2023,English and Sons,Electronics
+746439,Jessica,Smith,F,11/1/1952,135.13,7/1/2023,Odom Ltd,Clothing
+512599,Katherine,Hurst,M,10/27/1973,93.25,1/9/2023,"White, Vasquez and Davis",Cosmetic
+375034,Steven,Murphy,F,10/26/1976,21.35,4/4/2023,"Gates, Garza and Hart",Restaurant
+399629,Andrew,Dougherty,M,10/20/2000,603.82,3/19/2023,Shah PLC,Electronics
+501410,Brenda,Gutierrez,M,11/1/1952,822.79,8/19/2023,"Knight, Oneill and Russell",Electronics
+157405,Nicole,Hogan,F,10/20/2003,100.82,6/21/2023,Cobb PLC,Electronics
+559353,Douglas,Simmons,F,10/26/1976,1964.43,2/28/2023,Peterson-Hernandez,Travel
+258050,Tammy,Montgomery,M,11/2/1949,80.58,2/13/2023,"Smith, Carr and Allen",Restaurant
+948568,Audrey,Allen,F,11/2/1948,14.22,5/26/2023,Sawyer-Wilson,Restaurant
+423944,Rebecca,Conley,F,10/27/1973,117.58,8/20/2023,"Brown, Hill and Howell",Cosmetic
+886117,Kristen,Ward,F,10/24/1986,937.03,4/18/2023,"Adams, Lewis and Johnson",Electronics
+9393,Charles,Haley,F,10/25/1981,41.57,1/13/2023,Wells and Sons,Restaurant
+536554,Jill,Fields,F,10/24/1985,221.24,2/13/2023,Wong-Black,Market
+935283,Nathaniel,Cooper,F,10/20/2001,55.16,9/27/2023,Fleming LLC,Restaurant
+757965,Michelle,Rojas,F,10/28/1969,130.24,1/11/2023,"Vasquez, Wright and Williams",Cosmetic
+570564,Pamela,Hill,M,10/26/1976,156.42,3/2/2023,"Mcmahon, Knox and Lucas",Market
+158318,Christina,Diaz,M,10/28/1971,51.71,2/28/2023,Hardin LLC,Restaurant
+443328,Mikayla,Butler,M,10/30/1960,61.51,2/21/2023,Zimmerman and Sons,Restaurant
+870324,Kyle,Thomas,M,10/22/1994,51.34,9/4/2023,Atkinson PLC,Clothing
+730869,Malik,Jensen,M,10/26/1977,88.37,1/1/2023,Donovan Inc,Cosmetic
+551649,Andrew,Hernandez,,10/28/1968,2136.71,5/12/2023,Wiley-Taylor,Travel
+381572,Nicole,Cobb,M,10/23/1990,134.26,5/22/2023,Cooper and Sons,Clothing
+934661,Melissa,Miller,M,10/23/1989,194.58,8/31/2023,Meyer-Martin,Travel
+109693,Sandra,Thompson,F,10/29/1967,109.96,7/30/2023,Shah Group,Clothing
+317040,Richard,May,F,10/30/1961,2679.57,3/9/2023,"Barnes, Hamilton and Garcia",Travel
+788292,Hannah,Jenkins,,10/24/1984,152.72,3/20/2023,"Orozco, Campbell and Horton",Market
+457152,Kristen,White,M,11/1/1955,22.92,9/15/2023,Alvarez PLC,Restaurant
+193450,Michelle,Wolf,M,11/2/1951,103.95,4/4/2023,Andrade-Rush,Cosmetic
+542133,Catherine,Gonzalez,F,10/23/1991,402.42,7/29/2023,Huynh LLC,Market
+316838,Sean,Wilkerson,F,10/25/1981,287.04,1/18/2023,"Rojas, Curry and Long",Clothing
+826745,Rebecca,Mcmillan,M,10/25/1982,42.74,6/15/2023,Harrington-Delgado,Restaurant
+48917,Joseph,Williams,F,11/1/1955,271.91,4/2/2023,Elliott-Jones,Electronics
+83601,Daniel,Harris,F,10/21/1997,15.1,8/26/2023,"Hensley, Meyer and Carrillo",Restaurant
+617057,Stephanie,Frank,M,10/20/2002,438.77,5/26/2023,Rose-Sanders,Market
+698179,Theresa,Nguyen,M,10/28/1970,142.37,2/14/2023,"Terry, Gonzales and Bates",Clothing
+37981,Shane,Wagner,F,10/25/1980,576.89,4/10/2023,Liu PLC,Electronics
+226477,David,Jackson,F,10/28/1971,160.2,9/6/2023,"Williams, Scott and Nichols",Cosmetic
+939493,Mark,Sloan,M,11/1/1952,92.27,8/10/2023,Baker Inc,Restaurant
+765419,Joshua,Davidson,M,10/20/2003,49.92,8/15/2023,Kaiser-Patterson,Restaurant
+678855,James,Coleman,F,10/31/1957,93.14,1/19/2023,Stewart-Mills,Cosmetic
+294782,Jennifer,Carroll,F,10/25/1983,15.76,1/15/2023,Harper-Harris,Restaurant
+198206,Danielle,Allen,F,10/27/1973,782.8,5/18/2023,Gates-Young,Electronics
+122677,Jesus,Woods,F,11/1/1953,114.36,7/28/2023,Boyd-Strickland,Cosmetic
+413719,Kyle,Price,F,10/31/1957,142.24,4/27/2023,Phillips PLC,Cosmetic
+175966,Jean,Bryant,F,11/1/1954,134.59,7/21/2023,Barber LLC,Clothing
+908587,Jesus,Hall,M,10/30/1962,196.86,9/11/2023,"Adams, Rose and Franklin",Clothing
+456242,Nicole,Miller,F,10/23/1989,1103.44,1/10/2023,Silva PLC,Travel
+344797,Aaron,Hernandez,F,10/28/1969,139.03,3/20/2023,"Young, Cardenas and Ramos",Cosmetic
+982679,Mary,Rowland,F,10/27/1973,76.85,9/26/2023,Valenzuela-Flores,Clothing
+36793,Timothy,Rivas,F,10/30/1961,69.12,1/15/2023,Hoover PLC,Restaurant
+470599,Adrian,Mason,F,11/2/1951,191.32,7/29/2023,"Rogers, Mclaughlin and Rodriguez",Travel
+763062,Sharon,Lee,,10/27/1975,957.01,1/23/2023,"Moss, Gilmore and Kirby",Electronics
+600899,Cody,Hebert,,11/2/1951,97.71,2/18/2023,"Hughes, Taylor and Trevino",Restaurant
+696441,Joyce,Miles,F,10/26/1978,175.53,6/28/2023,Gilbert and Sons,Cosmetic
+174588,Andrea,Galloway,M,10/26/1978,28.59,10/2/2023,Miller-Carroll,Cosmetic
+72544,Angel,Henson,M,10/24/1985,1772.59,3/17/2023,"Robinson, Olson and Phillips",Travel
+29326,John,Weaver,,11/2/1949,149.53,7/15/2023,Chen and Sons,Clothing
+996677,Kimberly,Payne,M,10/19/2005,324.03,7/27/2023,"Garcia, Davis and Moreno",Travel
+512392,Diana,Macdonald,F,10/29/1966,169.1,9/2/2023,"Roberts, Harris and Ellis",Clothing
+370125,Mark,Wilson,F,10/19/2005,99.04,10/2/2023,Russell-Roberts,Clothing
+122457,Shawn,Gonzalez,F,10/30/1962,2223.54,5/6/2023,Jones-Guzman,Travel
+346526,Benjamin,Cox,M,10/20/2003,96.02,7/12/2023,"Booth, Stevenson and Rodgers",Clothing
+621457,Nicole,Collier,F,10/27/1975,393.49,7/29/2023,"Boyle, Cervantes and Campbell",Electronics
+174536,Julia,Kelley,M,10/31/1959,163.52,1/30/2023,Mckay Group,Clothing
+529775,Megan,Kramer,F,10/26/1979,420.41,1/22/2023,Wang-Farley,Market
+611867,Ashley,Spence,F,10/19/2004,159.43,9/29/2023,Jordan-Carter,Clothing
+438207,Taylor,Nelson,F,10/27/1972,208.09,9/25/2023,"Leon, Marks and Gonzalez",Clothing
+772009,Carol,Garcia,M,10/28/1968,236.29,9/23/2023,"Willis, Parker and Moore",Clothing
+584067,Paul,Martin,F,10/24/1986,28.06,2/2/2023,Ashley-Caldwell,Restaurant
+981705,Alexis,Williams,,10/27/1974,71.85,3/26/2023,Garcia Ltd,Market
+567848,Ernest,George,F,10/25/1982,724.76,8/6/2023,Ward Ltd,Electronics
+639044,Nicole,Dyer,M,10/20/2000,36.61,7/5/2023,"Leon, Johnson and Ruiz",Restaurant
+82707,Shane,Townsend,M,10/20/2001,178.99,6/20/2023,Andrews-Pratt,Cosmetic
+878972,Sabrina,Robbins,F,10/20/2003,93.19,4/3/2023,Thomas-Henry,Cosmetic
+36036,Amy,Jones,M,11/1/1953,925.46,9/14/2023,Cox-Smith,Electronics
+486034,Michele,Mathis,F,10/25/1983,565.81,2/1/2023,Gonzalez PLC,Electronics
+577391,Robert,Woodard,F,11/1/1954,114.14,4/23/2023,Hickman-Simmons,Market
+783571,Sharon,Anderson,M,10/30/1960,99.1,10/1/2023,Clarke and Sons,Restaurant
+132012,Brandy,Smith,F,10/25/1980,449.35,6/14/2023,Alvarez-Smith,Electronics
+572099,Brian,Bruce,M,10/28/1971,39.25,3/8/2023,Morton Inc,Cosmetic
+654307,Jeffrey,Baker,M,10/29/1967,906.76,8/25/2023,Baker PLC,Electronics
+328092,Miguel,Jones,M,10/23/1990,118.01,9/1/2023,Johnson-Walker,Cosmetic
+138686,Joshua,Conner,F,10/28/1968,491.22,6/1/2023,Gonzalez LLC,Market
+53036,Douglas,Williams,M,10/22/1994,80.61,8/18/2023,Thomas-Burke,Cosmetic
+656702,Thomas,Kim,M,10/31/1956,21.88,5/22/2023,"Berg, Vasquez and Webb",Cosmetic
+239840,Jessica,Williams,F,10/20/2000,180.34,7/25/2023,"Johnson, Campos and Russell",Clothing
+20803,Caitlin,Martinez,M,10/30/1960,345.83,4/13/2023,Malone-Johnson,Travel
+971676,Evan,Miller,M,10/23/1991,295.87,8/11/2023,Romero-Ware,Clothing
+147821,Betty,Maldonado,,10/24/1987,177.52,7/26/2023,"Love, Gonzalez and Garrett",Clothing
+757785,Angelica,Simmons,F,10/21/1999,628.7,10/2/2023,Fitzgerald-Brown,Electronics
+822096,Daniel,Martinez,M,10/25/1981,360.42,6/7/2023,"Wilkerson, Miller and Baxter",Travel
+571878,Molly,Barker,M,10/26/1977,1352.09,4/22/2023,Green Group,Travel
+965971,James,Smith,F,10/28/1971,255.9,9/16/2023,"Owens, Wilkins and Logan",Clothing
+946488,Melvin,Greer,F,10/26/1979,62.44,6/29/2023,Rivera Inc,Cosmetic
+604866,Brandi,Young,M,10/25/1981,856.63,2/2/2023,"Ortiz, Lewis and Brown",Electronics
+698401,Melissa,Perez,F,10/27/1972,399.38,3/31/2023,Hernandez Inc,Travel
+332763,Tonya,Escobar,F,10/23/1990,287.87,1/29/2023,Johnson-Holloway,Clothing
+407886,Kathleen,Gibson,F,10/21/1996,334.96,7/27/2023,Norris-Nelson,Market
+220019,Emily,Brown,F,10/23/1990,37.09,5/27/2023,Thompson-Shields,Restaurant
+451593,Leonard,Scott,F,10/31/1958,442.85,7/14/2023,Martinez-Miller,Electronics
+457078,Adam,Johnson,M,10/20/2000,1657.32,1/24/2023,"Shepard, Lopez and Sullivan",Travel
+601713,Brandy,Ward,F,10/23/1991,302.91,9/5/2023,Logan Ltd,Travel
+878515,Sean,Norris,M,11/2/1950,11.98,8/8/2023,Townsend Inc,Restaurant
+171494,Cody,Morgan,M,10/23/1990,601.74,6/14/2023,"Lamb, Ross and Daniels",Electronics
+356161,Kevin,Koch,M,10/29/1964,2128.13,1/17/2023,Valdez LLC,Travel
+696353,Stephanie,Atkinson,F,10/27/1975,163.68,7/23/2023,Jones-Turner,Cosmetic
+559528,Christine,Smith,F,10/28/1968,141.86,8/11/2023,Johnson PLC,Travel
+925134,Frederick,West,F,10/30/1961,238.9,2/25/2023,Garrett Inc,Clothing
+143743,Keith,Williams,M,10/29/1965,33.22,6/30/2023,Waller-Booth,Market
+412769,Debra,Brown,M,10/29/1965,141.44,9/28/2023,Keller-Preston,Clothing
+540140,Melanie,Garcia,M,10/20/2001,163.25,7/19/2023,"Clark, Morales and Rogers",Clothing
+207282,Charles,Brooks,M,10/30/1960,88.28,1/22/2023,White-Douglas,Restaurant
+661856,Cameron,Henry,M,10/24/1984,25.93,3/27/2023,Miller Inc,Restaurant
+38449,Michael,Richardson,F,10/23/1989,188.63,8/16/2023,"Robinson, Montgomery and Schultz",Cosmetic
+926098,Kelli,Montoya,F,10/23/1990,18.97,4/21/2023,Rodgers-Rogers,Restaurant
+411695,Matthew,Smith,M,11/2/1950,717.71,4/2/2023,"Walker, Villarreal and Miller",Electronics
+54018,Ashley,Barnes,,11/2/1949,1207.74,10/6/2023,Schultz and Sons,Travel
+760808,Sheila,Reynolds,F,10/29/1967,441.3,5/22/2023,Anderson PLC,Electronics
+358623,Ann,Hernandez,F,10/19/2005,1046.01,2/18/2023,"Hernandez, Aguilar and Estrada",Travel
+881180,Laurie,Robinson,M,10/28/1971,331.04,6/2/2023,"Howell, Hernandez and Mercer",Electronics
+81815,Rachel,Patterson,,10/21/1996,25.42,6/30/2023,Stone-Houston,Cosmetic
+973261,Cathy,Wang,F,11/1/1953,2906.68,4/3/2023,Medina-Coleman,Travel
+640524,Julia,Moses,F,10/31/1958,436.83,3/21/2023,"Fletcher, Moore and Mack",Market
+808499,Shawn,Sanders,M,10/21/1997,39.84,9/30/2023,Erickson Group,Clothing
+298695,Sarah,Brown,M,10/28/1969,181.83,3/3/2023,Ryan Inc,Clothing
+223326,Donald,Harris,F,10/29/1964,81.94,10/8/2023,Moran-Garcia,Clothing
+963038,Daryl,Peterson,F,10/22/1992,916.19,3/20/2023,Petersen-Strong,Electronics
+427903,Christopher,Serrano,F,10/26/1977,2765.03,7/10/2023,Jimenez-Bailey,Travel
+550311,Kelly,Fuentes,M,10/27/1974,33.25,7/1/2023,"Hernandez, Davenport and Fowler",Cosmetic
+912568,Clayton,Hill,F,10/23/1990,336.13,8/25/2023,Harris-Harrington,Market
+72491,Tammy,Russell,F,10/30/1960,51.15,1/8/2023,"Wall, Rivas and Garcia",Cosmetic
+488032,Stephanie,Harmon,F,11/1/1952,17.05,9/2/2023,Nichols Group,Restaurant
+29027,Kelly,Wong,M,10/21/1996,54.29,3/9/2023,"Mayer, Parker and Kelly",Restaurant
+426910,Krista,Hamilton,M,10/24/1985,242.41,4/5/2023,Clark-Ware,Clothing
+748163,Jennifer,Hansen,M,10/25/1983,371.26,1/2/2023,Cooley-Evans,Electronics
+645552,Tina,Espinoza,F,10/30/1963,49.44,10/4/2023,Leonard and Sons,Restaurant
+225408,Kathleen,Clark,,10/29/1967,180.13,8/17/2023,"Perry, Powell and Fletcher",Clothing
+715159,Tony,Lee,F,10/31/1959,289.19,3/25/2023,Hinton-Soto,Market
+826617,Donna,Vargas,M,10/19/2004,65.98,7/25/2023,"Scott, Miller and Walker",Restaurant
+393600,Aaron,Dominguez,F,10/26/1979,72.71,8/19/2023,"Bell, Hoover and Lopez",Electronics
+911801,Darin,Richards,F,10/31/1959,26.38,7/25/2023,"Wilkerson, Silva and Hamilton",Restaurant
+288855,Robert,Bender,F,10/21/1997,172.85,2/7/2023,"Reynolds, Moss and Clark",Clothing
+481423,Whitney,Ramsey,F,10/31/1959,567.25,2/4/2023,Reyes-Chang,Electronics
+609738,Ashley,Robinson,,10/27/1975,243.48,2/7/2023,Brown and Sons,Clothing
+94791,Wendy,Myers,,10/21/1998,691.5,2/8/2023,Singleton Ltd,Electronics
+493739,Sandra,Griffin,M,10/27/1974,656.7,1/7/2023,"Wilson, Gonzalez and Garcia",Electronics
+197102,Ashley,Smith,M,10/31/1957,969.82,2/18/2023,Riley-Simpson,Electronics
+191796,Tonya,Diaz,,11/2/1951,299.49,2/6/2023,Mendez PLC,Clothing
+92986,Eric,Ruiz,M,10/22/1994,714.53,4/29/2023,"Wilson, Meadows and Williams",Travel
+480346,Brian,Levine,M,10/31/1959,741.75,9/13/2023,Kelley Group,Electronics
+606784,Jill,Myers,,11/2/1949,65.66,8/5/2023,Snyder Group,Restaurant
+183154,Patrick,Torres,F,10/20/2002,28.93,6/11/2023,"Lawrence, Williams and Washington",Cosmetic
+626392,Robert,Schroeder,M,10/22/1994,47.99,8/23/2023,Alvarez Ltd,Restaurant
+664214,Kevin,Smith,F,10/31/1956,326.58,10/8/2023,Williams-Elliott,Electronics
+136635,Dana,Thomas,F,10/29/1965,199.88,3/14/2023,Henry-Mahoney,Cosmetic
+855677,Debbie,Brown,M,10/20/2003,721.69,4/19/2023,"Morris, Jensen and Reyes",Electronics
+20420,David,Burns,M,10/26/1977,239.46,8/14/2023,"Everett, Collins and Johnson",Electronics
+358751,Amanda,Fisher,F,10/23/1989,85.93,7/25/2023,Brown-Morales,Clothing
+436275,Jenna,Roberts,F,10/24/1987,44.68,5/22/2023,Lee Group,Restaurant
+769698,Luis,Gonzalez,F,10/29/1965,488.89,3/20/2023,Lopez-Miller,Market
+102653,Matthew,Hatfield,M,11/1/1955,934.96,4/15/2023,"Moore, Smith and Anderson",Electronics
+81561,Samantha,Gilmore,F,10/26/1977,168.87,10/2/2023,Patel-Perry,Cosmetic
+691331,Matthew,Beltran,M,10/27/1974,683.4,6/28/2023,"Stewart, Barber and Giles",Travel
+568475,Veronica,Mcgrath,F,10/29/1966,270.82,5/24/2023,Kent Ltd,Clothing
+801557,Michael,Ortiz,M,10/21/1996,175.58,2/12/2023,Wilson-Brown,Electronics
+473102,Matthew,Kennedy,F,10/24/1985,352.16,6/25/2023,Ramsey Ltd,Market
+366401,Emma,Nelson,M,10/28/1971,26.28,9/18/2023,Strong-Juarez,Market
+938065,Traci,Turner,F,10/23/1989,197.08,8/3/2023,Harris Group,Cosmetic
+749109,Jacqueline,Phillips,M,10/19/2005,426.99,4/16/2023,"Barnett, Wilson and Adams",Electronics
+530796,Robert,Reid,M,10/26/1977,166.11,3/6/2023,Ramsey LLC,Travel
+458088,Dillon,Delacruz,M,10/28/1970,196.94,8/20/2023,Huerta Inc,Clothing
+360110,Evelyn,Chavez,,10/28/1968,632.29,7/18/2023,Mcclure-Huffman,Electronics
+978666,Brittany,Christian,,10/19/2005,466.78,4/5/2023,Thompson-Gallegos,Market
+959842,Veronica,Kerr,M,10/29/1966,2242.24,7/11/2023,Barnes PLC,Travel
+70345,Amanda,Clark,F,10/30/1963,2295.32,8/28/2023,"Malone, Smith and Maynard",Travel
+123337,Lisa,Charles,M,11/1/1955,232.08,8/27/2023,Thomas LLC,Market
+204590,Eileen,Duarte,M,10/30/1961,18.32,10/7/2023,Klein LLC,Restaurant
+229148,Michael,Carrillo,M,10/27/1972,335.69,3/1/2023,Baker Group,Market
+588452,Robert,Hughes,F,11/2/1949,184.96,9/29/2023,Cooper-Stone,Clothing
+501530,William,Johnson,M,10/23/1989,167.41,6/8/2023,Buckley-Newton,Cosmetic
+629074,Samuel,Rogers,M,10/25/1980,243.99,8/22/2023,Anderson LLC,Clothing
+427901,Christian,Sutton,M,10/31/1959,88.99,2/20/2023,"Smith, Gallegos and Terry",Market
+581119,Douglas,Mathis,F,10/20/2000,137.19,5/9/2023,"Johnston, Brown and Vargas",Market
+115960,Lisa,Church,,11/1/1952,86.51,6/14/2023,Flores-Aguilar,Restaurant
+438898,Tyler,Mcbride,,10/25/1982,23.25,2/16/2023,Hall-Mcguire,Restaurant
+205003,Ronald,Mosley,F,10/26/1976,325.61,6/6/2023,Jones-Taylor,Market
+803098,Paul,Mccoy,F,10/29/1964,482.97,2/10/2023,Oconnor-Kennedy,Market
+666868,Rachel,Robinson,F,10/29/1965,89.05,6/10/2023,Newman Group,Restaurant
+434501,Sarah,Thompson,F,10/25/1980,75.2,5/21/2023,Hall-Beck,Clothing
+933138,Douglas,Harper,M,10/30/1963,191.34,7/17/2023,"Baldwin, Hurst and Aguilar",Market
+736412,Edward,Sims,M,10/22/1993,43.55,9/1/2023,Chaney-Stone,Market
+871501,Christina,Riley,F,11/1/1955,100.64,4/2/2023,"Case, Howe and Williams",Cosmetic
+396803,Travis,Sexton,F,10/23/1991,45.8,4/5/2023,"King, Terry and Martin",Cosmetic
+403578,Christine,Berry,M,10/28/1968,483.17,4/5/2023,Austin-Patel,Market
+92527,Edward,Cummings,M,10/25/1980,740.13,4/22/2023,Osborne-Morris,Electronics
+59169,Thomas,Moore,M,10/26/1979,541.01,10/14/2023,Hoffman Inc,Electronics
+718468,Marcus,Hansen,M,11/1/1952,88.88,7/3/2023,"Morgan, Williams and Calhoun",Cosmetic
+472392,Mary,Mercado,M,10/23/1991,14.92,6/20/2023,Smith-Hurley,Restaurant
+835863,Christina,Harrison,M,11/1/1954,214.37,1/14/2023,Chung Inc,Market
+980083,Dwayne,Barron,,11/2/1950,58.39,6/14/2023,Johnson and Sons,Restaurant
+312110,Danny,Mccullough,M,10/24/1986,819.11,9/27/2023,"Lee, Fernandez and Alexander",Electronics
+711945,Douglas,Butler,M,10/26/1978,70.53,4/23/2023,Jones-Hess,Restaurant
+832902,Dennis,Peters,F,10/22/1995,271.49,3/8/2023,Williams PLC,Electronics
+530330,Tim,Dodson,F,10/23/1989,231.52,4/19/2023,Houston-Cochran,Market
+852052,Aaron,Williams,,10/27/1975,82.63,1/16/2023,"Salas, Thomas and Pearson",Restaurant
+864056,Joshua,Jones,M,11/1/1954,427.36,2/25/2023,"Lee, Taylor and Thompson",Market
+958019,Cassandra,Fox,F,10/27/1975,96.32,2/1/2023,"Chapman, Meyer and Burke",Electronics
+397861,Michael,Jackson,F,10/30/1962,68.49,9/25/2023,"Mcbride, Gonzalez and Hill",Restaurant
+810256,Brian,Thomas,F,10/23/1991,219.28,3/2/2023,"Blanchard, Brennan and Price",Clothing
+425952,Juan,Ibarra,M,10/23/1988,180.52,3/6/2023,"Lin, Taylor and Cox",Market
+892443,Jamie,Page,M,10/26/1976,959.24,7/10/2023,Quinn-Ramos,Electronics
+387969,Mary,Franklin,,11/1/1954,131.84,9/5/2023,"Fitzgerald, Lamb and Washington",Cosmetic
+601828,James,Bell,F,10/31/1956,958.46,6/22/2023,Reid-Reed,Electronics
+790937,Angela,Butler,F,10/20/2000,204.87,7/20/2023,Jones-Bailey,Market
+31977,Deanna,Donovan,F,10/20/2000,850.66,2/24/2023,"Hardy, Romero and Simpson",Electronics
+729692,Jessica,Davis,F,10/29/1964,192.73,9/24/2023,"Cook, Flynn and Avila",Cosmetic
+802236,Elizabeth,Sanchez,F,10/23/1988,150.37,1/6/2023,Townsend Ltd,Cosmetic
+576171,Ana,Robinson,,10/26/1978,2097.16,6/8/2023,Mann-Rivas,Travel
+43502,Christopher,Castillo,,10/20/2003,367.87,3/30/2023,Price Inc,Market
+697598,Chad,Turner,M,10/22/1993,1166.81,9/13/2023,Mendoza PLC,Travel
+212234,Lisa,Neal,M,10/22/1994,120.44,7/2/2023,Weber and Sons,Clothing
+71498,Shaun,Townsend,M,10/21/1997,141.01,3/8/2023,Sweeney LLC,Clothing
+219991,Karen,Lin,F,10/26/1976,955.24,8/31/2023,Harmon Inc,Travel
+635441,Michael,Farrell,M,10/21/1997,2505.43,4/16/2023,"Thomas, Smith and Clark",Travel
+273695,Carol,White,F,10/22/1994,526.84,6/5/2023,Black-Cruz,Electronics
+551435,Kevin,Cook,,10/30/1963,17.22,5/5/2023,Roman and Sons,Restaurant
+336435,James,Sellers,F,10/25/1981,69.47,3/22/2023,Allison-Oliver,Market
+90871,John,Peters,F,10/27/1975,403.2,5/23/2023,Soto Ltd,Market
+992433,Kimberly,Lee,M,10/25/1983,66.85,4/10/2023,"Cole, Mcclure and Cox",Cosmetic
+317867,Christian,Vance,F,10/29/1967,464.23,2/2/2023,"Hill, Gilmore and Freeman",Electronics
+660462,Deborah,Hardy,M,10/26/1978,299.51,1/16/2023,Clark PLC,Clothing
+256098,Anthony,Bell,M,10/21/1997,48.5,1/25/2023,Steele-Dean,Clothing
+299971,Monica,Lindsey,,10/24/1985,1121.42,5/26/2023,Watkins LLC,Travel
+648141,Jesus,Jones,F,10/22/1993,49.61,2/13/2023,Matthews-Davis,Market
+568440,Patricia,Esparza,M,10/29/1967,954.11,1/16/2023,Reid PLC,Electronics
+516350,Christine,Cole,M,10/31/1959,136.69,5/30/2023,Anderson-Smith,Cosmetic
+934299,Elizabeth,Mcdonald,M,10/29/1967,314.06,2/12/2023,Parker-Mccoy,Electronics
+59017,Renee,Mccormick,M,11/2/1948,113.05,7/19/2023,Cox-White,Cosmetic
+337384,Robert,Pruitt,M,10/19/2004,641.55,2/8/2023,Watts-Boyd,Electronics
+206864,Ricky,Oliver,F,10/27/1973,204.52,7/16/2023,Myers Inc,Electronics
+40948,Crystal,Wang,F,10/23/1988,282.61,5/18/2023,"Davis, Castro and Leonard",Clothing
+343465,Sarah,Lynch,F,10/20/2003,205.81,5/22/2023,"Alvarado, Alexander and Burns",Market
+779052,Isaac,Watkins,F,10/23/1988,177.56,5/6/2023,"Richardson, Johnson and Martin",Clothing
+794067,Misty,Acosta,,10/26/1979,970.7,1/30/2023,Robinson-Castro,Travel
+434831,Antonio,Douglas,M,10/27/1973,136.21,8/5/2023,"Dillon, Brown and Johnson",Cosmetic
+43709,Michelle,Mills,F,10/30/1962,40.85,1/1/2023,Hernandez-Peterson,Cosmetic
+771028,David,Miller,M,10/25/1982,2061.72,5/24/2023,"Kirk, Peters and Johnson",Travel
+688483,Patrick,Frazier,F,10/24/1985,94.44,4/25/2023,"Alexander, Solomon and Chandler",Restaurant
+593980,Elizabeth,Burton,F,10/26/1977,143.32,9/5/2023,"Harvey, Reilly and Johnson",Cosmetic
+596852,Rebecca,Huerta,,10/30/1960,2571.66,2/18/2023,Zimmerman-Ellis,Travel
+967880,William,Meyer,F,10/29/1964,52.94,6/22/2023,Lewis-Webb,Clothing
+67135,Christopher,Henderson,M,10/22/1992,704.83,4/22/2023,"Scott, Wilson and White",Travel
+414631,Courtney,Cooper,,10/29/1967,37.67,1/22/2023,Austin-Snyder,Cosmetic
+155814,Jennifer,Mason,M,10/25/1982,2564.38,5/20/2023,Taylor Group,Travel
+790569,Martha,Reyes,M,10/28/1969,947.96,3/11/2023,Martin-Kelley,Travel
+499160,Alejandro,Johnson,F,10/29/1965,499.58,1/27/2023,Martinez-Williams,Market
+780895,Steven,Davis,M,10/31/1956,794.02,3/17/2023,Smith-Leon,Electronics
+323003,Sandra,Odom,M,10/23/1990,145.91,4/8/2023,"Rice, Mann and Stewart",Cosmetic
+248354,Amanda,Cruz,M,10/19/2004,407.06,2/28/2023,Moore Group,Travel
+493987,Derek,Meyers,F,10/23/1989,2260.71,5/27/2023,"Dougherty, Anderson and Dennis",Travel
+71932,Deborah,Boyd,F,10/27/1974,400.16,5/5/2023,Fields LLC,Market
+658377,Kendra,Martinez,F,10/28/1968,933.44,1/10/2023,Bailey LLC,Electronics
+510896,James,Roth,,10/24/1984,162.62,7/29/2023,Taylor-Turner,Cosmetic
+571883,Jennifer,Contreras,,11/1/1954,711.87,3/18/2023,"Bray, Preston and Griffin",Electronics
+557239,Dawn,White,F,10/27/1972,998.13,5/2/2023,Robinson PLC,Electronics
+428392,Keith,Smith,M,10/25/1983,2592.64,4/3/2023,"Walsh, Parsons and Brooks",Travel
+172719,Fernando,Gallegos,,10/27/1973,146.34,3/17/2023,Morris and Sons,Market
+610853,Michael,Small,F,10/23/1989,92.91,1/7/2023,Hubbard-Robinson,Restaurant
+313273,William,Gomez,F,10/23/1990,81.96,4/27/2023,Oneill-Nunez,Cosmetic
+475853,Teresa,Martinez,F,10/31/1958,74.82,4/9/2023,Owen Ltd,Restaurant
+698016,Lynn,Evans,M,10/30/1962,933.97,2/19/2023,"Green, Brown and Knox",Electronics
+739083,Michele,Martinez,M,10/29/1967,942.01,7/3/2023,Lloyd PLC,Electronics
+583025,Erin,Krause,,10/31/1958,481.95,1/23/2023,Walker LLC,Electronics
+841333,Brett,Dixon,M,10/25/1982,192.39,7/17/2023,Wang-Young,Cosmetic
+461020,Laurie,Carey,,10/20/2003,102.45,7/19/2023,Young-Price,Cosmetic
+630207,Thomas,Campos,F,11/1/1953,717.82,5/5/2023,Rich Inc,Electronics
+143482,Seth,Berry,M,10/21/1998,46.94,6/30/2023,"Alvarez, Gonzalez and Stanley",Cosmetic
+104827,Mark,Chandler,F,11/1/1953,77.57,5/30/2023,Johnson and Sons,Cosmetic
+905663,Kristin,Morris,F,11/2/1949,170.11,3/12/2023,Williams Ltd,Cosmetic
+894906,Yesenia,Rosario,M,10/31/1957,194.19,6/22/2023,Avila PLC,Clothing
+525324,Jessica,Peterson,,10/20/2003,77.17,2/8/2023,"Clark, Sanchez and Gomez",Market
+965667,Julia,Thomas,M,10/25/1983,80.49,1/30/2023,Cole-Brown,Restaurant
+305702,Natalie,Brown,F,10/21/1996,238.44,6/23/2023,Flowers-Armstrong,Clothing
+622586,Patricia,Anderson,,10/19/2005,2694.06,2/12/2023,Lee PLC,Travel
+993386,Ryan,Scott,M,11/1/1954,619.36,2/9/2023,"Roberts, Shaffer and Gonzalez",Electronics
+144109,Meghan,Johnson,F,10/28/1970,91.42,8/2/2023,Smith-Donaldson,Restaurant
+10133,Jacob,Nunez,F,11/2/1951,19.95,9/23/2023,Arnold-Miller,Cosmetic
+166584,Bryan,Jennings,F,10/25/1980,100.11,6/21/2023,Fernandez-Savage,Cosmetic
+187896,Ryan,Holloway,,10/21/1996,355.1,9/17/2023,Arnold PLC,Market
+471447,William,Chen,,10/30/1962,70.4,6/16/2023,Pena PLC,Clothing
+332800,Laura,Estes,,10/23/1988,114.1,7/17/2023,Moore-Webster,Cosmetic
+16067,Thomas,Miles,M,10/24/1987,88.02,7/26/2023,Bush-Morgan,Restaurant
+864953,Bradley,Turner,M,10/29/1965,297.34,9/3/2023,Stewart PLC,Clothing
+348907,Ryan,Cooper,F,10/28/1970,191.1,8/7/2023,Jackson-Gray,Cosmetic
+965973,Teresa,Graham,F,10/26/1979,952.01,9/10/2023,Moore PLC,Travel
+510936,Tanya,Hall,F,11/1/1955,169.72,6/8/2023,"Decker, Duncan and Morgan",Cosmetic
+76950,Connie,Martinez,F,10/21/1999,52.22,8/12/2023,Freeman-Anderson,Restaurant
+814361,Jeffrey,Rodriguez,F,10/28/1968,766.58,8/28/2023,Strickland-Bailey,Electronics
+938700,Laura,Williams,M,10/26/1979,168.85,5/6/2023,Dennis-Blair,Market
+389488,Mark,Nguyen,,10/30/1962,878.44,3/12/2023,Dixon and Sons,Electronics
+850261,Rebecca,Franklin,F,10/29/1967,232.71,6/20/2023,Haney Group,Market
+866606,Walter,Hampton,,10/30/1961,375.85,7/11/2023,Bautista-Hines,Market
+995530,Craig,Moore,F,10/27/1974,26.18,2/16/2023,"Rojas, Cohen and Mckenzie",Restaurant
+942893,Mary,Adams,,10/26/1976,28.69,10/6/2023,"Berry, Horton and Ochoa",Clothing
+159382,Rebecca,Ramirez,F,10/22/1993,43.94,4/17/2023,Williams-Kim,Cosmetic
+508958,Melissa,Hubbard,M,11/1/1952,23.22,8/13/2023,"Lawrence, Martinez and Baker",Cosmetic
+932343,Justin,Le,M,11/1/1955,2641.13,3/17/2023,Brown and Sons,Travel
+204282,Frederick,Huang,F,10/27/1972,689.23,2/22/2023,"Wiggins, Ibarra and Buchanan",Electronics
+15721,Jeffrey,Walker,F,10/26/1976,129.01,4/7/2023,Jackson Inc,Travel
+849417,Bryan,Bailey,F,11/1/1955,99.72,5/2/2023,Wilcox and Sons,Market
+827487,Caleb,Schneider,M,10/28/1970,74.12,8/19/2023,Nicholson Inc,Cosmetic
+291572,Paige,Mason,,10/24/1986,212.4,3/8/2023,Davis Ltd,Travel
+233652,Jesse,Scott,M,11/1/1952,350.39,1/14/2023,Silva Ltd,Market
+734055,Daniel,Walker,M,10/30/1962,241.12,6/14/2023,Bradley Inc,Clothing
+88233,Rachel,Riley,M,10/25/1981,234.43,1/16/2023,Clarke LLC,Market
+731621,Rodney,Gentry,F,10/21/1999,272.96,4/15/2023,"Santiago, Brown and Foster",Clothing
+278476,Debra,Chapman,F,10/21/1996,445.53,6/3/2023,Dean-Diaz,Travel
+666493,Shannon,Banks,F,10/22/1993,257.04,3/24/2023,"Jones, Franklin and Alexander",Travel
+393116,Nicole,Young,M,11/2/1949,395.15,1/2/2023,Fox-Thomas,Market
+837479,Roger,Wilson,F,10/22/1994,194.31,8/23/2023,"Anderson, Barrera and Daniel",Cosmetic
+827724,Janice,Taylor,M,11/1/1955,605.53,7/14/2023,"Turner, Ellis and Hall",Electronics
+880866,Phillip,Davis,F,10/22/1992,2559.03,4/22/2023,Davis Inc,Travel
+209321,Matthew,Mckay,,10/30/1962,2351.65,2/9/2023,Russell and Sons,Travel
+383625,Kimberly,Whitaker,M,10/19/2005,534.37,9/14/2023,"Dean, Pratt and Beck",Electronics
+515977,Brandon,Young,M,10/29/1966,177,5/26/2023,Potts-Jackson,Electronics
+405577,Anthony,Vargas,M,10/27/1973,84.85,4/16/2023,Bradford Group,Restaurant
+829835,Robert,Lucas,M,10/28/1970,149.86,9/9/2023,Mckenzie-Gardner,Clothing
+962913,Julian,Coleman,F,10/23/1990,165.1,2/3/2023,"Ramirez, Bailey and Evans",Electronics
+626347,John,Lee,F,10/29/1966,466.47,1/15/2023,"Stewart, Nelson and Hines",Market
+737979,William,Liu,,10/24/1987,193.56,8/11/2023,"Roberts, May and Wells",Market
+965999,Steven,Rice,F,10/20/2001,101.19,6/12/2023,"Kennedy, Lopez and Hobbs",Clothing
+21881,Kim,Parker,,10/20/2000,98.29,1/3/2023,Blackburn-Macias,Cosmetic
+886237,Lisa,Larson,F,11/2/1949,88.54,5/15/2023,"Black, Pruitt and Bullock",Restaurant
+419391,Thomas,Rodriguez,M,10/26/1978,227.19,8/1/2023,"Hayes, Foley and Fleming",Clothing
+246036,Brent,Humphrey,M,10/23/1988,54.85,2/11/2023,Mason LLC,Cosmetic
+956840,Christopher,Henderson,M,10/28/1968,134.48,4/21/2023,"Flores, Vaughan and Harper",Clothing
+203084,Amy,Garcia,M,10/25/1982,576.02,1/24/2023,"Mitchell, Hernandez and Barrera",Electronics
+756697,Shane,Davis,F,10/31/1957,227.86,1/11/2023,Clark-Walter,Electronics
+612564,Joshua,Hicks,M,10/23/1990,52.3,8/24/2023,"Khan, Mccarthy and Hunter",Cosmetic
+777427,James,Werner,,10/21/1996,56.12,5/19/2023,Barber-Miller,Restaurant
+78816,Jason,Nolan,M,10/24/1987,191.91,9/12/2023,Shelton Inc,Cosmetic
+427499,Tracy,Owens,F,10/31/1956,1602.98,1/23/2023,"Martinez, Reeves and Rodriguez",Travel
+812899,Daniel,Taylor,,10/23/1988,128.5,8/16/2023,Cochran-Gibson,Cosmetic
+161608,Paul,Garrett,M,10/30/1962,26,1/12/2023,Smith Group,Clothing
+496432,Alicia,Young,F,10/20/2002,1783.01,1/28/2023,Sandoval LLC,Travel
+803860,Deborah,Anderson,F,10/24/1984,124.46,8/31/2023,Nunez Inc,Market
+475040,Greg,Bass,F,10/27/1975,112.66,6/4/2023,Garcia Ltd,Cosmetic
+104338,Katie,Scott,F,10/28/1971,1810.76,9/29/2023,Edwards LLC,Travel
+292153,Lindsey,Pena,F,11/1/1954,416.97,7/7/2023,Johnson Ltd,Electronics
+776903,Nicole,Nelson,F,10/31/1959,1036.83,8/16/2023,Fuentes LLC,Travel
+393665,Adam,Fisher,,10/25/1983,764.68,4/4/2023,Rodriguez PLC,Electronics
+848181,Peter,Crawford,F,10/21/1999,118.24,6/10/2023,Rodgers PLC,Cosmetic
+101607,Mark,Blair,F,10/23/1989,429.4,9/21/2023,"Kennedy, Olson and Villanueva",Electronics
+803831,Shannon,Rivera,F,10/23/1991,723.02,7/29/2023,Bishop-Delacruz,Travel
+916736,Adam,Jackson,M,10/31/1958,93.11,8/1/2023,Wright-Lawson,Electronics
+722203,Natasha,Ballard,F,10/25/1982,39.85,7/22/2023,Carrillo-Rivera,Restaurant
+596124,John,Lee,M,10/25/1982,78.48,5/23/2023,"Long, Lynch and Carlson",Restaurant
+782536,Jeffrey,Turner,F,10/31/1959,269.47,2/26/2023,Becker-Miller,Clothing
+902330,Michelle,Miranda,M,10/29/1967,83.8,6/7/2023,"Morales, Chung and Guerra",Clothing
+51,Travis,Wheeler,,10/19/2004,1898.56,5/18/2023,"Perez, Clark and Rodriguez",Travel
+123118,Elizabeth,Williams,M,10/31/1956,50.06,9/4/2023,Bond-Castro,Cosmetic
+293204,Megan,Glenn,,11/1/1955,27.83,5/5/2023,Olsen Group,Restaurant
+296203,Sara,Johnson,M,10/29/1965,85.46,7/14/2023,Drake Group,Cosmetic
+519511,Courtney,Ashley,M,10/22/1994,1200.63,6/10/2023,Brown-Chandler,Travel
+958609,Diane,Johnson,M,10/24/1986,430.01,4/3/2023,"Stephens, Archer and Bryant",Electronics
+541920,Gabriella,Mcdowell,M,10/30/1962,157.87,5/24/2023,Obrien-Woodard,Cosmetic
+896463,Barbara,Banks,M,10/25/1981,154.05,8/24/2023,Smith Group,Market
+64346,Michelle,Blake,M,11/2/1950,445.51,6/4/2023,Fields-Weeks,Market
+421168,Barbara,Contreras,M,10/22/1994,56.23,4/10/2023,Nguyen-Crawford,Clothing
+101738,Anthony,Horton,,10/25/1983,174.56,3/23/2023,Shaw-Phillips,Cosmetic
+216424,Melinda,Stokes,M,10/29/1965,279.71,5/2/2023,Torres-Robinson,Electronics
+636541,Randy,Nash,F,10/20/2002,156.5,6/11/2023,"Washington, Gray and Moss",Cosmetic
+391528,Joshua,Holmes,F,10/20/2001,634.13,3/4/2023,Barr LLC,Electronics
+137999,Raymond,Ryan,M,10/24/1986,420.61,7/10/2023,"Wilkerson, Rodriguez and Neal",Travel
+20922,Barry,Stevens,M,10/28/1971,543.88,1/22/2023,Sutton Group,Electronics
+442862,Steven,Taylor,F,10/22/1993,215.58,3/29/2023,Rodriguez-Nichols,Clothing
+722845,Victoria,Stone,F,10/30/1961,154.73,1/19/2023,Bowman-Woodard,Cosmetic
+484102,Max,Moreno,F,10/23/1989,1532.73,7/3/2023,Castillo and Sons,Travel
+201461,Stacey,Richardson,F,10/26/1979,16.29,5/4/2023,Yoder Group,Cosmetic
+726460,Laurie,Phillips,F,10/29/1966,618.25,6/16/2023,"Rodriguez, Hughes and Walls",Travel
+824917,Amy,Ingram,M,10/30/1960,362.34,1/25/2023,Petersen and Sons,Electronics
+907551,Heather,Greene,M,10/27/1973,436.72,5/27/2023,Williams-Marquez,Travel
+5303,Jennifer,Gibson,M,10/26/1977,250.21,7/25/2023,Perez Group,Market
+849163,Diana,Hudson,M,10/22/1992,100.92,6/29/2023,"Cummings, Lee and Hall",Travel
+495419,Rachel,Ramos,F,10/22/1995,2967.61,3/6/2023,"Jefferson, Stewart and Cuevas",Travel
+589199,April,Alexander,M,10/23/1988,2474.61,8/29/2023,Acevedo-Brown,Travel
+588424,Karla,Webb,F,10/22/1992,208.66,4/18/2023,Williams-Burgess,Market
+964463,Samantha,Cervantes,F,10/20/2000,2415.38,6/18/2023,Torres and Sons,Travel
+651491,Jason,Schultz,M,10/20/2003,55.41,5/15/2023,Gallegos-Kaiser,Restaurant
+856120,Christopher,Stewart,F,10/23/1988,1722.4,10/5/2023,Brandt-Barnes,Travel
+914052,Jessica,Ramirez,M,10/24/1986,1178.34,7/31/2023,Bell LLC,Travel
+994715,Monica,Wolf,M,11/2/1948,1814.83,5/3/2023,Jones PLC,Travel
+703180,Crystal,Welch,,10/23/1989,89.01,3/31/2023,Harris PLC,Restaurant
+882410,Carrie,Watson,F,10/22/1993,393.18,10/14/2023,"Santana, Porter and Hardy",Electronics
+848594,Joshua,Mack,M,10/21/1996,134.46,6/14/2023,"Jones, Wells and Franklin",Clothing
+992559,Jennifer,Hernandez,F,10/23/1991,65.75,1/14/2023,Gardner-Miller,Restaurant
+739,Tyler,Padilla,F,10/23/1990,147.63,5/22/2023,"Bailey, Nichols and Johnson",Clothing
+618845,John,Wilkins,F,11/2/1948,20.7,6/29/2023,"Guerrero, Barron and Murphy",Restaurant
+187420,Steven,Clark,,10/22/1992,2000.16,3/21/2023,"Pierce, Garrett and Hood",Travel
+254432,Morgan,Morgan,M,10/29/1967,56.75,8/20/2023,"Wilson, Stevens and Chavez",Electronics
+626676,Debbie,Ramos,M,10/23/1990,1284.41,2/23/2023,Davila Ltd,Travel
+88079,Bianca,French,F,10/25/1983,478.73,8/20/2023,Schmidt and Sons,Market
+367695,Thomas,Wilkins,F,11/1/1955,99.82,7/15/2023,"Smith, Castro and Hill",Restaurant
+140329,Maria,James,,11/1/1954,17.86,2/28/2023,Burns LLC,Cosmetic
+314008,John,Hawkins,,10/29/1964,683.86,9/8/2023,Stokes-Gardner,Travel
+418805,Gina,Woods,M,10/25/1983,38.88,3/9/2023,"Willis, Roth and Tucker",Restaurant
+520759,Gerald,Suarez,F,10/28/1971,44.58,7/20/2023,Mckay PLC,Clothing
+497276,Ashley,Edwards,M,10/25/1980,125.14,9/30/2023,"Cannon, Carroll and Moreno",Cosmetic
+438622,Cathy,Palmer,F,10/24/1987,275.64,3/3/2023,Hall Ltd,Market
+128124,Michael,Watson,F,10/30/1961,380.6,6/5/2023,Herrera Ltd,Electronics
+38210,Charles,Mueller,M,10/22/1994,182.12,5/31/2023,"Barnes, Jones and Evans",Electronics
+794057,Catherine,Mann,F,10/21/1998,148.68,9/20/2023,"Yates, Ellison and Taylor",Clothing
+756220,Cory,Kane,F,11/2/1948,114.1,5/12/2023,"Martinez, Ferguson and Smith",Electronics
+127941,Ashley,Lopez,F,10/28/1969,15.95,10/1/2023,Reed-Reyes,Cosmetic
+796525,Roger,Small,M,10/27/1974,76.74,3/24/2023,Irwin-Esparza,Cosmetic
+172389,Jeff,Brown,F,10/25/1983,193.1,7/28/2023,"Reyes, Smith and Stanley",Cosmetic
+96282,Lauren,Cole,F,11/1/1955,310.13,2/11/2023,Gordon-Terry,Market
+800798,Michael,Zuniga,M,10/25/1980,859.63,6/24/2023,"Rubio, Nielsen and Hood",Electronics
+497969,Dawn,Miller,M,10/30/1963,34.29,4/18/2023,Byrd Group,Cosmetic
+807170,William,Ballard,F,11/1/1954,2184.19,9/19/2023,Galvan and Sons,Travel
+745635,David,Goodman,F,10/31/1959,94.67,8/4/2023,Russo and Sons,Market
+302215,Steven,Hood,F,10/20/2000,26.21,7/9/2023,Willis-Hunt,Restaurant
+351641,Thomas,Lopez,F,10/30/1961,2422.83,1/13/2023,Harris-Williamson,Travel
+622559,Michael,Rivas,F,10/22/1995,859.14,8/6/2023,Chan Inc,Electronics
+199153,Kelly,Pierce,F,10/25/1982,122.6,6/18/2023,"Stone, Scott and Hartman",Electronics
+525820,Sharon,Howard,M,10/29/1965,52.73,8/27/2023,Carey and Sons,Restaurant
+991240,David,Porter,F,10/24/1986,1411.96,1/23/2023,Mendez and Sons,Travel
+491392,Brianna,Kim,F,10/20/2000,752.04,2/2/2023,Payne-Turner,Travel
+890699,Amber,David,F,10/22/1995,1870.32,3/10/2023,Barnes LLC,Travel
+495989,Dana,Cervantes,F,10/23/1989,187.58,6/22/2023,Jones-Anderson,Market
+275018,Janet,Nelson,,10/28/1969,160.66,3/10/2023,"Garcia, Johnson and Taylor",Market
+183142,Dana,Ramirez,F,10/29/1967,327.04,6/26/2023,Frey LLC,Electronics
+750567,Alyssa,Avila,F,10/20/2001,387.44,5/27/2023,Gonzalez-Cameron,Electronics
+277967,Lindsay,Lamb,F,10/27/1974,89,3/18/2023,Day-Young,Clothing
+734605,Carlos,Floyd,M,10/25/1981,137.09,7/19/2023,Henry Inc,Clothing
+243464,Kevin,Braun,M,10/27/1972,2352.26,7/11/2023,Jones-Wilson,Travel
+866342,Benjamin,Salazar,M,10/21/1999,110.71,7/2/2023,"White, Nelson and Williams",Electronics
+852964,Miguel,Watkins,F,10/25/1982,2129.72,7/1/2023,"Obrien, Allen and Gutierrez",Travel
+110656,Melvin,Rodriguez,F,11/1/1953,79.06,9/9/2023,Johnson and Sons,Restaurant
+341213,James,Stone,M,11/1/1952,13.95,7/26/2023,Weaver and Sons,Restaurant
+882176,Valerie,Mitchell,F,10/30/1962,145.84,3/12/2023,Johnson and Sons,Clothing
+587608,Teresa,Ross,M,10/21/1996,40.46,8/6/2023,Ellis PLC,Cosmetic
+874029,Richard,Miller,M,10/21/1996,354.57,4/13/2023,Ramirez-Friedman,Market
+257919,Jose,Mccarthy,F,10/24/1984,164.72,5/17/2023,"Campbell, Park and Murphy",Market
+470364,Brittany,Williams,F,10/20/2002,2382.09,5/18/2023,"Montoya, Johnson and Jones",Travel
+820063,Justin,Reese,M,10/25/1983,145.73,4/14/2023,"Jimenez, Martin and Burnett",Electronics
+755382,Crystal,Cook,M,10/23/1988,775.48,7/18/2023,"Campbell, Reyes and Cross",Travel
+143091,Austin,Warner,,10/24/1984,921.72,2/7/2023,Smith-Hernandez,Travel
+73364,Samuel,Wilkerson,,10/24/1985,335.13,7/17/2023,Bell PLC,Market
+611451,David,Carpenter,F,10/30/1963,1600.27,9/2/2023,"Williams, Morris and Price",Travel
+934488,Bryan,Henry,F,10/23/1989,10.95,8/1/2023,Jackson-Garza,Market
+645170,Omar,Jones,M,10/29/1965,158.25,6/1/2023,"Smith, Robertson and Meza",Electronics
+594474,Jennifer,Hester,F,10/26/1978,14.46,1/7/2023,Hernandez-Schultz,Restaurant
+378258,Todd,Wells,M,10/25/1980,735.43,4/23/2023,"Lowe, Young and Fields",Electronics
+501675,Stephen,Conway,F,10/28/1970,47.18,3/16/2023,Walsh Group,Restaurant
+583711,Jasmine,Allison,F,10/23/1988,194.21,1/28/2023,Clark LLC,Clothing
+66744,Jacob,Rodriguez,M,10/23/1989,99.25,9/9/2023,Wilson-Davis,Restaurant
+731968,Pamela,Potts,F,10/27/1974,146.68,3/9/2023,Long LLC,Cosmetic
+805122,Jasmine,Rice,M,10/30/1962,138.54,4/17/2023,Gates PLC,Clothing
+41392,Erin,Green,M,10/25/1980,993.87,1/28/2023,Robinson-Hines,Travel
+95830,Brianna,Stanton,F,10/29/1966,380.92,10/10/2023,King Group,Travel
+260825,Haley,Baldwin,M,11/1/1955,185.13,9/19/2023,Frazier-Nichols,Market
+508917,Jessica,Taylor,,10/24/1985,175.06,5/30/2023,Dalton Group,Cosmetic
+678778,Brandi,Walsh,M,10/31/1957,61.89,2/24/2023,Joseph and Sons,Cosmetic
+781697,Jennifer,Mcgee,M,11/2/1949,463.92,3/23/2023,Romero-Johnson,Electronics
+621653,Terri,Johnson,F,10/30/1963,822.59,7/13/2023,Hawkins-Giles,Electronics
+701147,John,Williams,M,10/23/1990,292.2,5/17/2023,"Mendez, Morris and Garrison",Market
+514403,Tammy,Walker,M,10/23/1988,74.55,4/3/2023,Thomas and Sons,Cosmetic
+501017,Jamie,Smith,M,10/22/1994,73.48,7/22/2023,Jones Inc,Clothing
+357965,Ashley,Oneill,F,10/28/1971,324.48,8/1/2023,Williams-Blanchard,Electronics
+161410,Raymond,Harris,M,10/21/1998,355.4,5/11/2023,"Ponce, Williamson and Lopez",Market
+207804,Keith,Bradshaw,F,10/29/1966,354.41,2/28/2023,"Hayes, Church and Beard",Electronics
+204665,Jillian,Franklin,M,11/2/1950,373.41,6/30/2023,Stewart LLC,Market
+324270,Tammy,Hawkins,,11/2/1949,379.53,3/25/2023,"Robinson, Black and Taylor",Market
+433413,Anthony,Mccarthy,,10/26/1979,139.22,4/28/2023,Gamble-Brown,Travel
+647627,Nicole,Barrett,F,10/31/1956,30.07,5/30/2023,Nguyen-Anderson,Cosmetic
+572503,Elizabeth,Johnson,F,10/28/1970,217.64,4/28/2023,"Vega, Campbell and Stewart",Market
+105142,Paula,Ware,M,10/22/1992,28.6,6/29/2023,Jarvis-Johnston,Restaurant
+503560,Laurie,Perez,M,10/22/1994,153.45,5/22/2023,Berry-Caldwell,Cosmetic
+69370,Calvin,Sanford,,10/26/1976,94.33,2/10/2023,Ramirez-Chavez,Restaurant
+108640,Susan,Smith,M,10/30/1961,67.43,5/11/2023,Smith Ltd,Restaurant
+548556,Nicholas,Hernandez,F,10/30/1963,241.35,4/21/2023,Swanson Ltd,Clothing
+612802,Brian,Tucker,F,10/19/2005,39.56,8/25/2023,Jackson-Jackson,Restaurant
+63001,Nicholas,Cain,M,10/24/1987,60.39,10/12/2023,"Hill, Garcia and Ward",Clothing
+374455,Brad,Sharp,F,10/19/2004,768.47,1/18/2023,Rojas PLC,Electronics
+137491,Stacy,King,F,10/28/1970,934.44,7/22/2023,"Reynolds, Atkinson and Thomas",Travel
+867166,Adam,Moore,M,10/30/1963,865.59,5/16/2023,Smith PLC,Travel
+666783,Sharon,Hicks,F,11/1/1954,189.92,5/15/2023,"Bates, Walker and Johnson",Cosmetic
+967420,Daniel,Schmidt,M,10/27/1975,131.99,4/22/2023,Rivera Group,Cosmetic
+519279,Jessica,Thompson,,10/31/1958,1333.37,4/10/2023,Shelton Ltd,Travel
+267164,Tammy,Johnson,F,10/25/1983,19.32,9/15/2023,King-Smith,Cosmetic
+428293,Courtney,Moore,M,10/31/1957,251.65,1/12/2023,"Holmes, Gallagher and Lee",Clothing
+412952,Ann,Russell,F,10/21/1998,73.78,3/5/2023,Schultz Group,Cosmetic
+90841,Gail,Scott,F,11/1/1954,357.82,4/3/2023,Nelson Ltd,Market
+117893,Marisa,Weaver,F,10/29/1967,973.01,9/25/2023,"Smith, Humphrey and Boone",Electronics
+493862,Rhonda,Herring,F,10/25/1982,124.59,10/4/2023,Collins-Scott,Electronics
+407343,Sara,Brewer,M,11/2/1948,139.43,3/25/2023,"Keller, Olson and Miller",Market
+660015,Mary,Guerrero,M,10/24/1984,2996.85,4/23/2023,Smith LLC,Travel
+131712,Lisa,Moore,F,10/30/1963,15.59,7/24/2023,Kennedy and Sons,Restaurant
+692691,Danielle,Kemp,M,10/20/2001,223.85,6/29/2023,Davis-Ochoa,Clothing
+944149,Justin,Villarreal,F,10/31/1959,33.99,2/21/2023,Glover-Smith,Cosmetic
+62969,Lisa,Barber,M,10/30/1962,328.34,1/22/2023,Clark Ltd,Electronics
+796332,Harold,Patel,F,10/30/1962,25.81,7/29/2023,Stewart-Jordan,Restaurant
+566173,Laurie,Ortega,M,10/23/1989,948.66,1/6/2023,Crane PLC,Travel
+452792,Kevin,Brown,F,10/24/1985,35.14,7/11/2023,"Bernard, Warren and Wilson",Market
+113525,Abigail,Thompson,M,11/1/1954,2071.2,4/28/2023,Riley-Flores,Travel
+245244,Sandra,Paul,M,10/24/1986,68.29,8/28/2023,"Smith, Compton and Davis",Restaurant
+335931,Austin,Schmitt,,10/23/1991,92.27,8/12/2023,Osborn Inc,Restaurant
+89266,Troy,Charles,M,10/22/1993,111.86,5/16/2023,Lucero-Knapp,Market
+507432,Brent,Mckenzie,F,10/26/1976,349.8,8/17/2023,Alexander-Coleman,Market
+538931,Lisa,Solis,,10/21/1998,190.65,5/24/2023,"Murphy, Cross and Malone",Clothing
+514100,Michael,Harris,M,10/27/1974,100.06,4/20/2023,Cabrera LLC,Clothing
+586488,James,Perry,M,10/28/1970,1891.91,5/28/2023,"Hall, Jensen and Watts",Travel
+997686,Jeff,Mcdonald,M,11/1/1954,170.1,3/9/2023,"Myers, Knight and Moreno",Cosmetic
+717225,Ariana,Larson,M,11/2/1948,378.33,8/7/2023,Green Ltd,Market
+45635,Jacqueline,Holt,F,10/25/1980,1923.26,5/1/2023,Jenkins-Ryan,Travel
+42913,Amy,Vance,F,11/1/1954,816.09,4/27/2023,"Spence, Gardner and Holland",Electronics
+705507,Jeffery,Clark,F,10/23/1989,302.62,5/1/2023,Contreras LLC,Market
+785219,Kristin,Cox,M,10/25/1981,742.04,7/16/2023,Foster-Campbell,Electronics
+38840,Sabrina,Rios,F,10/20/2000,394.75,4/6/2023,"Mclaughlin, Anderson and Rogers",Travel
+203566,Danielle,Nelson,,10/22/1995,2573.91,4/17/2023,Patel-Martin,Travel
+899903,Dean,Turner,M,11/1/1952,123.46,8/12/2023,Parsons Ltd,Cosmetic
+205290,Nathaniel,Martin,M,10/20/2000,79.44,8/13/2023,Melendez-Drake,Cosmetic
+440321,Jim,Perry,M,10/30/1962,30.05,2/10/2023,Soto LLC,Restaurant
+826673,Teresa,Marquez,M,10/31/1958,1456.2,4/29/2023,"Vang, Cunningham and Reed",Travel
+377563,Miranda,Bell,,11/1/1953,167.92,1/1/2023,Hawkins Group,Cosmetic
+937604,Ana,Anderson,M,10/24/1987,935.77,8/9/2023,Burns Ltd,Electronics
+339656,Paul,Giles,F,10/24/1986,1675.04,2/7/2023,"Spencer, Moon and Velasquez",Travel
+753010,Marvin,Lozano,F,10/29/1965,106.35,10/12/2023,"Freeman, Wilson and Lee",Cosmetic
+592723,Christopher,Poole,F,10/28/1968,73.17,3/16/2023,Zuniga-Yang,Cosmetic
+471427,Cole,Klein,M,10/21/1998,183.58,5/24/2023,Sawyer-Robinson,Cosmetic
+99161,Kathleen,Cox,F,11/2/1949,229.93,5/30/2023,Cannon PLC,Market
+916233,Travis,Moyer,F,10/19/2004,178.76,8/6/2023,"Valdez, Williams and Carr",Market
+224276,Michele,Jensen,,10/21/1997,413.88,2/15/2023,Roberts-Mckee,Market
+699554,John,Gonzalez,F,10/30/1960,132.1,7/22/2023,Shaw-Lee,Electronics
+369618,Jorge,Ross,M,10/28/1969,967.93,6/28/2023,Pratt-Jackson,Travel
+475636,Karina,Jordan,M,10/23/1990,31.91,3/10/2023,"Wright, Compton and Roberts",Restaurant
+923746,Micheal,Santana,F,10/30/1961,99.41,6/19/2023,"Mills, Johnson and Fitzgerald",Restaurant
+785659,Russell,Owens,F,10/23/1988,278.38,1/24/2023,"Cervantes, Huff and Wagner",Clothing
+346629,Michael,Wilson,M,10/29/1964,2176.75,10/1/2023,Simpson-Brooks,Travel
+404442,Sabrina,Bowman,M,10/22/1994,34.08,1/25/2023,"Davis, Merritt and Henry",Restaurant
+592170,Jason,Humphrey,M,10/30/1960,187.03,9/27/2023,Moore-Richardson,Electronics
+933127,Shannon,Anderson,F,10/20/2002,265.26,1/25/2023,Bradley-Huynh,Travel
+862581,Mark,Suarez,M,10/29/1967,56.05,7/19/2023,Martinez-French,Restaurant
+605886,David,Gamble,M,10/25/1980,366.51,7/30/2023,Allen-Martinez,Market
+552325,Mark,White,M,10/20/2003,790.01,2/8/2023,"Walker, Benson and Howard",Electronics
+895856,Maria,Scott,M,10/30/1963,70.6,7/15/2023,Stark Group,Clothing
+541589,Gregory,Nguyen,M,11/1/1952,273.67,4/22/2023,Adams Ltd,Electronics
+514330,Vicki,Rice,F,10/20/2003,190.69,5/27/2023,"Chase, Anderson and Herrera",Clothing
+372035,Loretta,Edwards,M,10/31/1959,46.37,9/23/2023,Brooks-Walker,Restaurant
+417376,Donna,Wilkins,F,10/29/1967,102.51,5/14/2023,Bowman-Espinoza,Clothing
+78646,John,Oliver,M,10/23/1989,305.05,6/24/2023,"Ochoa, Marsh and Mccormick",Market
+554116,Luke,Sanders,F,10/26/1977,542.57,9/2/2023,Santos and Sons,Electronics
+265968,Henry,Barnett,F,10/28/1968,1561.89,9/23/2023,Hansen-Edwards,Travel
+435145,Miguel,Hill,M,10/27/1973,400.08,8/23/2023,Gomez-Webster,Electronics
+878951,Leah,Howard,M,10/23/1989,247.9,4/24/2023,Parker PLC,Clothing
+330567,Robert,Le,F,10/28/1969,129.96,4/16/2023,"Patel, Wells and Hansen",Market
+45141,Brandon,Davis,M,10/26/1978,2283.82,3/4/2023,Brown-Serrano,Travel
+720532,Kevin,Fernandez,M,11/1/1955,195.31,1/18/2023,"King, Meyer and Manning",Cosmetic
+889122,Michael,Jackson,M,10/25/1982,31.62,10/13/2023,"Mckay, Woods and Wood",Cosmetic
+967122,Jennifer,Gonzalez,F,10/29/1967,365.3,5/18/2023,Porter-Ray,Electronics
+560831,Sarah,Pham,F,10/29/1966,796.17,1/18/2023,"Griffin, Carter and Gregory",Electronics
+72197,Theresa,Dixon,,10/31/1956,2450.03,8/13/2023,Perez-Nguyen,Travel
+730365,Sara,Schmidt,M,10/24/1984,123.94,6/10/2023,Wilkins PLC,Cosmetic
+793985,Cassandra,Cantu,M,10/29/1965,967.07,10/5/2023,Martin LLC,Travel
+501988,Michael,Huerta,F,10/28/1968,8.29,1/29/2023,Miller LLC,Market
+689033,Jacqueline,Valentine,F,10/22/1994,1263.46,5/29/2023,"Manning, Lang and Garza",Travel
+690492,Troy,Acosta,F,10/26/1979,351.29,4/7/2023,"Randall, Fuentes and Alvarez",Electronics
+340280,Anthony,Spencer,F,11/1/1952,420.47,5/1/2023,"Williams, Freeman and Roberson",Market
+844375,Kristen,Freeman,,10/23/1990,113.87,8/8/2023,Olson LLC,Clothing
+346866,Jeremy,Meadows,M,10/28/1968,244.91,7/14/2023,Kidd Inc,Market
+885070,Deborah,Mitchell,,10/23/1988,1533.31,3/25/2023,Sims-Lawson,Travel
+131131,Willie,Bailey,M,10/31/1957,52.41,3/28/2023,Hughes Group,Market
+835515,Shannon,Schmidt,F,10/22/1994,247.94,4/27/2023,"Lee, Shannon and Jensen",Market
+62982,William,Smith,M,10/26/1976,1970.7,5/26/2023,"Norton, Mcfarland and Lewis",Travel
+682881,Briana,Hardy,M,10/31/1957,759.35,9/19/2023,Vargas-Boyd,Electronics
+467344,Elizabeth,Sanchez,M,10/28/1969,1954.82,6/2/2023,Miller-Rivera,Travel
+257653,Brittney,Riley,F,10/27/1974,36.73,7/3/2023,"Lee, Williams and Kelly",Clothing
+87508,Claudia,Gonzalez,M,10/23/1989,64.76,5/4/2023,Smith-Gutierrez,Restaurant
+640096,Seth,Jones,F,10/25/1982,58.01,3/8/2023,"Gonzales, Porter and Jackson",Clothing
+193791,Kevin,Hines,M,10/31/1959,21.64,5/21/2023,"Watson, Villa and Hopkins",Restaurant
+774696,Victoria,Coffey,M,10/22/1992,155.77,7/1/2023,Long Ltd,Clothing
+544505,Leroy,Evans,,11/2/1948,460.21,6/12/2023,Diaz-Mcdonald,Market
+739782,Caleb,Morris,F,10/19/2005,2558.07,8/4/2023,"Rodgers, Ward and Berger",Travel
+304957,Heather,Lewis,,11/1/1954,150.52,7/5/2023,Hodge LLC,Cosmetic
+422322,John,Sanchez,M,10/24/1984,43.67,5/6/2023,Li-Farmer,Restaurant
+30356,Alexander,Payne,F,10/24/1984,246.95,1/23/2023,"Juarez, Moore and Banks",Clothing
+220873,Crystal,Vega,M,10/28/1969,46.38,5/27/2023,"Kim, Morrison and Arellano",Cosmetic
+39862,Elizabeth,Cooper,M,10/22/1992,75.23,2/3/2023,"Hart, Larson and Herrera",Cosmetic
+549753,Molly,Kennedy,M,10/26/1978,83.36,5/15/2023,"Brown, Garcia and Thompson",Restaurant
+203543,Benjamin,Wyatt,M,10/22/1994,47.36,3/12/2023,Hopkins Inc,Cosmetic
+911415,Brandon,Allen,M,10/20/2001,1416.42,2/9/2023,"Grant, Martinez and Nelson",Travel
+504725,Brian,Wang,,10/23/1991,97.42,8/29/2023,Johnson-Davis,Cosmetic
+393935,Matthew,Rodriguez,,10/30/1963,81.55,6/13/2023,"Smith, Bennett and Warren",Restaurant
+292331,Brett,Fowler,M,10/28/1969,2138.15,7/8/2023,Williams-Mejia,Travel
+565536,Cindy,Ortiz,M,10/26/1977,151.79,9/18/2023,Powell LLC,Cosmetic
+85004,Francisco,Tanner,F,10/26/1978,553.06,1/12/2023,"Sanford, Odonnell and Rivera",Electronics
+767413,Emily,Whitaker,M,11/2/1950,15.44,6/15/2023,"Williamson, Wu and Mccormick",Restaurant
+113974,Sandy,Molina,F,10/27/1975,349.34,6/18/2023,Miller-Griffith,Market
+553107,Kimberly,Moore,M,11/1/1953,102.86,4/28/2023,Lee Group,Market
+182432,Benjamin,Noble,M,11/2/1949,14.42,9/3/2023,"Malone, Sawyer and Stone",Restaurant
+850010,Amy,White,F,10/30/1961,18.1,2/27/2023,"Matthews, Jones and Maxwell",Restaurant
+898090,Terri,Hill,F,10/25/1980,105,7/29/2023,"Sanchez, Cunningham and Mendoza",Market
+206318,William,Hansen,M,10/24/1987,85.63,3/9/2023,"Spencer, Miller and Collins",Market
+99767,Gregory,Phillips,M,10/20/2003,970,5/12/2023,Powers-Copeland,Electronics
+232850,Brendan,Walsh,M,10/24/1985,205.75,9/13/2023,Pruitt Group,Market
+691945,Emma,Jones,M,10/30/1962,242.73,8/10/2023,"Richards, Wood and Morris",Electronics
+362197,Victoria,Munoz,F,10/20/2001,297.46,6/25/2023,"Bates, Gutierrez and Martin",Electronics
+7727,Jasmine,Robinson,F,11/1/1955,94.23,7/6/2023,"Byrd, Boyd and King",Restaurant
+183140,Robert,Walter,F,10/31/1958,381.53,6/2/2023,"Taylor, Pineda and Benjamin",Market
+858516,Mark,Randolph,F,10/23/1988,59.82,7/28/2023,"Davis, Gibson and Barber",Restaurant
+877750,Roberta,Ballard,F,11/1/1953,2669.35,7/30/2023,Meyer-Watson,Travel
+51243,Thomas,Ruiz,M,10/31/1959,81.27,9/30/2023,Berger and Sons,Electronics
+454185,Dean,Adams,F,10/27/1973,392.51,1/19/2023,Brown-Meadows,Market
+681230,Kathy,Parker,,10/23/1989,859.79,6/27/2023,"Butler, Allen and Snow",Electronics
+416186,Scott,Cervantes,F,10/22/1994,131.24,8/31/2023,"Simmons, Jones and Taylor",Clothing
+874592,Joseph,Perez,,10/20/2002,69.87,4/30/2023,Hernandez-Green,Restaurant
+609956,Charles,Peterson,F,10/30/1960,242.24,9/17/2023,Wood-Mitchell,Electronics
+534568,Renee,Howe,M,11/1/1952,75.03,6/27/2023,Armstrong Ltd,Clothing
+597780,Timothy,Harmon,M,10/21/1996,355.49,1/14/2023,Davis-Dixon,Electronics
+522973,Alexis,Riggs,M,10/23/1990,69.21,2/10/2023,"Thompson, Lopez and Ramirez",Clothing
+111783,Eric,Wilkerson,M,10/25/1983,2016,10/1/2023,Dennis LLC,Travel
+510208,Jessica,Brown,M,10/27/1973,202.74,4/5/2023,Johnson Ltd,Market
+226983,Michelle,Dixon,F,10/24/1987,75.65,8/5/2023,"Ramirez, Porter and Lang",Clothing
+58390,Julia,Espinoza,F,10/31/1957,2951.84,1/27/2023,"Edwards, White and Oneill",Travel
+706642,Edward,Rodriguez,M,10/21/1996,288.93,9/4/2023,Allen Ltd,Market
+748341,Kathy,Parker,F,10/24/1984,18.11,3/21/2023,Yoder and Sons,Cosmetic
+494304,George,Hurst,F,11/2/1950,68.15,3/6/2023,Mitchell Ltd,Restaurant
+617804,Elizabeth,Daniels,,10/29/1964,34.69,9/12/2023,Daugherty LLC,Market
+787427,Laura,Johnson,M,10/27/1974,1487.96,9/12/2023,"Wright, Rich and Reynolds",Travel
+955882,Amanda,Rodriguez,M,11/1/1953,56.07,3/14/2023,"Bennett, Clements and Washington",Restaurant
+960957,John,White,F,10/19/2005,328.61,8/22/2023,Sawyer-Flores,Market
+120863,Kevin,Donovan,M,10/22/1995,30.26,3/22/2023,"Edwards, Foley and Smith",Restaurant
+229582,Cindy,Tyler,,10/25/1982,35.76,7/22/2023,Hamilton and Sons,Clothing
+263721,Andrea,Salas,F,10/28/1971,1174.69,7/3/2023,Horton-Russell,Travel
+383474,Rebecca,Taylor,F,10/30/1961,54.2,4/14/2023,Hawkins Group,Cosmetic
+513232,Jack,Campos,M,10/19/2004,180.49,8/1/2023,Bullock PLC,Clothing
+454955,James,Williamson,F,10/30/1963,26,1/16/2023,Smith-Guerrero,Clothing
+815320,Andrea,Turner,,10/21/1999,45.08,4/9/2023,"Mcbride, Chambers and Carter",Restaurant
+342969,Destiny,Molina,F,10/20/2002,298.91,7/23/2023,"Cruz, Saunders and Sherman",Travel
+10227,Shannon,Atkins,M,10/20/2003,416.88,8/28/2023,Jones-Bray,Market
+815366,Martha,Gonzalez,M,11/2/1948,281.72,10/8/2023,Stein Ltd,Clothing
+156963,Larry,Barnett,M,11/1/1955,244.92,7/21/2023,Alexander and Sons,Market
+137249,Matthew,Rios,F,10/22/1995,275.95,7/20/2023,Townsend-Austin,Electronics
+954220,Emily,Barker,F,10/24/1985,1473.42,6/20/2023,"Garcia, Brown and Lynch",Travel
+732694,John,Underwood,F,10/29/1964,1253.34,3/11/2023,Johnson Inc,Travel
+231069,Vickie,Wood,F,10/25/1981,2350.16,10/13/2023,"Adams, Reilly and Moore",Travel
+327994,Aaron,Heath,F,10/24/1984,237.99,6/2/2023,"Hawkins, Brown and Smith",Clothing
+428607,Amber,Barnett,F,11/1/1955,13.32,7/13/2023,Wise-Brown,Market
+876483,Nathan,Noble,F,11/1/1952,36.24,8/16/2023,Morris-Clark,Restaurant
+690158,Brian,Li,,10/23/1990,509.41,5/16/2023,Guerra PLC,Electronics
+620684,Victoria,Johnson,M,10/22/1993,53.95,3/2/2023,Garza LLC,Restaurant
+377159,Ray,Beck,F,11/2/1950,36.8,10/7/2023,Carter-Jensen,Restaurant
+716443,Sabrina,Wilson,F,10/30/1963,310.22,4/9/2023,"Mcneil, Dixon and Stone",Market
+138912,Crystal,Moore,M,10/29/1965,14.03,5/3/2023,Williams Inc,Cosmetic
+285093,Jennifer,Ashley,M,10/27/1975,144.51,2/3/2023,Chan Group,Cosmetic
+694463,Michele,Morris,F,10/20/2003,270.93,1/15/2023,Cortez and Sons,Clothing
+456711,Robert,Stephenson,F,10/27/1975,253.76,8/20/2023,James-Phillips,Clothing
+312933,Mia,Rivera,,10/25/1980,293.88,10/14/2023,"Arnold, Farmer and Stokes",Clothing
+475436,George,Carter,F,11/2/1951,25.21,4/10/2023,Baldwin-Smith,Cosmetic
+109554,Frank,Williams,M,10/31/1958,482.33,6/28/2023,"Martin, Crawford and Hall",Market
